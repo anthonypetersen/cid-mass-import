@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_vegetable_intake_screening",
+  "conceptID": 962824349,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "sourceConceptId": 723779304,
+  "responses": [
+    555888342,
+    708991182,
+    784719415,
+    992310951,
+    834379624
+  ]
+}

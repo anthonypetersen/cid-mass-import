@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_smoking_follow_up",
+  "conceptID": 198454332,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "sourceConceptId": 355786284,
+  "responses": [
+    737532966,
+    362342904,
+    347936215,
+    402939888,
+    126196117
+  ]
+}

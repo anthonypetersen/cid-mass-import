@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_vaping_past_30_days",
+  "conceptID": 538917388,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "sourceConceptId": 557196660,
+  "responses": [
+    663346842,
+    396398216,
+    860202867,
+    236435154,
+    429175018
+  ]
+}

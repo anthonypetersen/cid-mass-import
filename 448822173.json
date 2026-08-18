@@ -1,0 +1,10 @@
+{
+  "key": "age_at_first_alcohol_use_past_30_days",
+  "conceptID": 448822173,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

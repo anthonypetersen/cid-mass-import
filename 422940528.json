@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_depression_suspected",
+  "conceptID": 422940528,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "sourceConceptId": 557196660,
+  "responses": [
+    286258710,
+    666013050,
+    898190979,
+    393740167,
+    813184577
+  ]
+}

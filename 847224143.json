@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_radiation_exposure_childhood",
+  "conceptID": 847224143,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "sourceConceptId": 283771088,
+  "responses": [
+    298802151,
+    252374134,
+    725487576,
+    382801992,
+    212420948
+  ]
+}

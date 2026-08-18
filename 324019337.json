@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_radiation_exposure_baseline",
+  "conceptID": 324019337,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "sourceConceptId": 723779304,
+  "responses": [
+    763680175,
+    671737436,
+    888331020,
+    917348031,
+    288089902
+  ]
+}

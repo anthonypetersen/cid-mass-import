@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_diabetes_baseline",
+  "conceptID": 476418917,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "sourceConceptId": 355786284,
+  "responses": [
+    663346842,
+    396398216,
+    860202867,
+    236435154,
+    429175018
+  ]
+}

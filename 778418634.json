@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_hormone_therapy_annual",
+  "conceptID": 778418634,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "responses": [
+    555888342,
+    708991182,
+    784719415,
+    992310951,
+    834379624
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "number_of_red_meat_quarterly",
+  "conceptID": 580667854,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "sourceConceptId": 283771088,
+  "responses": [
+    924508148,
+    490591332,
+    620607721,
+    403265873
+  ]
+}

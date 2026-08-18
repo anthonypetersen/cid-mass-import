@@ -1,0 +1,13 @@
+{
+  "key": "type_of_radiation_exposure_childhood",
+  "conceptID": 847921518,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "responses": [
+    300863917,
+    471575730,
+    247093719,
+    689199750,
+    402338039
+  ]
+}

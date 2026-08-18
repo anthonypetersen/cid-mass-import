@@ -1,0 +1,14 @@
+{
+  "key": "change_in_radiation_exposure_post_enrollment",
+  "conceptID": 233368584,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "sourceConceptId": 167225166,
+  "responses": [
+    311866307,
+    392829047,
+    368902208,
+    388509085,
+    702366122
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "key": "severity_of_depression_confirmed",
+  "conceptID": 238647603,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_colonoscopy_lifetime",
+  "conceptID": 179594954,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "sourceConceptId": 557196660,
+  "responses": [
+    223568566,
+    199848849,
+    114258614,
+    424401117,
+    533550265
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_asthma_most_recent",
+  "conceptID": 292665531,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "responses": [
+    153616768,
+    336497585,
+    704926440,
+    701528419,
+    604901244
+  ]
+}

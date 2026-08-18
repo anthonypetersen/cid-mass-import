@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_pregnancy_past_12_months",
+  "conceptID": 471552484,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "sourceConceptId": 355786284,
+  "responses": [
+    650729817,
+    909602175,
+    169824165,
+    747638213
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_mammogram_first_occurrence",
+  "conceptID": 926109895,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "responses": [
+    737532966,
+    362342904,
+    347936215,
+    402939888,
+    126196117
+  ]
+}

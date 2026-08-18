@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_exercise_post_enrollment",
+  "conceptID": 110406793,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "sourceConceptId": 693873814,
+  "responses": [
+    394585074,
+    545736293,
+    649782848,
+    591725867,
+    630368149
+  ]
+}

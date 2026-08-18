@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_sleep_apnea_quarterly",
+  "conceptID": 212575780,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "sourceConceptId": 872839827,
+  "responses": [
+    568284718,
+    839702582,
+    208533316,
+    996074771,
+    606520193
+  ]
+}

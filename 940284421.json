@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_mammogram_proxy_report",
+  "conceptID": 940284421,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "responses": [
+    663346842,
+    396398216,
+    860202867,
+    236435154,
+    429175018
+  ]
+}

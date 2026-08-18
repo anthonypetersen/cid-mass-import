@@ -1,0 +1,10 @@
+{
+  "key": "current_status_mammogram_self_report",
+  "conceptID": 422443656,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "change_in_radiation_exposure_confirmed",
+  "conceptID": 814008463,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "responses": [
+    453651208,
+    218253522,
+    877331970,
+    432739350,
+    108573748
+  ]
+}

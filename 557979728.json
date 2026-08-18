@@ -1,0 +1,14 @@
+{
+  "key": "current_status_alcohol_use_childhood",
+  "conceptID": 557979728,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "sourceConceptId": 557196660,
+  "responses": [
+    223568566,
+    199848849,
+    114258614,
+    424401117,
+    533550265
+  ]
+}

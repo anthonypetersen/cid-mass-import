@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_diabetes_current",
+  "conceptID": 513488660,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "sourceConceptId": 872839827,
+  "responses": [
+    744733938,
+    814214301,
+    806311897,
+    276332597,
+    699721200
+  ]
+}

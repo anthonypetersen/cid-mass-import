@@ -1,0 +1,14 @@
+{
+  "key": "type_of_fruit_intake_confirmed",
+  "conceptID": 584676448,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "sourceConceptId": 693873814,
+  "responses": [
+    394585074,
+    545736293,
+    649782848,
+    591725867,
+    630368149
+  ]
+}

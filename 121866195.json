@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_sleep_apnea_childhood",
+  "conceptID": 121866195,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "responses": [
+    636615193,
+    390662015,
+    756472591,
+    365687810,
+    504786462
+  ]
+}

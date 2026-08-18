@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_oral_contraceptive_diagnostic",
+  "conceptID": 153693981,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "responses": [
+    663346842,
+    396398216,
+    860202867,
+    236435154,
+    429175018
+  ]
+}

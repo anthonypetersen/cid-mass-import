@@ -1,0 +1,14 @@
+{
+  "key": "type_of_alcohol_use_screening",
+  "conceptID": 459265735,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "sourceConceptId": 693873814,
+  "responses": [
+    891518243,
+    519622922,
+    736729822,
+    230637251,
+    345790951
+  ]
+}

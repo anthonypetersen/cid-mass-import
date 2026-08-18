@@ -1,0 +1,12 @@
+{
+  "key": "self_reported_smoking_proxy_report",
+  "conceptID": 936801048,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "responses": [
+    650729817,
+    909602175,
+    169824165,
+    747638213
+  ]
+}

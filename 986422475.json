@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_pap_test_quarterly",
+  "conceptID": 986422475,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "sourceConceptId": 557196660,
+  "responses": [
+    311866307,
+    392829047,
+    368902208,
+    388509085,
+    702366122
+  ]
+}

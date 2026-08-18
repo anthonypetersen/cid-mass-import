@@ -1,0 +1,11 @@
+{
+  "key": "frequency_of_sleep_apnea_childhood",
+  "conceptID": 665747276,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "responses": [
+    179171223,
+    949361722,
+    948065095
+  ]
+}

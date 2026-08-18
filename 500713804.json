@@ -1,0 +1,14 @@
+{
+  "key": "number_of_oral_contraceptive_baseline",
+  "conceptID": 500713804,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "sourceConceptId": 167225166,
+  "responses": [
+    450679250,
+    591095914,
+    986041937,
+    542799413,
+    873533959
+  ]
+}

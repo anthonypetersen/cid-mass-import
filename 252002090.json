@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_radiation_exposure_lifetime",
+  "conceptID": 252002090,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "responses": [
+    238728227,
+    880867317,
+    573107698,
+    856337830,
+    905055413
+  ]
+}

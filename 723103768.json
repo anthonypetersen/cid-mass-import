@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_pap_test_confirmed",
+  "conceptID": 723103768,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "sourceConceptId": 723779304,
+  "responses": [
+    300863917,
+    471575730,
+    247093719,
+    689199750,
+    402338039
+  ]
+}

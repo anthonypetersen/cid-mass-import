@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_hospitalization_post_enrollment",
+  "conceptID": 628933730,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "sourceConceptId": 355786284,
+  "responses": [
+    636615193,
+    390662015,
+    756472591,
+    365687810,
+    504786462
+  ]
+}

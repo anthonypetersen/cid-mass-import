@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_hormone_therapy_current",
+  "conceptID": 102992815,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "sourceConceptId": 723779304,
+  "responses": [
+    568284718,
+    839702582,
+    208533316,
+    996074771,
+    606520193
+  ]
+}

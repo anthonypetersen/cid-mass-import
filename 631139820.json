@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_surgery_self_report",
+  "conceptID": 631139820,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "responses": [
+    555888342,
+    708991182,
+    784719415,
+    992310951,
+    834379624
+  ]
+}

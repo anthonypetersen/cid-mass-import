@@ -1,0 +1,14 @@
+{
+  "key": "date_of_vegetable_intake_childhood",
+  "conceptID": 280145632,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "sourceConceptId": 363692473,
+  "responses": [
+    763680175,
+    671737436,
+    888331020,
+    917348031,
+    288089902
+  ]
+}

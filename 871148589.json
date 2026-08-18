@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_surgery_post_enrollment",
+  "conceptID": 871148589,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "sourceConceptId": 355786284,
+  "responses": [
+    441937069,
+    740844861,
+    921365155,
+    830529584,
+    495426092
+  ]
+}

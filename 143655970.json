@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_sleep_apnea_past_30_days",
+  "conceptID": 143655970,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "responses": [
+    450679250,
+    591095914,
+    986041937,
+    542799413,
+    873533959
+  ]
+}

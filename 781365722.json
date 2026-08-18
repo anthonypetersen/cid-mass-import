@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_radiation_exposure_adulthood",
+  "conceptID": 781365722,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "sourceConceptId": 283771088,
+  "responses": [
+    225224764,
+    142908205,
+    361886131,
+    496885791,
+    611887522
+  ]
+}

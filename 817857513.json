@@ -1,0 +1,11 @@
+{
+  "key": "confidence_in_hormone_therapy_proxy_report",
+  "conceptID": 817857513,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

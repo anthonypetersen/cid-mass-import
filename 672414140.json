@@ -1,0 +1,14 @@
+{
+  "key": "number_of_smoking_pre_enrollment",
+  "conceptID": 672414140,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "sourceConceptId": 167225166,
+  "responses": [
+    238728227,
+    880867317,
+    573107698,
+    856337830,
+    905055413
+  ]
+}

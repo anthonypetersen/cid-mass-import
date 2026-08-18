@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_chemotherapy_screening",
+  "conceptID": 583296749,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "sourceConceptId": 363692473,
+  "responses": [
+    487358882,
+    552219411,
+    188912142,
+    839503775,
+    151061438
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_hormone_therapy_follow_up",
+  "conceptID": 437153811,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "sourceConceptId": 712692038,
+  "responses": [
+    450679250,
+    591095914,
+    986041937,
+    542799413,
+    873533959
+  ]
+}

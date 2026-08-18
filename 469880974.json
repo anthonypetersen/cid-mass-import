@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_alcohol_use_follow_up",
+  "conceptID": 469880974,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "sourceConceptId": 872839827,
+  "responses": [
+    924508148,
+    490591332,
+    620607721,
+    403265873
+  ]
+}

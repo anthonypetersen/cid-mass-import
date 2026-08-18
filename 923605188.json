@@ -1,0 +1,13 @@
+{
+  "key": "reason_for_hormone_therapy_post_enrollment",
+  "conceptID": 923605188,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "responses": [
+    433550500,
+    306738732,
+    732488174,
+    607645219,
+    185155541
+  ]
+}

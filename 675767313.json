@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_radiation_exposure_pre_enrollment",
+  "conceptID": 675767313,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "responses": [
+    891518243,
+    519622922,
+    736729822,
+    230637251,
+    345790951
+  ]
+}

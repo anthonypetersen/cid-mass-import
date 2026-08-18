@@ -1,0 +1,13 @@
+{
+  "key": "reason_for_pap_test_screening",
+  "conceptID": 743617027,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "responses": [
+    555888342,
+    708991182,
+    784719415,
+    992310951,
+    834379624
+  ]
+}

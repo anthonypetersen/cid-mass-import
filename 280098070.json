@@ -1,0 +1,12 @@
+{
+  "key": "has_ever_sleep_apnea_self_report",
+  "conceptID": 280098070,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "responses": [
+    924508148,
+    490591332,
+    620607721,
+    403265873
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "current_status_hormone_therapy_self_report",
+  "conceptID": 712257168,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "sourceConceptId": 363692473,
+  "responses": [
+    763680175,
+    671737436,
+    888331020,
+    917348031,
+    288089902
+  ]
+}

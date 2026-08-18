@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_chemotherapy_self_report",
+  "conceptID": 869444952,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "responses": [
+    568284718,
+    839702582,
+    208533316,
+    996074771,
+    606520193
+  ]
+}

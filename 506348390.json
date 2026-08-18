@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_colonoscopy_post_enrollment",
+  "conceptID": 506348390,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "responses": [
+    502216051,
+    890542150,
+    712889975,
+    414324578,
+    943778574
+  ]
+}

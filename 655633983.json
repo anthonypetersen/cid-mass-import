@@ -1,0 +1,13 @@
+{
+  "key": "last_occurrence_surgery_suspected",
+  "conceptID": 655633983,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "responses": [
+    433550500,
+    306738732,
+    732488174,
+    607645219,
+    185155541
+  ]
+}

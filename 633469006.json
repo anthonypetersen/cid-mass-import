@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_pregnancy_past_30_days",
+  "conceptID": 633469006,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "sourceConceptId": 872839827,
+  "responses": [
+    858873535,
+    769258593,
+    148190165,
+    162406278,
+    252371216
+  ]
+}

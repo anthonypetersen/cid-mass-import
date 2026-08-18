@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_obesity_first_occurrence",
+  "conceptID": 685742976,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "sourceConceptId": 723779304,
+  "responses": [
+    568284718,
+    839702582,
+    208533316,
+    996074771,
+    606520193
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_pregnancy_annual",
+  "conceptID": 349781406,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "responses": [
+    737532966,
+    362342904,
+    347936215,
+    402939888,
+    126196117
+  ]
+}

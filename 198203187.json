@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_chemotherapy_pre_enrollment",
+  "conceptID": 198203187,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "sourceConceptId": 723779304,
+  "responses": [
+    650729817,
+    909602175,
+    169824165,
+    747638213
+  ]
+}

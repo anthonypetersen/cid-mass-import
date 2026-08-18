@@ -1,0 +1,14 @@
+{
+  "key": "date_of_colonoscopy_diagnostic",
+  "conceptID": 410226071,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "sourceConceptId": 283771088,
+  "responses": [
+    253750658,
+    604867735,
+    363253336,
+    455190699,
+    490969770
+  ]
+}
