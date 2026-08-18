@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_vegetable_intake_current",
+  "conceptID": 225973817,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "sourceConceptId": 693873814,
+  "responses": [
+    924508148,
+    490591332,
+    620607721,
+    403265873
+  ]
+}

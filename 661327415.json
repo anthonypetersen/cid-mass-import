@@ -1,0 +1,11 @@
+{
+  "key": "provider_reported_breastfeeding_screening",
+  "conceptID": 661327415,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "responses": [
+    179171223,
+    949361722,
+    948065095
+  ]
+}

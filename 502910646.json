@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_mammogram_past_30_days",
+  "conceptID": 502910646,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "sourceConceptId": 935055910,
+  "responses": [
+    568284718,
+    839702582,
+    208533316,
+    996074771,
+    606520193
+  ]
+}

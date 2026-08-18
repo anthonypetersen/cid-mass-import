@@ -1,0 +1,14 @@
+{
+  "key": "last_occurrence_hypertension_past_12_months",
+  "conceptID": 577160628,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "sourceConceptId": 935055910,
+  "responses": [
+    298805882,
+    994168209,
+    615116498,
+    989707841,
+    247479546
+  ]
+}

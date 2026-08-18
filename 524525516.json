@@ -1,0 +1,11 @@
+{
+  "key": "duration_of_arthritis_proxy_report",
+  "conceptID": 524525516,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "responses": [
+    179171223,
+    949361722,
+    948065095
+  ]
+}

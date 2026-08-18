@@ -1,0 +1,12 @@
+{
+  "key": "has_ever_arthritis_adulthood",
+  "conceptID": 525500620,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "sourceConceptId": 363692473,
+  "responses": [
+    179171223,
+    949361722,
+    948065095
+  ]
+}

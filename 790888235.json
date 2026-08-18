@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_obesity_post_enrollment",
+  "conceptID": 790888235,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "responses": [
+    298802151,
+    252374134,
+    725487576,
+    382801992,
+    212420948
+  ]
+}

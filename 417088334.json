@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_hypertension_first_occurrence",
+  "conceptID": 417088334,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "responses": [
+    300863917,
+    471575730,
+    247093719,
+    689199750,
+    402338039
+  ]
+}

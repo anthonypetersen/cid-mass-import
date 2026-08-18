@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_colonoscopy_proxy_report",
+  "conceptID": 633568176,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "sourceConceptId": 167225166,
+  "responses": [
+    433550500,
+    306738732,
+    732488174,
+    607645219,
+    185155541
+  ]
+}

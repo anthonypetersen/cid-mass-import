@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_alcohol_use_past_12_months",
+  "conceptID": 580824963,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "sourceConceptId": 167225166,
+  "responses": [
+    298802151,
+    252374134,
+    725487576,
+    382801992,
+    212420948
+  ]
+}

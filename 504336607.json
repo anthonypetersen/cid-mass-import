@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_anxiety_past_30_days",
+  "conceptID": 504336607,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "sourceConceptId": 712692038,
+  "responses": [
+    555888342,
+    708991182,
+    784719415,
+    992310951,
+    834379624
+  ]
+}

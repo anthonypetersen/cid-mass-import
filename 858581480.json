@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_hospitalization_adulthood",
+  "conceptID": 858581480,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "sourceConceptId": 167225166,
+  "responses": [
+    891518243,
+    519622922,
+    736729822,
+    230637251,
+    345790951
+  ]
+}

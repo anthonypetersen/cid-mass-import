@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_vegetable_intake_past_30_days",
+  "conceptID": 988866286,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "sourceConceptId": 355786284,
+  "responses": [
+    453651208,
+    218253522,
+    877331970,
+    432739350,
+    108573748
+  ]
+}

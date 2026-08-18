@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_surgery_first_occurrence",
+  "conceptID": 603491503,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "sourceConceptId": 167225166,
+  "responses": [
+    153616768,
+    336497585,
+    704926440,
+    701528419,
+    604901244
+  ]
+}

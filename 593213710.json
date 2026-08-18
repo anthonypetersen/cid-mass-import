@@ -1,0 +1,11 @@
+{
+  "key": "self_reported_chemotherapy_baseline",
+  "conceptID": 593213710,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "responses": [
+    179171223,
+    949361722,
+    948065095
+  ]
+}

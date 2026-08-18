@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_exercise_most_recent",
+  "conceptID": 243230505,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "sourceConceptId": 167225166,
+  "responses": [
+    441937069,
+    740844861,
+    921365155,
+    830529584,
+    495426092
+  ]
+}

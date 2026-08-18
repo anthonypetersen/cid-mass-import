@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_hospitalization_quarterly",
+  "conceptID": 481495320,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "sourceConceptId": 557196660,
+  "responses": [
+    286258710,
+    666013050,
+    898190979,
+    393740167,
+    813184577
+  ]
+}

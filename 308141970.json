@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_radiation_exposure_most_recent",
+  "conceptID": 308141970,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "responses": [
+    858813191,
+    725558684,
+    994610339,
+    901178317,
+    488702322
+  ]
+}

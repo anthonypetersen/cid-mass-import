@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_sleep_apnea_lifetime",
+  "conceptID": 275347134,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "sourceConceptId": 363692473,
+  "responses": [
+    555888342,
+    708991182,
+    784719415,
+    992310951,
+    834379624
+  ]
+}

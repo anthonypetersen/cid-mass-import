@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_sleep_apnea_lifetime",
+  "conceptID": 362621956,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "sourceConceptId": 723779304,
+  "responses": [
+    394585074,
+    545736293,
+    649782848,
+    591725867,
+    630368149
+  ]
+}

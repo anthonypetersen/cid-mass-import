@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_red_meat_past_12_months",
+  "conceptID": 970318822,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "sourceConceptId": 693873814,
+  "responses": [
+    555888342,
+    708991182,
+    784719415,
+    992310951,
+    834379624
+  ]
+}

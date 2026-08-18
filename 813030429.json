@@ -1,0 +1,14 @@
+{
+  "key": "change_in_fruit_intake_past_12_months",
+  "conceptID": 813030429,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "sourceConceptId": 935055910,
+  "responses": [
+    453651208,
+    218253522,
+    877331970,
+    432739350,
+    108573748
+  ]
+}

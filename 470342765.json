@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_obesity_post_enrollment",
+  "conceptID": 470342765,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "sourceConceptId": 872839827,
+  "responses": [
+    807348323,
+    914297942,
+    184277212,
+    527852618,
+    839755726
+  ]
+}

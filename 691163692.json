@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_pap_test_past_30_days",
+  "conceptID": 691163692,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "responses": [
+    153616768,
+    336497585,
+    704926440,
+    701528419,
+    604901244
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_surgery_childhood",
+  "conceptID": 763866282,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "responses": [
+    253750658,
+    604867735,
+    363253336,
+    455190699,
+    490969770
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_vegetable_intake_annual",
+  "conceptID": 662508998,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "sourceConceptId": 872839827,
+  "responses": [
+    969753436,
+    775097819,
+    695080474,
+    816745084,
+    593927418
+  ]
+}

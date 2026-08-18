@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_skin_exam_childhood",
+  "conceptID": 811017277,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "sourceConceptId": 693873814,
+  "responses": [
+    441937069,
+    740844861,
+    921365155,
+    830529584,
+    495426092
+  ]
+}

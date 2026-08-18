@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_arthritis_past_30_days",
+  "conceptID": 139231260,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "responses": [
+    153616768,
+    336497585,
+    704926440,
+    701528419,
+    604901244
+  ]
+}

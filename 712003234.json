@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_oral_contraceptive_past_12_months",
+  "conceptID": 712003234,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "responses": [
+    858813191,
+    725558684,
+    994610339,
+    901178317,
+    488702322
+  ]
+}

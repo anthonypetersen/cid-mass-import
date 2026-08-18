@@ -1,0 +1,13 @@
+{
+  "key": "current_status_alcohol_use_diagnostic",
+  "conceptID": 292742907,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "responses": [
+    238728227,
+    880867317,
+    573107698,
+    856337830,
+    905055413
+  ]
+}

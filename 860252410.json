@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_fruit_intake_quarterly",
+  "conceptID": 860252410,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "sourceConceptId": 283771088,
+  "responses": [
+    568284718,
+    839702582,
+    208533316,
+    996074771,
+    606520193
+  ]
+}

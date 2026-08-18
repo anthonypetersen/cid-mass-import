@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_vegetable_intake_past_30_days",
+  "conceptID": 194471987,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "sourceConceptId": 557196660,
+  "responses": [
+    555888342,
+    708991182,
+    784719415,
+    992310951,
+    834379624
+  ]
+}

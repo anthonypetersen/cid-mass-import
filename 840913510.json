@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_obesity_pre_enrollment",
+  "conceptID": 840913510,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "responses": [
+    744733938,
+    814214301,
+    806311897,
+    276332597,
+    699721200
+  ]
+}

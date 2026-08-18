@@ -1,0 +1,11 @@
+{
+  "key": "number_of_obesity_past_12_months",
+  "conceptID": 259594688,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "sourceConceptId": 872839827,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

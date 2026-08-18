@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_fruit_intake_lifetime",
+  "conceptID": 675869160,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "sourceConceptId": 723779304,
+  "responses": [
+    238728227,
+    880867317,
+    573107698,
+    856337830,
+    905055413
+  ]
+}

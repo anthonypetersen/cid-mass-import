@@ -1,0 +1,11 @@
+{
+  "key": "self_reported_fruit_intake_adulthood",
+  "conceptID": 557838208,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "sourceConceptId": 723779304,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

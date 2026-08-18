@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_oral_contraceptive_proxy_report",
+  "conceptID": 511031428,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "responses": [
+    225224764,
+    142908205,
+    361886131,
+    496885791,
+    611887522
+  ]
+}

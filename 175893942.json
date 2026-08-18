@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_hospitalization_annual",
+  "conceptID": 175893942,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "sourceConceptId": 557196660,
+  "responses": [
+    300863917,
+    471575730,
+    247093719,
+    689199750,
+    402338039
+  ]
+}

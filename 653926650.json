@@ -1,0 +1,10 @@
+{
+  "key": "duration_of_colonoscopy_most_recent",
+  "conceptID": 653926650,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

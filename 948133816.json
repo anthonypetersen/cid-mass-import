@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_pap_test_screening",
+  "conceptID": 948133816,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "sourceConceptId": 167225166,
+  "responses": [
+    636615193,
+    390662015,
+    756472591,
+    365687810,
+    504786462
+  ]
+}

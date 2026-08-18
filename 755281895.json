@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_sleep_apnea_suspected",
+  "conceptID": 755281895,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "sourceConceptId": 872839827,
+  "responses": [
+    300863917,
+    471575730,
+    247093719,
+    689199750,
+    402338039
+  ]
+}

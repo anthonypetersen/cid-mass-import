@@ -1,0 +1,14 @@
+{
+  "key": "date_of_hospitalization_childhood",
+  "conceptID": 768146557,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "sourceConceptId": 935055910,
+  "responses": [
+    216981353,
+    975471774,
+    260555361,
+    738486687,
+    729722106
+  ]
+}

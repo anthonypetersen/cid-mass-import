@@ -1,0 +1,11 @@
+{
+  "key": "reason_for_hospitalization_adulthood",
+  "conceptID": 587499473,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "sourceConceptId": 723779304,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

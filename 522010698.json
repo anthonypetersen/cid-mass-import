@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_sun_exposure_post_enrollment",
+  "conceptID": 522010698,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "responses": [
+    807348323,
+    914297942,
+    184277212,
+    527852618,
+    839755726
+  ]
+}

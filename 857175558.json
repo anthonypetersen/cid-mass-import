@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_colonoscopy_most_recent",
+  "conceptID": 857175558,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "responses": [
+    807348323,
+    914297942,
+    184277212,
+    527852618,
+    839755726
+  ]
+}

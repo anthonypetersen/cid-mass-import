@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_anxiety_diagnostic",
+  "conceptID": 992243402,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "sourceConceptId": 693873814,
+  "responses": [
+    253750658,
+    604867735,
+    363253336,
+    455190699,
+    490969770
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "date_of_asthma_adulthood",
+  "conceptID": 266757831,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "sourceConceptId": 723779304,
+  "responses": [
+    453651208,
+    218253522,
+    877331970,
+    432739350,
+    108573748
+  ]
+}

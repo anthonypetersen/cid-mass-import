@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_obesity_past_12_months",
+  "conceptID": 808572605,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "sourceConceptId": 935055910,
+  "responses": [
+    382415328,
+    138173599,
+    619782256,
+    286918962,
+    533380688
+  ]
+}

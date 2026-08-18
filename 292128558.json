@@ -1,0 +1,12 @@
+{
+  "key": "change_in_hypertension_first_occurrence",
+  "conceptID": 292128558,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "sourceConceptId": 723779304,
+  "responses": [
+    179171223,
+    949361722,
+    948065095
+  ]
+}

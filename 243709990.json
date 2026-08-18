@@ -1,0 +1,10 @@
+{
+  "key": "last_occurrence_pregnancy_self_report",
+  "conceptID": 243709990,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

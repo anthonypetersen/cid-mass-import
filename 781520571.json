@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_surgery_post_enrollment",
+  "conceptID": 781520571,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "responses": [
+    668452406,
+    853278450,
+    867667360,
+    639450290,
+    415974054
+  ]
+}

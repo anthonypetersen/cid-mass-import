@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_red_meat_diagnostic",
+  "conceptID": 101872501,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "sourceConceptId": 167225166,
+  "responses": [
+    969753436,
+    775097819,
+    695080474,
+    816745084,
+    593927418
+  ]
+}

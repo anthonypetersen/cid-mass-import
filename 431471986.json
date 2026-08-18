@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_hospitalization_quarterly",
+  "conceptID": 431471986,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "sourceConceptId": 363692473,
+  "responses": [
+    453651208,
+    218253522,
+    877331970,
+    432739350,
+    108573748
+  ]
+}
