@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_mammogram_diagnostic",
+  "conceptID": 204140706,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "responses": [
+    566024300,
+    499189394,
+    522125122,
+    513154086,
+    482548207
+  ]
+}

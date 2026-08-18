@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_asthma_lifetime",
+  "conceptID": 203910128,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "sourceConceptId": 355786284,
+  "responses": [
+    238728227,
+    880867317,
+    573107698,
+    856337830,
+    905055413
+  ]
+}

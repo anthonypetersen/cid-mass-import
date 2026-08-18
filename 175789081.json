@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_radiation_exposure_diagnostic",
+  "conceptID": 175789081,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "responses": [
+    253750658,
+    604867735,
+    363253336,
+    455190699,
+    490969770
+  ]
+}

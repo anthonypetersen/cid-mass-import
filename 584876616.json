@@ -1,0 +1,14 @@
+{
+  "key": "last_occurrence_obesity_post_enrollment",
+  "conceptID": 584876616,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 723779304,
+  "responses": [
+    969753436,
+    775097819,
+    695080474,
+    816745084,
+    593927418
+  ]
+}

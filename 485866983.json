@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_vaping_post_enrollment",
+  "conceptID": 485866983,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "responses": [
+    441937069,
+    740844861,
+    921365155,
+    830529584,
+    495426092
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_hypertension_current",
+  "conceptID": 730382159,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 723779304,
+  "responses": [
+    744733938,
+    814214301,
+    806311897,
+    276332597,
+    699721200
+  ]
+}

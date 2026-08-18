@@ -1,0 +1,12 @@
+{
+  "key": "severity_of_alcohol_use_adulthood",
+  "conceptID": 447335113,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "sourceConceptId": 693873814,
+  "responses": [
+    179171223,
+    949361722,
+    948065095
+  ]
+}

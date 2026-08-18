@@ -1,0 +1,14 @@
+{
+  "key": "date_of_pregnancy_confirmed",
+  "conceptID": 424416768,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "sourceConceptId": 723779304,
+  "responses": [
+    153616768,
+    336497585,
+    704926440,
+    701528419,
+    604901244
+  ]
+}

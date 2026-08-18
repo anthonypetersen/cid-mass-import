@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_oral_contraceptive_baseline",
+  "conceptID": 653586941,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "sourceConceptId": 723779304,
+  "responses": [
+    924508148,
+    490591332,
+    620607721,
+    403265873
+  ]
+}

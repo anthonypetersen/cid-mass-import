@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_vegetable_intake_quarterly",
+  "conceptID": 299865092,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "responses": [
+    298802151,
+    252374134,
+    725487576,
+    382801992,
+    212420948
+  ]
+}

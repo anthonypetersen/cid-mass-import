@@ -1,0 +1,11 @@
+{
+  "key": "self_reported_psa_test_confirmed",
+  "conceptID": 582152377,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "responses": [
+    179171223,
+    949361722,
+    948065095
+  ]
+}

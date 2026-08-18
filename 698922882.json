@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_oral_contraceptive_screening",
+  "conceptID": 698922882,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "sourceConceptId": 712692038,
+  "responses": [
+    668452406,
+    853278450,
+    867667360,
+    639450290,
+    415974054
+  ]
+}

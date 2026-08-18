@@ -1,0 +1,12 @@
+{
+  "key": "age_at_first_hypertension_screening",
+  "conceptID": 163249980,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "responses": [
+    924508148,
+    490591332,
+    620607721,
+    403265873
+  ]
+}

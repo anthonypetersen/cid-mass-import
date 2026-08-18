@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_sun_exposure_most_recent",
+  "conceptID": 406009022,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "responses": [
+    225224764,
+    142908205,
+    361886131,
+    496885791,
+    611887522
+  ]
+}

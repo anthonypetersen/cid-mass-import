@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_fruit_intake_past_12_months",
+  "conceptID": 538502436,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "sourceConceptId": 693873814,
+  "responses": [
+    394585074,
+    545736293,
+    649782848,
+    591725867,
+    630368149
+  ]
+}

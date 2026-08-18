@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_vaping_proxy_report",
+  "conceptID": 456466803,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "sourceConceptId": 935055910,
+  "responses": [
+    858813191,
+    725558684,
+    994610339,
+    901178317,
+    488702322
+  ]
+}

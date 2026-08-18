@@ -1,0 +1,14 @@
+{
+  "key": "number_of_hormone_therapy_past_30_days",
+  "conceptID": 111650792,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "sourceConceptId": 557196660,
+  "responses": [
+    577501635,
+    593161478,
+    682637029,
+    493470379,
+    221342818
+  ]
+}

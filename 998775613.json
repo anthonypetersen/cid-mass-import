@@ -1,0 +1,14 @@
+{
+  "key": "type_of_hormone_therapy_annual",
+  "conceptID": 998775613,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "sourceConceptId": 723779304,
+  "responses": [
+    663346842,
+    396398216,
+    860202867,
+    236435154,
+    429175018
+  ]
+}

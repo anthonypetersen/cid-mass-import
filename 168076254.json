@@ -1,0 +1,13 @@
+{
+  "key": "has_ever_smoking_self_report",
+  "conceptID": 168076254,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "sourceConceptId": 693873814,
+  "responses": [
+    924508148,
+    490591332,
+    620607721,
+    403265873
+  ]
+}

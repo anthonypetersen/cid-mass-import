@@ -1,0 +1,12 @@
+{
+  "key": "type_of_pregnancy_baseline",
+  "conceptID": 501571502,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "sourceConceptId": 167225166,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

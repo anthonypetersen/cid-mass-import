@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_radiation_exposure_first_occurrence",
+  "conceptID": 882959728,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "sourceConceptId": 355786284,
+  "responses": [
+    891518243,
+    519622922,
+    736729822,
+    230637251,
+    345790951
+  ]
+}

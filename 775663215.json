@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_chemotherapy_follow_up",
+  "conceptID": 775663215,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "responses": [
+    453651208,
+    218253522,
+    877331970,
+    432739350,
+    108573748
+  ]
+}

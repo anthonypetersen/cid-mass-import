@@ -1,0 +1,14 @@
+{
+  "key": "type_of_chemotherapy_suspected",
+  "conceptID": 125102804,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "sourceConceptId": 355786284,
+  "responses": [
+    223568566,
+    199848849,
+    114258614,
+    424401117,
+    533550265
+  ]
+}

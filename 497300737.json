@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_hormone_therapy_quarterly",
+  "conceptID": 497300737,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "sourceConceptId": 723779304,
+  "responses": [
+    225224764,
+    142908205,
+    361886131,
+    496885791,
+    611887522
+  ]
+}

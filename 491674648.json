@@ -1,0 +1,14 @@
+{
+  "key": "last_occurrence_mammogram_quarterly",
+  "conceptID": 491674648,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "sourceConceptId": 935055910,
+  "responses": [
+    298805882,
+    994168209,
+    615116498,
+    989707841,
+    247479546
+  ]
+}

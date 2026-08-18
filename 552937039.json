@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_diabetes_past_30_days",
+  "conceptID": 552937039,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "sourceConceptId": 167225166,
+  "responses": [
+    502216051,
+    890542150,
+    712889975,
+    414324578,
+    943778574
+  ]
+}

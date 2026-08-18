@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_chemotherapy_annual",
+  "conceptID": 856101792,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "sourceConceptId": 693873814,
+  "responses": [
+    300863917,
+    471575730,
+    247093719,
+    689199750,
+    402338039
+  ]
+}

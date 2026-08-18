@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_fruit_intake_lifetime",
+  "conceptID": 646335944,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "responses": [
+    253750658,
+    604867735,
+    363253336,
+    455190699,
+    490969770
+  ]
+}

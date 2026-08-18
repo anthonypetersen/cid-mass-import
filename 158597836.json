@@ -1,0 +1,14 @@
+{
+  "key": "change_in_sunscreen_use_pre_enrollment",
+  "conceptID": 158597836,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 355786284,
+  "responses": [
+    311866307,
+    392829047,
+    368902208,
+    388509085,
+    702366122
+  ]
+}

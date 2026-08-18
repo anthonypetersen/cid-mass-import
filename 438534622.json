@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_asthma_diagnostic",
+  "conceptID": 438534622,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 872839827,
+  "responses": [
+    566024300,
+    499189394,
+    522125122,
+    513154086,
+    482548207
+  ]
+}

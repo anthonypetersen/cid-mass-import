@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_asthma_screening",
+  "conceptID": 132776131,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "sourceConceptId": 363692473,
+  "responses": [
+    300863917,
+    471575730,
+    247093719,
+    689199750,
+    402338039
+  ]
+}

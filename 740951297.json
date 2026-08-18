@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_pregnancy_childhood",
+  "conceptID": 740951297,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "sourceConceptId": 935055910,
+  "responses": [
+    763680175,
+    671737436,
+    888331020,
+    917348031,
+    288089902
+  ]
+}

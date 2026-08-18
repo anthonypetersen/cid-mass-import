@@ -1,0 +1,14 @@
+{
+  "key": "date_of_hypertension_adulthood",
+  "conceptID": 856276577,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 935055910,
+  "responses": [
+    969753436,
+    775097819,
+    695080474,
+    816745084,
+    593927418
+  ]
+}

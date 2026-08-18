@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_sleep_apnea_pre_enrollment",
+  "conceptID": 709359842,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "responses": [
+    441937069,
+    740844861,
+    921365155,
+    830529584,
+    495426092
+  ]
+}

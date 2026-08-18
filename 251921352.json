@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_vegetable_intake_quarterly",
+  "conceptID": 251921352,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "sourceConceptId": 723779304,
+  "responses": [
+    286258710,
+    666013050,
+    898190979,
+    393740167,
+    813184577
+  ]
+}

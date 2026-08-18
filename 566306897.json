@@ -1,0 +1,14 @@
+{
+  "key": "change_in_asthma_pre_enrollment",
+  "conceptID": 566306897,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "sourceConceptId": 935055910,
+  "responses": [
+    487358882,
+    552219411,
+    188912142,
+    839503775,
+    151061438
+  ]
+}

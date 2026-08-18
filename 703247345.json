@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_chemotherapy_screening",
+  "conceptID": 703247345,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 363692473,
+  "responses": [
+    663346842,
+    396398216,
+    860202867,
+    236435154,
+    429175018
+  ]
+}

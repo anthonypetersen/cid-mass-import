@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_arthritis_lifetime",
+  "conceptID": 295786838,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "sourceConceptId": 363692473,
+  "responses": [
+    924508148,
+    490591332,
+    620607721,
+    403265873
+  ]
+}

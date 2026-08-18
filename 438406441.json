@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_radiation_exposure_post_enrollment",
+  "conceptID": 438406441,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "sourceConceptId": 693873814,
+  "responses": [
+    650729817,
+    909602175,
+    169824165,
+    747638213
+  ]
+}

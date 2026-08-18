@@ -1,0 +1,11 @@
+{
+  "key": "reason_for_hypertension_diagnostic",
+  "conceptID": 879000963,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

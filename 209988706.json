@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_hospitalization_first_occurrence",
+  "conceptID": 209988706,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 872839827,
+  "responses": [
+    476519996,
+    717523111,
+    458662226,
+    402508719,
+    906077259
+  ]
+}

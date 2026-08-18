@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_hypertension_childhood",
+  "conceptID": 295331668,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "responses": [
+    502216051,
+    890542150,
+    712889975,
+    414324578,
+    943778574
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_hormone_therapy_quarterly",
+  "conceptID": 152835360,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 693873814,
+  "responses": [
+    568284718,
+    839702582,
+    208533316,
+    996074771,
+    606520193
+  ]
+}

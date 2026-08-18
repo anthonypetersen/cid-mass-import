@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_radiation_exposure_past_12_months",
+  "conceptID": 240909667,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 355786284,
+  "responses": [
+    969753436,
+    775097819,
+    695080474,
+    816745084,
+    593927418
+  ]
+}

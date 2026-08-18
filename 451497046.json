@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_hormone_therapy_screening",
+  "conceptID": 451497046,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 557196660,
+  "responses": [
+    223568566,
+    199848849,
+    114258614,
+    424401117,
+    533550265
+  ]
+}

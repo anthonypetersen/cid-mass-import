@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_pregnancy_suspected",
+  "conceptID": 120861100,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "responses": [
+    394585074,
+    545736293,
+    649782848,
+    591725867,
+    630368149
+  ]
+}

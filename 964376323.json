@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_vegetable_intake_diagnostic",
+  "conceptID": 964376323,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "responses": [
+    453651208,
+    218253522,
+    877331970,
+    432739350,
+    108573748
+  ]
+}

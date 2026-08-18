@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_alcohol_use_baseline",
+  "conceptID": 100762048,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "sourceConceptId": 363692473,
+  "responses": [
+    891518243,
+    519622922,
+    736729822,
+    230637251,
+    345790951
+  ]
+}

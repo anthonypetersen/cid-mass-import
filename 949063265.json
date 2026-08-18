@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_smoking_baseline",
+  "conceptID": 949063265,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "sourceConceptId": 283771088,
+  "responses": [
+    253750658,
+    604867735,
+    363253336,
+    455190699,
+    490969770
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_obesity_annual",
+  "conceptID": 344160602,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "sourceConceptId": 723779304,
+  "responses": [
+    502216051,
+    890542150,
+    712889975,
+    414324578,
+    943778574
+  ]
+}

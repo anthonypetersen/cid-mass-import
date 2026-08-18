@@ -1,0 +1,14 @@
+{
+  "key": "date_of_oral_contraceptive_follow_up",
+  "conceptID": 288419276,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "sourceConceptId": 363692473,
+  "responses": [
+    636615193,
+    390662015,
+    756472591,
+    365687810,
+    504786462
+  ]
+}

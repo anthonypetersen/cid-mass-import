@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_hypertension_baseline",
+  "conceptID": 131228361,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "sourceConceptId": 872839827,
+  "responses": [
+    225224764,
+    142908205,
+    361886131,
+    496885791,
+    611887522
+  ]
+}

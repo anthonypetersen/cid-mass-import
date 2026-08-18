@@ -1,0 +1,14 @@
+{
+  "key": "date_of_colonoscopy_adulthood",
+  "conceptID": 359431500,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "sourceConceptId": 363692473,
+  "responses": [
+    223568566,
+    199848849,
+    114258614,
+    424401117,
+    533550265
+  ]
+}

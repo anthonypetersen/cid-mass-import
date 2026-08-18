@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_alcohol_use_current",
+  "conceptID": 703255717,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "responses": [
+    394585074,
+    545736293,
+    649782848,
+    591725867,
+    630368149
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "key": "self_reported_surgery_most_recent",
+  "conceptID": 482002801,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "responses": [
+    650729817,
+    909602175,
+    169824165,
+    747638213
+  ]
+}

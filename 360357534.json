@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_depression_self_report",
+  "conceptID": 360357534,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "sourceConceptId": 872839827,
+  "responses": [
+    286258710,
+    666013050,
+    898190979,
+    393740167,
+    813184577
+  ]
+}

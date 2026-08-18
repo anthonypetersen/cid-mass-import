@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_sun_exposure_quarterly",
+  "conceptID": 156622126,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "sourceConceptId": 693873814,
+  "responses": [
+    216981353,
+    975471774,
+    260555361,
+    738486687,
+    729722106
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_breastfeeding_self_report",
+  "conceptID": 253341028,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "responses": [
+    555888342,
+    708991182,
+    784719415,
+    992310951,
+    834379624
+  ]
+}

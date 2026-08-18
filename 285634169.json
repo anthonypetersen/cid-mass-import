@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_red_meat_past_30_days",
+  "conceptID": 285634169,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "responses": [
+    566024300,
+    499189394,
+    522125122,
+    513154086,
+    482548207
+  ]
+}

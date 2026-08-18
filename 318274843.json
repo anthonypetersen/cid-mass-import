@@ -1,0 +1,14 @@
+{
+  "key": "date_of_anxiety_screening",
+  "conceptID": 318274843,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "sourceConceptId": 935055910,
+  "responses": [
+    502216051,
+    890542150,
+    712889975,
+    414324578,
+    943778574
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_oral_contraceptive_pre_enrollment",
+  "conceptID": 944048067,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 693873814,
+  "responses": [
+    238728227,
+    880867317,
+    573107698,
+    856337830,
+    905055413
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_alcohol_use_most_recent",
+  "conceptID": 123824085,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "sourceConceptId": 557196660,
+  "responses": [
+    300863917,
+    471575730,
+    247093719,
+    689199750,
+    402338039
+  ]
+}
