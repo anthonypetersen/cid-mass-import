@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_arthritis_first_occurrence",
+  "conceptID": 668174882,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "sourceConceptId": 723779304,
+  "responses": [
+    555888342,
+    708991182,
+    784719415,
+    992310951,
+    834379624
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "key": "provider_reported_surgery_quarterly",
+  "conceptID": 400686515,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "sourceConceptId": 872839827,
+  "responses": [
+    179171223,
+    949361722,
+    948065095
+  ]
+}

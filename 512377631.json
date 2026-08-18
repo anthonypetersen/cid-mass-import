@@ -1,0 +1,11 @@
+{
+  "key": "reason_for_hospitalization_follow_up",
+  "conceptID": 512377631,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_sleep_apnea_diagnostic",
+  "conceptID": 215854350,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "sourceConceptId": 557196660,
+  "responses": [
+    824360475,
+    574348834,
+    259149194,
+    170277529,
+    186288482
+  ]
+}

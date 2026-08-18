@@ -1,0 +1,14 @@
+{
+  "key": "current_status_depression_first_occurrence",
+  "conceptID": 364126713,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 723779304,
+  "responses": [
+    763680175,
+    671737436,
+    888331020,
+    917348031,
+    288089902
+  ]
+}

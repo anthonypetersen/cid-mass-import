@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_radiation_exposure_diagnostic",
+  "conceptID": 287884599,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "sourceConceptId": 167225166,
+  "responses": [
+    298805882,
+    994168209,
+    615116498,
+    989707841,
+    247479546
+  ]
+}

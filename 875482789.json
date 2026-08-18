@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_pregnancy_past_30_days",
+  "conceptID": 875482789,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "responses": [
+    891518243,
+    519622922,
+    736729822,
+    230637251,
+    345790951
+  ]
+}

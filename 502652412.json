@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_smoking_childhood",
+  "conceptID": 502652412,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "sourceConceptId": 557196660,
+  "responses": [
+    969753436,
+    775097819,
+    695080474,
+    816745084,
+    593927418
+  ]
+}

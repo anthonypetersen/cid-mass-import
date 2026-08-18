@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_radiation_exposure_proxy_report",
+  "conceptID": 434839513,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 355786284,
+  "responses": [
+    502216051,
+    890542150,
+    712889975,
+    414324578,
+    943778574
+  ]
+}

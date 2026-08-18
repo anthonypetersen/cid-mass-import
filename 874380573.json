@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_mammogram_diagnostic",
+  "conceptID": 874380573,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 355786284,
+  "responses": [
+    382415328,
+    138173599,
+    619782256,
+    286918962,
+    533380688
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "type_of_obesity_quarterly",
+  "conceptID": 186941101,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 167225166,
+  "responses": [
+    941380958,
+    350426324,
+    735926855,
+    261660447,
+    223568566
+  ]
+}

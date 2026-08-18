@@ -1,0 +1,14 @@
+{
+  "key": "current_status_vegetable_intake_lifetime",
+  "conceptID": 358581738,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "sourceConceptId": 723779304,
+  "responses": [
+    941380958,
+    350426324,
+    735926855,
+    261660447,
+    223568566
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "date_of_radiation_exposure_first_occurrence",
+  "conceptID": 493072624,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "responses": [
+    223568566,
+    199848849,
+    114258614,
+    424401117,
+    533550265
+  ]
+}

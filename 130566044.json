@@ -1,0 +1,14 @@
+{
+  "key": "date_of_sleep_apnea_annual",
+  "conceptID": 130566044,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 693873814,
+  "responses": [
+    763680175,
+    671737436,
+    888331020,
+    917348031,
+    288089902
+  ]
+}

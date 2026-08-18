@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_oral_contraceptive_confirmed",
+  "conceptID": 662461256,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "responses": [
+    636615193,
+    390662015,
+    756472591,
+    365687810,
+    504786462
+  ]
+}

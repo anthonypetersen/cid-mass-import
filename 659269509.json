@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_hypertension_past_30_days",
+  "conceptID": 659269509,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "responses": [
+    668452406,
+    853278450,
+    867667360,
+    639450290,
+    415974054
+  ]
+}

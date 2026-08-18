@@ -1,0 +1,14 @@
+{
+  "key": "last_occurrence_smoking_screening",
+  "conceptID": 230364933,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 872839827,
+  "responses": [
+    433550500,
+    306738732,
+    732488174,
+    607645219,
+    185155541
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_asthma_post_enrollment",
+  "conceptID": 384978874,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 872839827,
+  "responses": [
+    153616768,
+    336497585,
+    704926440,
+    701528419,
+    604901244
+  ]
+}

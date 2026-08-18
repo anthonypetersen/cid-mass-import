@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_hospitalization_past_30_days",
+  "conceptID": 745511705,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 283771088,
+  "responses": [
+    941380958,
+    350426324,
+    735926855,
+    261660447,
+    223568566
+  ]
+}

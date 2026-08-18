@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_sleep_apnea_adulthood",
+  "conceptID": 130150633,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 693873814,
+  "responses": [
+    969753436,
+    775097819,
+    695080474,
+    816745084,
+    593927418
+  ]
+}

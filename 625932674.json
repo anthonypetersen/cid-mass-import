@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_oral_contraceptive_proxy_report",
+  "conceptID": 625932674,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "sourceConceptId": 712692038,
+  "responses": [
+    663346842,
+    396398216,
+    860202867,
+    236435154,
+    429175018
+  ]
+}

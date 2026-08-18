@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_diabetes_pre_enrollment",
+  "conceptID": 832521921,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 373266670,
+  "sourceConceptId": 363692473,
+  "responses": [
+    924508148,
+    490591332,
+    620607721,
+    403265873
+  ]
+}

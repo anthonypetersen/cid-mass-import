@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_sleep_apnea_pre_enrollment",
+  "conceptID": 454586830,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 373266670,
+  "responses": [
+    311866307,
+    392829047,
+    368902208,
+    388509085,
+    702366122
+  ]
+}

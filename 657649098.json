@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_asthma_first_occurrence",
+  "conceptID": 657649098,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 373266670,
+  "sourceConceptId": 363692473,
+  "responses": [
+    577501635,
+    593161478,
+    682637029,
+    493470379,
+    221342818
+  ]
+}

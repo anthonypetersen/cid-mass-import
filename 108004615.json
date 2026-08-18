@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_chemotherapy_past_12_months",
+  "conceptID": 108004615,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 373266670,
+  "sourceConceptId": 283771088,
+  "responses": [
+    502216051,
+    890542150,
+    712889975,
+    414324578,
+    943778574
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_alcohol_use_past_30_days",
+  "conceptID": 776044722,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "responses": [
+    311866307,
+    392829047,
+    368902208,
+    388509085,
+    702366122
+  ]
+}

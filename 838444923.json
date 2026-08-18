@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_sunscreen_use_confirmed",
+  "conceptID": 838444923,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "sourceConceptId": 935055910,
+  "responses": [
+    568284718,
+    839702582,
+    208533316,
+    996074771,
+    606520193
+  ]
+}

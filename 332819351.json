@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_breastfeeding_proxy_report",
+  "conceptID": 332819351,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "sourceConceptId": 355786284,
+  "responses": [
+    300863917,
+    471575730,
+    247093719,
+    689199750,
+    402338039
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "current_status_breastfeeding_pre_enrollment",
+  "conceptID": 133483978,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 373266670,
+  "sourceConceptId": 712692038,
+  "responses": [
+    566024300,
+    499189394,
+    522125122,
+    513154086,
+    482548207
+  ]
+}

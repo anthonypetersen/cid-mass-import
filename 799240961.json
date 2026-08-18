@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_sun_exposure_lifetime",
+  "conceptID": 799240961,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 373266670,
+  "sourceConceptId": 693873814,
+  "responses": [
+    924508148,
+    490591332,
+    620607721,
+    403265873
+  ]
+}

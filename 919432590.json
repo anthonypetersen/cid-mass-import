@@ -1,0 +1,14 @@
+{
+  "key": "date_of_diabetes_current",
+  "conceptID": 919432590,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 355786284,
+  "responses": [
+    398729598,
+    376835754,
+    232880924,
+    554137503,
+    340659906
+  ]
+}

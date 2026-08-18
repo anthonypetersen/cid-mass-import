@@ -1,0 +1,14 @@
+{
+  "key": "type_of_depression_past_12_months",
+  "conceptID": 819363676,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 373266670,
+  "sourceConceptId": 723779304,
+  "responses": [
+    238728227,
+    880867317,
+    573107698,
+    856337830,
+    905055413
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_chemotherapy_quarterly",
+  "conceptID": 623956529,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "sourceConceptId": 167225166,
+  "responses": [
+    487358882,
+    552219411,
+    188912142,
+    839503775,
+    151061438
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "date_of_diabetes_baseline",
+  "conceptID": 926538198,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 373266670,
+  "sourceConceptId": 557196660,
+  "responses": [
+    441937069,
+    740844861,
+    921365155,
+    830529584,
+    495426092
+  ]
+}

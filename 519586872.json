@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_alcohol_use_baseline",
+  "conceptID": 519586872,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 557196660,
+  "responses": [
+    941380958,
+    350426324,
+    735926855,
+    261660447,
+    223568566
+  ]
+}

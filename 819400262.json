@@ -1,0 +1,14 @@
+{
+  "key": "type_of_oral_contraceptive_pre_enrollment",
+  "conceptID": 819400262,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "sourceConceptId": 363692473,
+  "responses": [
+    398729598,
+    376835754,
+    232880924,
+    554137503,
+    340659906
+  ]
+}

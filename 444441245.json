@@ -1,0 +1,12 @@
+{
+  "key": "current_status_arthritis_suspected",
+  "conceptID": 444441245,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "responses": [
+    924508148,
+    490591332,
+    620607721,
+    403265873
+  ]
+}

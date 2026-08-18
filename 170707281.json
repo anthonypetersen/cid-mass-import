@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_vegetable_intake_diagnostic",
+  "conceptID": 170707281,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "responses": [
+    502216051,
+    890542150,
+    712889975,
+    414324578,
+    943778574
+  ]
+}

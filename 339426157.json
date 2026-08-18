@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_anxiety_post_enrollment",
+  "conceptID": 339426157,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 283771088,
+  "responses": [
+    394585074,
+    545736293,
+    649782848,
+    591725867,
+    630368149
+  ]
+}

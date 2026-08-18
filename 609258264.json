@@ -1,0 +1,13 @@
+{
+  "key": "has_ever_mammogram_past_30_days",
+  "conceptID": 609258264,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "responses": [
+    763680175,
+    671737436,
+    888331020,
+    917348031,
+    288089902
+  ]
+}

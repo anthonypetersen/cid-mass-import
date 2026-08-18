@@ -1,0 +1,10 @@
+{
+  "key": "severity_of_mammogram_lifetime",
+  "conceptID": 973620897,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

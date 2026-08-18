@@ -1,0 +1,13 @@
+{
+  "key": "reason_for_skin_exam_diagnostic",
+  "conceptID": 440610638,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 712692038,
+  "responses": [
+    924508148,
+    490591332,
+    620607721,
+    403265873
+  ]
+}

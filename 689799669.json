@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_breastfeeding_diagnostic",
+  "conceptID": 689799669,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 283771088,
+  "responses": [
+    577501635,
+    593161478,
+    682637029,
+    493470379,
+    221342818
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_fruit_intake_pre_enrollment",
+  "conceptID": 349069599,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 872839827,
+  "responses": [
+    577501635,
+    593161478,
+    682637029,
+    493470379,
+    221342818
+  ]
+}

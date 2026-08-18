@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_psa_test_proxy_report",
+  "conceptID": 691969764,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 723779304,
+  "responses": [
+    286258710,
+    666013050,
+    898190979,
+    393740167,
+    813184577
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "key": "duration_of_fruit_intake_past_12_months",
+  "conceptID": 996598601,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

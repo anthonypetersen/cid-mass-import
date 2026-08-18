@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_exercise_diagnostic",
+  "conceptID": 389074120,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "sourceConceptId": 872839827,
+  "responses": [
+    286258710,
+    666013050,
+    898190979,
+    393740167,
+    813184577
+  ]
+}

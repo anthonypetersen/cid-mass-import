@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_hormone_therapy_suspected",
+  "conceptID": 328918427,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "sourceConceptId": 355786284,
+  "responses": [
+    298805882,
+    994168209,
+    615116498,
+    989707841,
+    247479546
+  ]
+}

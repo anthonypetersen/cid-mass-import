@@ -1,0 +1,10 @@
+{
+  "key": "type_of_colonoscopy_follow_up",
+  "conceptID": 201916952,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

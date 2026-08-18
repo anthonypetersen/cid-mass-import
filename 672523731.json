@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_exercise_confirmed",
+  "conceptID": 672523731,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "sourceConceptId": 283771088,
+  "responses": [
+    924508148,
+    490591332,
+    620607721,
+    403265873
+  ]
+}

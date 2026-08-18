@@ -1,0 +1,12 @@
+{
+  "key": "frequency_of_vaping_first_occurrence",
+  "conceptID": 946018277,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 373266670,
+  "sourceConceptId": 557196660,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

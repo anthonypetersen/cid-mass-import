@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_asthma_screening",
+  "conceptID": 269844386,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "responses": [
+    433550500,
+    306738732,
+    732488174,
+    607645219,
+    185155541
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "key": "duration_of_obesity_current",
+  "conceptID": 416181703,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 723779304,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

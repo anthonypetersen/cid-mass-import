@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_vegetable_intake_pre_enrollment",
+  "conceptID": 742266070,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 373266670,
+  "sourceConceptId": 712692038,
+  "responses": [
+    763680175,
+    671737436,
+    888331020,
+    917348031,
+    288089902
+  ]
+}

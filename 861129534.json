@@ -1,0 +1,14 @@
+{
+  "key": "type_of_hospitalization_quarterly",
+  "conceptID": 861129534,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 363692473,
+  "responses": [
+    663346842,
+    396398216,
+    860202867,
+    236435154,
+    429175018
+  ]
+}

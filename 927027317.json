@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_smoking_annual",
+  "conceptID": 927027317,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 872839827,
+  "responses": [
+    223568566,
+    199848849,
+    114258614,
+    424401117,
+    533550265
+  ]
+}
