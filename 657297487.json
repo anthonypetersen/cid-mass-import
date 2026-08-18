@@ -1,0 +1,12 @@
+{
+  "key": "self_reported_diabetes_past_12_months",
+  "conceptID": 657297487,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "responses": [
+    924508148,
+    490591332,
+    620607721,
+    403265873
+  ]
+}

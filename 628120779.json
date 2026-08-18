@@ -1,0 +1,11 @@
+{
+  "key": "confidence_in_hormone_therapy_self_report",
+  "conceptID": 628120779,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "sourceConceptId": 693873814,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_asthma_current",
+  "conceptID": 927499821,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "sourceConceptId": 363692473,
+  "responses": [
+    858813191,
+    725558684,
+    994610339,
+    901178317,
+    488702322
+  ]
+}

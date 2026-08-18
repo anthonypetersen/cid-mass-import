@@ -1,0 +1,12 @@
+{
+  "key": "provider_reported_sun_exposure_past_12_months",
+  "conceptID": 562112674,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "responses": [
+    650729817,
+    909602175,
+    169824165,
+    747638213
+  ]
+}

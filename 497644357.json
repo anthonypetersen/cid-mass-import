@@ -1,0 +1,14 @@
+{
+  "key": "type_of_sleep_apnea_past_12_months",
+  "conceptID": 497644357,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "sourceConceptId": 283771088,
+  "responses": [
+    502216051,
+    890542150,
+    712889975,
+    414324578,
+    943778574
+  ]
+}

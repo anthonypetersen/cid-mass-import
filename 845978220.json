@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_chemotherapy_adulthood",
+  "conceptID": 845978220,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "responses": [
+    824360475,
+    574348834,
+    259149194,
+    170277529,
+    186288482
+  ]
+}

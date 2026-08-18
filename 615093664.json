@@ -1,0 +1,14 @@
+{
+  "key": "current_status_surgery_baseline",
+  "conceptID": 615093664,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 878927183,
+  "sourceConceptId": 872839827,
+  "responses": [
+    555888342,
+    708991182,
+    784719415,
+    992310951,
+    834379624
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "key": "has_ever_fruit_intake_lifetime",
+  "conceptID": 445522861,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "responses": [
+    179171223,
+    949361722,
+    948065095
+  ]
+}

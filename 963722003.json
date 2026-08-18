@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_pregnancy_past_12_months",
+  "conceptID": 963722003,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "responses": [
+    744733938,
+    814214301,
+    806311897,
+    276332597,
+    699721200
+  ]
+}

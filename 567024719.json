@@ -1,0 +1,11 @@
+{
+  "key": "self_reported_red_meat_diagnostic",
+  "conceptID": 567024719,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 878927183,
+  "sourceConceptId": 355786284,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_diabetes_pre_enrollment",
+  "conceptID": 564845883,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 878927183,
+  "sourceConceptId": 363692473,
+  "responses": [
+    858813191,
+    725558684,
+    994610339,
+    901178317,
+    488702322
+  ]
+}

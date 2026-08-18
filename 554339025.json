@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_sleep_apnea_post_enrollment",
+  "conceptID": 554339025,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 878927183,
+  "responses": [
+    643539294,
+    540318200,
+    265621100,
+    142726657,
+    734996610
+  ]
+}

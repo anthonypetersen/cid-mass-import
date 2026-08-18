@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_skin_exam_baseline",
+  "conceptID": 520687649,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "sourceConceptId": 363692473,
+  "responses": [
+    117973083,
+    176952168,
+    682890945,
+    753727993,
+    960347699
+  ]
+}

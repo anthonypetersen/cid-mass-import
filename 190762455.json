@@ -1,0 +1,11 @@
+{
+  "key": "date_of_hormone_therapy_pre_enrollment",
+  "conceptID": 190762455,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 878927183,
+  "sourceConceptId": 283771088,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

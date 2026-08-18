@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_colonoscopy_follow_up",
+  "conceptID": 481841805,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "sourceConceptId": 167225166,
+  "responses": [
+    566024300,
+    499189394,
+    522125122,
+    513154086,
+    482548207
+  ]
+}

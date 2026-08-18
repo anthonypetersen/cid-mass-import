@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_asthma_childhood",
+  "conceptID": 711453008,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 878927183,
+  "sourceConceptId": 872839827,
+  "responses": [
+    941380958,
+    350426324,
+    735926855,
+    261660447,
+    223568566
+  ]
+}

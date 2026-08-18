@@ -1,0 +1,14 @@
+{
+  "key": "change_in_oral_contraceptive_screening",
+  "conceptID": 870615706,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "sourceConceptId": 355786284,
+  "responses": [
+    286258710,
+    666013050,
+    898190979,
+    393740167,
+    813184577
+  ]
+}

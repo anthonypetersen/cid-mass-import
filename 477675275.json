@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_breastfeeding_past_30_days",
+  "conceptID": 477675275,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "responses": [
+    298805882,
+    994168209,
+    615116498,
+    989707841,
+    247479546
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "last_occurrence_asthma_proxy_report",
+  "conceptID": 613243752,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "sourceConceptId": 355786284,
+  "responses": [
+    433550500,
+    306738732,
+    732488174,
+    607645219,
+    185155541
+  ]
+}

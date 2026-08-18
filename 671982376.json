@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_sunscreen_use_pre_enrollment",
+  "conceptID": 671982376,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "responses": [
+    643539294,
+    540318200,
+    265621100,
+    142726657,
+    734996610
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_depression_diagnostic",
+  "conceptID": 896112287,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "responses": [
+    577501635,
+    593161478,
+    682637029,
+    493470379,
+    221342818
+  ]
+}

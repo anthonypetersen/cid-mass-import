@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_skin_exam_past_12_months",
+  "conceptID": 508108573,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "sourceConceptId": 557196660,
+  "responses": [
+    223568566,
+    199848849,
+    114258614,
+    424401117,
+    533550265
+  ]
+}

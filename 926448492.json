@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_hypertension_quarterly",
+  "conceptID": 926448492,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 878927183,
+  "sourceConceptId": 557196660,
+  "responses": [
+    505092515,
+    231936346,
+    656869759,
+    826833277,
+    287568690
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_alcohol_use_follow_up",
+  "conceptID": 979920483,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 878927183,
+  "sourceConceptId": 872839827,
+  "responses": [
+    153616768,
+    336497585,
+    704926440,
+    701528419,
+    604901244
+  ]
+}

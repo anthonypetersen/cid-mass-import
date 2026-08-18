@@ -1,0 +1,11 @@
+{
+  "key": "change_in_sleep_apnea_annual",
+  "conceptID": 650129280,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "sourceConceptId": 935055910,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

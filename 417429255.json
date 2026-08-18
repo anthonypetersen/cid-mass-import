@@ -1,0 +1,14 @@
+{
+  "key": "current_status_hypertension_suspected",
+  "conceptID": 417429255,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 878927183,
+  "sourceConceptId": 355786284,
+  "responses": [
+    643539294,
+    540318200,
+    265621100,
+    142726657,
+    734996610
+  ]
+}

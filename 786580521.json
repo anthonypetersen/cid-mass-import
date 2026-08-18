@@ -1,0 +1,14 @@
+{
+  "key": "date_of_anxiety_post_enrollment",
+  "conceptID": 786580521,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "sourceConceptId": 723779304,
+  "responses": [
+    433550500,
+    306738732,
+    732488174,
+    607645219,
+    185155541
+  ]
+}

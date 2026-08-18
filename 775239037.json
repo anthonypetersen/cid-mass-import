@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_pregnancy_past_12_months",
+  "conceptID": 775239037,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "sourceConceptId": 363692473,
+  "responses": [
+    476519996,
+    717523111,
+    458662226,
+    402508719,
+    906077259
+  ]
+}

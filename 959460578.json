@@ -1,0 +1,13 @@
+{
+  "key": "type_of_alcohol_use_post_enrollment",
+  "conceptID": 959460578,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "responses": [
+    433550500,
+    306738732,
+    732488174,
+    607645219,
+    185155541
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_vegetable_intake_diagnostic",
+  "conceptID": 134127362,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "sourceConceptId": 872839827,
+  "responses": [
+    394585074,
+    545736293,
+    649782848,
+    591725867,
+    630368149
+  ]
+}

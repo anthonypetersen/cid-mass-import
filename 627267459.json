@@ -1,0 +1,14 @@
+{
+  "key": "type_of_depression_lifetime",
+  "conceptID": 627267459,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "sourceConceptId": 723779304,
+  "responses": [
+    394585074,
+    545736293,
+    649782848,
+    591725867,
+    630368149
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_anxiety_past_12_months",
+  "conceptID": 642379494,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "sourceConceptId": 283771088,
+  "responses": [
+    153616768,
+    336497585,
+    704926440,
+    701528419,
+    604901244
+  ]
+}

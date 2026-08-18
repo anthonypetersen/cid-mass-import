@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_chemotherapy_adulthood",
+  "conceptID": 504039083,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "sourceConceptId": 872839827,
+  "responses": [
+    824360475,
+    574348834,
+    259149194,
+    170277529,
+    186288482
+  ]
+}

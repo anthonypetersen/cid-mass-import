@@ -1,0 +1,14 @@
+{
+  "key": "date_of_sun_exposure_diagnostic",
+  "conceptID": 360588814,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "sourceConceptId": 355786284,
+  "responses": [
+    238728227,
+    880867317,
+    573107698,
+    856337830,
+    905055413
+  ]
+}

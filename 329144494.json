@@ -1,0 +1,12 @@
+{
+  "key": "frequency_of_colonoscopy_past_30_days",
+  "conceptID": 329144494,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "responses": [
+    924508148,
+    490591332,
+    620607721,
+    403265873
+  ]
+}

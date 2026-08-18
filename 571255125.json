@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_mammogram_screening",
+  "conceptID": 571255125,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "responses": [
+    969753436,
+    775097819,
+    695080474,
+    816745084,
+    593927418
+  ]
+}

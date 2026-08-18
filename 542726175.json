@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_oral_contraceptive_adulthood",
+  "conceptID": 542726175,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 878927183,
+  "sourceConceptId": 935055910,
+  "responses": [
+    253750658,
+    604867735,
+    363253336,
+    455190699,
+    490969770
+  ]
+}

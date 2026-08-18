@@ -1,0 +1,13 @@
+{
+  "key": "reason_for_radiation_exposure_pre_enrollment",
+  "conceptID": 353179053,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "sourceConceptId": 872839827,
+  "responses": [
+    650729817,
+    909602175,
+    169824165,
+    747638213
+  ]
+}

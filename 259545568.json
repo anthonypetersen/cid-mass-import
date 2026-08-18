@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_sun_exposure_quarterly",
+  "conceptID": 259545568,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "sourceConceptId": 872839827,
+  "responses": [
+    744733938,
+    814214301,
+    806311897,
+    276332597,
+    699721200
+  ]
+}

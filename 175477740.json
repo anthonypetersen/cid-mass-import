@@ -1,0 +1,14 @@
+{
+  "key": "current_status_fruit_intake_proxy_report",
+  "conceptID": 175477740,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "sourceConceptId": 355786284,
+  "responses": [
+    286258710,
+    666013050,
+    898190979,
+    393740167,
+    813184577
+  ]
+}

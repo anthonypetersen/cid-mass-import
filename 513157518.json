@@ -1,0 +1,14 @@
+{
+  "key": "date_of_hypertension_most_recent",
+  "conceptID": 513157518,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 878927183,
+  "sourceConceptId": 283771088,
+  "responses": [
+    891518243,
+    519622922,
+    736729822,
+    230637251,
+    345790951
+  ]
+}

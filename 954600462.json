@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_radiation_exposure_lifetime",
+  "conceptID": 954600462,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "responses": [
+    311866307,
+    392829047,
+    368902208,
+    388509085,
+    702366122
+  ]
+}

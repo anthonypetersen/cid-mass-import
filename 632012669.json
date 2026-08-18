@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_depression_diagnostic",
+  "conceptID": 632012669,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "sourceConceptId": 872839827,
+  "responses": [
+    286258710,
+    666013050,
+    898190979,
+    393740167,
+    813184577
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "has_ever_surgery_suspected",
+  "conceptID": 165007466,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "responses": [
+    117973083,
+    176952168,
+    682890945,
+    753727993,
+    960347699
+  ]
+}

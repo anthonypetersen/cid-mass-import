@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_arthritis_post_enrollment",
+  "conceptID": 757605543,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "sourceConceptId": 723779304,
+  "responses": [
+    502216051,
+    890542150,
+    712889975,
+    414324578,
+    943778574
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_vegetable_intake_past_30_days",
+  "conceptID": 782962920,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "sourceConceptId": 872839827,
+  "responses": [
+    433550500,
+    306738732,
+    732488174,
+    607645219,
+    185155541
+  ]
+}

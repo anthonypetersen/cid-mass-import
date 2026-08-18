@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_sunscreen_use_proxy_report",
+  "conceptID": 744381182,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 878927183,
+  "sourceConceptId": 167225166,
+  "responses": [
+    737532966,
+    362342904,
+    347936215,
+    402939888,
+    126196117
+  ]
+}

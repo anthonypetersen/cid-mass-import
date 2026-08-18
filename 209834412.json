@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_smoking_diagnostic",
+  "conceptID": 209834412,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "responses": [
+    744733938,
+    814214301,
+    806311897,
+    276332597,
+    699721200
+  ]
+}

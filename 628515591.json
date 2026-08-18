@@ -1,0 +1,14 @@
+{
+  "key": "number_of_colonoscopy_baseline",
+  "conceptID": 628515591,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 878927183,
+  "sourceConceptId": 712692038,
+  "responses": [
+    476519996,
+    717523111,
+    458662226,
+    402508719,
+    906077259
+  ]
+}

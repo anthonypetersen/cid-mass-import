@@ -1,0 +1,13 @@
+{
+  "key": "current_status_asthma_baseline",
+  "conceptID": 431160361,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "responses": [
+    253750658,
+    604867735,
+    363253336,
+    455190699,
+    490969770
+  ]
+}

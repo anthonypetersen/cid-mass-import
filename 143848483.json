@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_chemotherapy_first_occurrence",
+  "conceptID": 143848483,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 878927183,
+  "sourceConceptId": 557196660,
+  "responses": [
+    650729817,
+    909602175,
+    169824165,
+    747638213
+  ]
+}

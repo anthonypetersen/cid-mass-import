@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_colonoscopy_past_12_months",
+  "conceptID": 109852660,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "sourceConceptId": 167225166,
+  "responses": [
+    555888342,
+    708991182,
+    784719415,
+    992310951,
+    834379624
+  ]
+}

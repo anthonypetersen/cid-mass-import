@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_breastfeeding_screening",
+  "conceptID": 600567477,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "sourceConceptId": 723779304,
+  "responses": [
+    663346842,
+    396398216,
+    860202867,
+    236435154,
+    429175018
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_oral_contraceptive_childhood",
+  "conceptID": 471277567,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 878927183,
+  "sourceConceptId": 355786284,
+  "responses": [
+    858873535,
+    769258593,
+    148190165,
+    162406278,
+    252371216
+  ]
+}

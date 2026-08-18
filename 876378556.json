@@ -1,0 +1,13 @@
+{
+  "key": "reason_for_sleep_apnea_past_30_days",
+  "conceptID": 876378556,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "responses": [
+    398729598,
+    376835754,
+    232880924,
+    554137503,
+    340659906
+  ]
+}
