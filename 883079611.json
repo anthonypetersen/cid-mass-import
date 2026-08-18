@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_diabetes_annual",
+  "conceptID": 883079611,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "sourceConceptId": 167225166,
+  "responses": [
+    223568566,
+    199848849,
+    114258614,
+    424401117,
+    533550265
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_fruit_intake_pre_enrollment",
+  "conceptID": 846823555,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 557196660,
+  "responses": [
+    398729598,
+    376835754,
+    232880924,
+    554137503,
+    340659906
+  ]
+}

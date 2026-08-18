@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_hospitalization_screening",
+  "conceptID": 464817391,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "responses": [
+    636615193,
+    390662015,
+    756472591,
+    365687810,
+    504786462
+  ]
+}

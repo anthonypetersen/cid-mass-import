@@ -1,0 +1,13 @@
+{
+  "key": "reason_for_radiation_exposure_baseline",
+  "conceptID": 594125847,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "responses": [
+    117973083,
+    176952168,
+    682890945,
+    753727993,
+    960347699
+  ]
+}

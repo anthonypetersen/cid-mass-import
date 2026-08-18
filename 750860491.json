@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_sleep_apnea_quarterly",
+  "conceptID": 750860491,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 557196660,
+  "responses": [
+    858873535,
+    769258593,
+    148190165,
+    162406278,
+    252371216
+  ]
+}

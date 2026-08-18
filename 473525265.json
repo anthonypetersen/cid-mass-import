@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_chemotherapy_confirmed",
+  "conceptID": 473525265,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 355786284,
+  "responses": [
+    668452406,
+    853278450,
+    867667360,
+    639450290,
+    415974054
+  ]
+}

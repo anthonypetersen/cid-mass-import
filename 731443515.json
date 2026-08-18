@@ -1,0 +1,14 @@
+{
+  "key": "number_of_sun_exposure_childhood",
+  "conceptID": 731443515,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "sourceConceptId": 872839827,
+  "responses": [
+    225224764,
+    142908205,
+    361886131,
+    496885791,
+    611887522
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_hypertension_childhood",
+  "conceptID": 579621825,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 935055910,
+  "responses": [
+    502216051,
+    890542150,
+    712889975,
+    414324578,
+    943778574
+  ]
+}

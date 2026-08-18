@@ -1,0 +1,14 @@
+{
+  "key": "type_of_smoking_annual",
+  "conceptID": 634530810,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 283771088,
+  "responses": [
+    891518243,
+    519622922,
+    736729822,
+    230637251,
+    345790951
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_hypertension_follow_up",
+  "conceptID": 299773497,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "responses": [
+    737532966,
+    362342904,
+    347936215,
+    402939888,
+    126196117
+  ]
+}

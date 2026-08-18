@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_radiation_exposure_current",
+  "conceptID": 278371555,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "sourceConceptId": 363692473,
+  "responses": [
+    663346842,
+    396398216,
+    860202867,
+    236435154,
+    429175018
+  ]
+}

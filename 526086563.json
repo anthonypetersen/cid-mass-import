@@ -1,0 +1,14 @@
+{
+  "key": "number_of_sleep_apnea_most_recent",
+  "conceptID": 526086563,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "sourceConceptId": 283771088,
+  "responses": [
+    824360475,
+    574348834,
+    259149194,
+    170277529,
+    186288482
+  ]
+}

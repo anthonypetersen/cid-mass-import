@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_mammogram_pre_enrollment",
+  "conceptID": 910370578,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "sourceConceptId": 693873814,
+  "responses": [
+    636615193,
+    390662015,
+    756472591,
+    365687810,
+    504786462
+  ]
+}

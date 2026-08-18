@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_colonoscopy_post_enrollment",
+  "conceptID": 639995362,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "sourceConceptId": 557196660,
+  "responses": [
+    744733938,
+    814214301,
+    806311897,
+    276332597,
+    699721200
+  ]
+}

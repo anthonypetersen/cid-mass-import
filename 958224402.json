@@ -1,0 +1,12 @@
+{
+  "key": "number_of_red_meat_past_30_days",
+  "conceptID": 958224402,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 283771088,
+  "responses": [
+    179171223,
+    949361722,
+    948065095
+  ]
+}

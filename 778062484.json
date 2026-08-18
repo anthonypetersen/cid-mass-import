@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_psa_test_pre_enrollment",
+  "conceptID": 778062484,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "sourceConceptId": 712692038,
+  "responses": [
+    807348323,
+    914297942,
+    184277212,
+    527852618,
+    839755726
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_pap_test_adulthood",
+  "conceptID": 579787450,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 935055910,
+  "responses": [
+    636615193,
+    390662015,
+    756472591,
+    365687810,
+    504786462
+  ]
+}

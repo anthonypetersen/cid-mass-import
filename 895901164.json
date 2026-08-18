@@ -1,0 +1,11 @@
+{
+  "key": "duration_of_exercise_first_occurrence",
+  "conceptID": 895901164,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 283771088,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_hormone_therapy_post_enrollment",
+  "conceptID": 631568505,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 935055910,
+  "responses": [
+    286258710,
+    666013050,
+    898190979,
+    393740167,
+    813184577
+  ]
+}

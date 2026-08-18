@@ -1,0 +1,14 @@
+{
+  "key": "number_of_sleep_apnea_pre_enrollment",
+  "conceptID": 278265582,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 355786284,
+  "responses": [
+    433550500,
+    306738732,
+    732488174,
+    607645219,
+    185155541
+  ]
+}

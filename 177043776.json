@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_asthma_current",
+  "conceptID": 177043776,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 872839827,
+  "responses": [
+    225224764,
+    142908205,
+    361886131,
+    496885791,
+    611887522
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "change_in_mammogram_past_12_months",
+  "conceptID": 585356275,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "responses": [
+    505092515,
+    231936346,
+    656869759,
+    826833277,
+    287568690
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "current_status_sunscreen_use_post_enrollment",
+  "conceptID": 948944618,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "responses": [
+    824360475,
+    574348834,
+    259149194,
+    170277529,
+    186288482
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "current_status_oral_contraceptive_suspected",
+  "conceptID": 704452977,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "responses": [
+    858873535,
+    769258593,
+    148190165,
+    162406278,
+    252371216
+  ]
+}

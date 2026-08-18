@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_asthma_post_enrollment",
+  "conceptID": 318556834,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 283771088,
+  "responses": [
+    153616768,
+    336497585,
+    704926440,
+    701528419,
+    604901244
+  ]
+}

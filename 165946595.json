@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_pregnancy_lifetime",
+  "conceptID": 165946595,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "sourceConceptId": 872839827,
+  "responses": [
+    394585074,
+    545736293,
+    649782848,
+    591725867,
+    630368149
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_hormone_therapy_self_report",
+  "conceptID": 747436586,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "sourceConceptId": 712692038,
+  "responses": [
+    668452406,
+    853278450,
+    867667360,
+    639450290,
+    415974054
+  ]
+}

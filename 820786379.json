@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_colonoscopy_quarterly",
+  "conceptID": 820786379,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 557196660,
+  "responses": [
+    216981353,
+    975471774,
+    260555361,
+    738486687,
+    729722106
+  ]
+}

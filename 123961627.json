@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_hormone_therapy_screening",
+  "conceptID": 123961627,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "sourceConceptId": 872839827,
+  "responses": [
+    441937069,
+    740844861,
+    921365155,
+    830529584,
+    495426092
+  ]
+}

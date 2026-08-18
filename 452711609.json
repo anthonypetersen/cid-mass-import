@@ -1,0 +1,14 @@
+{
+  "key": "last_occurrence_smoking_diagnostic",
+  "conceptID": 452711609,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 693873814,
+  "responses": [
+    153616768,
+    336497585,
+    704926440,
+    701528419,
+    604901244
+  ]
+}

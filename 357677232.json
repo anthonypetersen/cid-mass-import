@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_depression_annual",
+  "conceptID": 357677232,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 693873814,
+  "responses": [
+    253750658,
+    604867735,
+    363253336,
+    455190699,
+    490969770
+  ]
+}

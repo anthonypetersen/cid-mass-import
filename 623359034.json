@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_hospitalization_first_occurrence",
+  "conceptID": 623359034,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "sourceConceptId": 712692038,
+  "responses": [
+    643539294,
+    540318200,
+    265621100,
+    142726657,
+    734996610
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "change_in_obesity_pre_enrollment",
+  "conceptID": 341400334,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "sourceConceptId": 355786284,
+  "responses": [
+    924508148,
+    490591332,
+    620607721,
+    403265873
+  ]
+}

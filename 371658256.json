@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_mammogram_diagnostic",
+  "conceptID": 371658256,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "responses": [
+    153616768,
+    336497585,
+    704926440,
+    701528419,
+    604901244
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_diabetes_post_enrollment",
+  "conceptID": 774262412,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 355786284,
+  "responses": [
+    476519996,
+    717523111,
+    458662226,
+    402508719,
+    906077259
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "date_of_hospitalization_current",
+  "conceptID": 542687838,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 935055910,
+  "responses": [
+    311866307,
+    392829047,
+    368902208,
+    388509085,
+    702366122
+  ]
+}

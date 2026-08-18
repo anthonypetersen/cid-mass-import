@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_hospitalization_adulthood",
+  "conceptID": 100099026,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "sourceConceptId": 693873814,
+  "responses": [
+    744733938,
+    814214301,
+    806311897,
+    276332597,
+    699721200
+  ]
+}

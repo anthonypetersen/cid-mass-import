@@ -1,0 +1,14 @@
+{
+  "key": "type_of_pregnancy_quarterly",
+  "conceptID": 204963464,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 557196660,
+  "responses": [
+    502216051,
+    890542150,
+    712889975,
+    414324578,
+    943778574
+  ]
+}

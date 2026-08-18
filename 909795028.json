@@ -1,0 +1,12 @@
+{
+  "key": "current_status_breastfeeding_annual",
+  "conceptID": 909795028,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 723779304,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

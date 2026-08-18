@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_smoking_proxy_report",
+  "conceptID": 636662102,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 283771088,
+  "responses": [
+    568284718,
+    839702582,
+    208533316,
+    996074771,
+    606520193
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "key": "current_status_diabetes_pre_enrollment",
+  "conceptID": 972664079,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 723779304,
+  "responses": [
+    179171223,
+    949361722,
+    948065095
+  ]
+}

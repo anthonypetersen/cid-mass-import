@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_sleep_apnea_adulthood",
+  "conceptID": 168537863,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "sourceConceptId": 935055910,
+  "responses": [
+    298802151,
+    252374134,
+    725487576,
+    382801992,
+    212420948
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "type_of_fruit_intake_diagnostic",
+  "conceptID": 517771427,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 723779304,
+  "responses": [
+    216981353,
+    975471774,
+    260555361,
+    738486687,
+    729722106
+  ]
+}

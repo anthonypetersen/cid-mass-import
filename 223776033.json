@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_vaping_suspected",
+  "conceptID": 223776033,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 693873814,
+  "responses": [
+    858873535,
+    769258593,
+    148190165,
+    162406278,
+    252371216
+  ]
+}

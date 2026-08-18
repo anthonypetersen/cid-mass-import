@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_depression_past_30_days",
+  "conceptID": 206944517,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "sourceConceptId": 935055910,
+  "responses": [
+    763680175,
+    671737436,
+    888331020,
+    917348031,
+    288089902
+  ]
+}

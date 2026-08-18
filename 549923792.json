@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_obesity_past_12_months",
+  "conceptID": 549923792,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 363692473,
+  "responses": [
+    433550500,
+    306738732,
+    732488174,
+    607645219,
+    185155541
+  ]
+}

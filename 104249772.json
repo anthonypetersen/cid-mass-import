@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_chemotherapy_proxy_report",
+  "conceptID": 104249772,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "responses": [
+    311866307,
+    392829047,
+    368902208,
+    388509085,
+    702366122
+  ]
+}

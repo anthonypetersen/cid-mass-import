@@ -1,0 +1,12 @@
+{
+  "key": "frequency_of_pregnancy_quarterly",
+  "conceptID": 427036307,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 723779304,
+  "responses": [
+    179171223,
+    949361722,
+    948065095
+  ]
+}

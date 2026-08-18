@@ -1,0 +1,14 @@
+{
+  "key": "type_of_arthritis_current",
+  "conceptID": 491415052,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 363692473,
+  "responses": [
+    891518243,
+    519622922,
+    736729822,
+    230637251,
+    345790951
+  ]
+}

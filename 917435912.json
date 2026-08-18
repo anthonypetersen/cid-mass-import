@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_obesity_baseline",
+  "conceptID": 917435912,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 693873814,
+  "responses": [
+    298802151,
+    252374134,
+    725487576,
+    382801992,
+    212420948
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_alcohol_use_pre_enrollment",
+  "conceptID": 520584903,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "sourceConceptId": 935055910,
+  "responses": [
+    398729598,
+    376835754,
+    232880924,
+    554137503,
+    340659906
+  ]
+}

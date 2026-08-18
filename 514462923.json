@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_surgery_screening",
+  "conceptID": 514462923,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "sourceConceptId": 355786284,
+  "responses": [
+    924508148,
+    490591332,
+    620607721,
+    403265873
+  ]
+}

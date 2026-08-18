@@ -1,0 +1,11 @@
+{
+  "key": "self_reported_mammogram_lifetime",
+  "conceptID": 933377515,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_diabetes_confirmed",
+  "conceptID": 422501800,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "responses": [
+    502216051,
+    890542150,
+    712889975,
+    414324578,
+    943778574
+  ]
+}

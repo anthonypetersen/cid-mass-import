@@ -1,0 +1,13 @@
+{
+  "key": "number_of_smoking_diagnostic",
+  "conceptID": 332531422,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "responses": [
+    636615193,
+    390662015,
+    756472591,
+    365687810,
+    504786462
+  ]
+}

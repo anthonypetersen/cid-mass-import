@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_oral_contraceptive_baseline",
+  "conceptID": 201658088,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "sourceConceptId": 712692038,
+  "responses": [
+    103388116,
+    233359600,
+    948916208,
+    162368370,
+    883589778
+  ]
+}

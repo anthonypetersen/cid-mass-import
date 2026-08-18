@@ -1,0 +1,14 @@
+{
+  "key": "number_of_psa_test_past_12_months",
+  "conceptID": 101843547,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 355786284,
+  "responses": [
+    824360475,
+    574348834,
+    259149194,
+    170277529,
+    186288482
+  ]
+}
