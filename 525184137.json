@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_hypertension_current",
+  "conceptID": 525184137,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "responses": [
+    223568566,
+    199848849,
+    114258614,
+    424401117,
+    533550265
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "type_of_sleep_apnea_follow_up",
+  "conceptID": 781702241,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 155603253,
+  "sourceConceptId": 283771088,
+  "responses": [
+    433550500,
+    306738732,
+    732488174,
+    607645219,
+    185155541
+  ]
+}

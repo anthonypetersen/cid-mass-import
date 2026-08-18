@@ -1,0 +1,14 @@
+{
+  "key": "number_of_sun_exposure_current",
+  "conceptID": 150508375,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "sourceConceptId": 693873814,
+  "responses": [
+    566024300,
+    499189394,
+    522125122,
+    513154086,
+    482548207
+  ]
+}

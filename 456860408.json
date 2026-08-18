@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_hormone_therapy_adulthood",
+  "conceptID": 456860408,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "sourceConceptId": 355786284,
+  "responses": [
+    153616768,
+    336497585,
+    704926440,
+    701528419,
+    604901244
+  ]
+}

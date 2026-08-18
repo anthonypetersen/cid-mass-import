@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_smoking_lifetime",
+  "conceptID": 261490472,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "responses": [
+    476519996,
+    717523111,
+    458662226,
+    402508719,
+    906077259
+  ]
+}

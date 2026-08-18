@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_mammogram_adulthood",
+  "conceptID": 347809771,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "sourceConceptId": 557196660,
+  "responses": [
+    636615193,
+    390662015,
+    756472591,
+    365687810,
+    504786462
+  ]
+}

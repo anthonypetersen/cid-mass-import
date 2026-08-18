@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_psa_test_post_enrollment",
+  "conceptID": 314850126,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "sourceConceptId": 363692473,
+  "responses": [
+    153616768,
+    336497585,
+    704926440,
+    701528419,
+    604901244
+  ]
+}

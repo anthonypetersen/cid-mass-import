@@ -1,0 +1,12 @@
+{
+  "key": "self_reported_oral_contraceptive_baseline",
+  "conceptID": 527096615,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "sourceConceptId": 693873814,
+  "responses": [
+    179171223,
+    949361722,
+    948065095
+  ]
+}

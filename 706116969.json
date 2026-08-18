@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_asthma_follow_up",
+  "conceptID": 706116969,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "responses": [
+    891518243,
+    519622922,
+    736729822,
+    230637251,
+    345790951
+  ]
+}

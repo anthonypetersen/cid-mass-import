@@ -1,0 +1,13 @@
+{
+  "key": "last_occurrence_asthma_diagnostic",
+  "conceptID": 171673050,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "responses": [
+    807348323,
+    914297942,
+    184277212,
+    527852618,
+    839755726
+  ]
+}

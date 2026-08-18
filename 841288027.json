@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_hypertension_diagnostic",
+  "conceptID": 841288027,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "responses": [
+    824360475,
+    574348834,
+    259149194,
+    170277529,
+    186288482
+  ]
+}

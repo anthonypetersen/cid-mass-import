@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_alcohol_use_childhood",
+  "conceptID": 994707253,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "sourceConceptId": 935055910,
+  "responses": [
+    153616768,
+    336497585,
+    704926440,
+    701528419,
+    604901244
+  ]
+}

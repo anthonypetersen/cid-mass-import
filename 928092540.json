@@ -1,0 +1,10 @@
+{
+  "key": "current_status_anxiety_confirmed",
+  "conceptID": 928092540,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

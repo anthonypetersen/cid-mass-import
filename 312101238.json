@@ -1,0 +1,14 @@
+{
+  "key": "date_of_hypertension_quarterly",
+  "conceptID": 312101238,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "sourceConceptId": 557196660,
+  "responses": [
+    223568566,
+    199848849,
+    114258614,
+    424401117,
+    533550265
+  ]
+}

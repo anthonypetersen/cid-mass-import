@@ -1,0 +1,13 @@
+{
+  "key": "type_of_arthritis_baseline",
+  "conceptID": 215184908,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "responses": [
+    298802151,
+    252374134,
+    725487576,
+    382801992,
+    212420948
+  ]
+}

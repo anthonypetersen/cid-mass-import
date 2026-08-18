@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_depression_annual",
+  "conceptID": 538641521,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "responses": [
+    286258710,
+    666013050,
+    898190979,
+    393740167,
+    813184577
+  ]
+}

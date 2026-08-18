@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_exercise_suspected",
+  "conceptID": 699755774,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "sourceConceptId": 935055910,
+  "responses": [
+    744733938,
+    814214301,
+    806311897,
+    276332597,
+    699721200
+  ]
+}

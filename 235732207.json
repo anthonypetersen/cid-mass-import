@@ -1,0 +1,11 @@
+{
+  "key": "severity_of_hypertension_childhood",
+  "conceptID": 235732207,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

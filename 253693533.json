@@ -1,0 +1,12 @@
+{
+  "key": "number_of_hormone_therapy_screening",
+  "conceptID": 253693533,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 155603253,
+  "sourceConceptId": 557196660,
+  "responses": [
+    179171223,
+    949361722,
+    948065095
+  ]
+}

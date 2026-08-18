@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_arthritis_current",
+  "conceptID": 366885319,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "responses": [
+    311866307,
+    392829047,
+    368902208,
+    388509085,
+    702366122
+  ]
+}

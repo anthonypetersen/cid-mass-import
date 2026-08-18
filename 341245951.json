@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_exercise_suspected",
+  "conceptID": 341245951,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "sourceConceptId": 723779304,
+  "responses": [
+    298805882,
+    994168209,
+    615116498,
+    989707841,
+    247479546
+  ]
+}

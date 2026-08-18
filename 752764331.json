@@ -1,0 +1,14 @@
+{
+  "key": "current_status_sleep_apnea_current",
+  "conceptID": 752764331,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "sourceConceptId": 355786284,
+  "responses": [
+    744733938,
+    814214301,
+    806311897,
+    276332597,
+    699721200
+  ]
+}

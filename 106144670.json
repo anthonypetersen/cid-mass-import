@@ -1,0 +1,14 @@
+{
+  "key": "number_of_hormone_therapy_first_occurrence",
+  "conceptID": 106144670,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "sourceConceptId": 363692473,
+  "responses": [
+    216981353,
+    975471774,
+    260555361,
+    738486687,
+    729722106
+  ]
+}

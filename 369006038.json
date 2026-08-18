@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_red_meat_annual",
+  "conceptID": 369006038,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "sourceConceptId": 872839827,
+  "responses": [
+    924508148,
+    490591332,
+    620607721,
+    403265873
+  ]
+}

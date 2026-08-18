@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_oral_contraceptive_past_12_months",
+  "conceptID": 309093946,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "responses": [
+    487358882,
+    552219411,
+    188912142,
+    839503775,
+    151061438
+  ]
+}

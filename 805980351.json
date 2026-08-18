@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_sun_exposure_post_enrollment",
+  "conceptID": 805980351,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "sourceConceptId": 712692038,
+  "responses": [
+    807348323,
+    914297942,
+    184277212,
+    527852618,
+    839755726
+  ]
+}

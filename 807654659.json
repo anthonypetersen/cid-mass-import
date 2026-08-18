@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_mammogram_lifetime",
+  "conceptID": 807654659,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "responses": [
+    566024300,
+    499189394,
+    522125122,
+    513154086,
+    482548207
+  ]
+}

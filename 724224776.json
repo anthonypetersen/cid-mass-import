@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_smoking_post_enrollment",
+  "conceptID": 724224776,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "sourceConceptId": 167225166,
+  "responses": [
+    858813191,
+    725558684,
+    994610339,
+    901178317,
+    488702322
+  ]
+}

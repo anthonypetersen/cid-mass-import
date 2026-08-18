@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_pregnancy_confirmed",
+  "conceptID": 610681441,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 155603253,
+  "sourceConceptId": 693873814,
+  "responses": [
+    223568566,
+    199848849,
+    114258614,
+    424401117,
+    533550265
+  ]
+}

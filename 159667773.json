@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_sunscreen_use_diagnostic",
+  "conceptID": 159667773,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "sourceConceptId": 872839827,
+  "responses": [
+    253750658,
+    604867735,
+    363253336,
+    455190699,
+    490969770
+  ]
+}

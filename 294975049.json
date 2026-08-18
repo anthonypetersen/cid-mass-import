@@ -1,0 +1,13 @@
+{
+  "key": "has_ever_hypertension_baseline",
+  "conceptID": 294975049,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "responses": [
+    891518243,
+    519622922,
+    736729822,
+    230637251,
+    345790951
+  ]
+}

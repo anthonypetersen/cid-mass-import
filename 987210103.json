@@ -1,0 +1,12 @@
+{
+  "key": "frequency_of_hospitalization_annual",
+  "conceptID": 987210103,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "sourceConceptId": 935055910,
+  "responses": [
+    179171223,
+    949361722,
+    948065095
+  ]
+}

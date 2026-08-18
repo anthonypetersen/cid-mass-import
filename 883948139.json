@@ -1,0 +1,13 @@
+{
+  "key": "last_occurrence_diabetes_past_30_days",
+  "conceptID": 883948139,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "responses": [
+    441937069,
+    740844861,
+    921365155,
+    830529584,
+    495426092
+  ]
+}

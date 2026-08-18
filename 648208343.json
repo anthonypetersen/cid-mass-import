@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_arthritis_pre_enrollment",
+  "conceptID": 648208343,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "responses": [
+    636615193,
+    390662015,
+    756472591,
+    365687810,
+    504786462
+  ]
+}

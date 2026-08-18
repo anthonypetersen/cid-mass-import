@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_alcohol_use_post_enrollment",
+  "conceptID": 821791704,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "sourceConceptId": 935055910,
+  "responses": [
+    502216051,
+    890542150,
+    712889975,
+    414324578,
+    943778574
+  ]
+}

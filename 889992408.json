@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_surgery_lifetime",
+  "conceptID": 889992408,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "responses": [
+    398729598,
+    376835754,
+    232880924,
+    554137503,
+    340659906
+  ]
+}

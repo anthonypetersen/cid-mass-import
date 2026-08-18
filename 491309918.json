@@ -1,0 +1,12 @@
+{
+  "key": "confidence_in_smoking_adulthood",
+  "conceptID": 491309918,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "sourceConceptId": 557196660,
+  "responses": [
+    179171223,
+    949361722,
+    948065095
+  ]
+}

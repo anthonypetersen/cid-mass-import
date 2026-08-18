@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_chemotherapy_proxy_report",
+  "conceptID": 240631350,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "sourceConceptId": 935055910,
+  "responses": [
+    636615193,
+    390662015,
+    756472591,
+    365687810,
+    504786462
+  ]
+}

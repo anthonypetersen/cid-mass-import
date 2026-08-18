@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_alcohol_use_quarterly",
+  "conceptID": 492529059,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "sourceConceptId": 363692473,
+  "responses": [
+    238728227,
+    880867317,
+    573107698,
+    856337830,
+    905055413
+  ]
+}

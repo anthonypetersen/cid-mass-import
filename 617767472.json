@@ -1,0 +1,13 @@
+{
+  "key": "last_occurrence_hormone_therapy_suspected",
+  "conceptID": 617767472,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "sourceConceptId": 935055910,
+  "responses": [
+    924508148,
+    490591332,
+    620607721,
+    403265873
+  ]
+}

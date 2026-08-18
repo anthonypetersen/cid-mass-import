@@ -1,0 +1,14 @@
+{
+  "key": "number_of_sun_exposure_past_30_days",
+  "conceptID": 665066048,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "sourceConceptId": 167225166,
+  "responses": [
+    300863917,
+    471575730,
+    247093719,
+    689199750,
+    402338039
+  ]
+}

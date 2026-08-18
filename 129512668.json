@@ -1,0 +1,14 @@
+{
+  "key": "type_of_obesity_proxy_report",
+  "conceptID": 129512668,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 577302045,
+  "sourceConceptId": 557196660,
+  "responses": [
+    636615193,
+    390662015,
+    756472591,
+    365687810,
+    504786462
+  ]
+}

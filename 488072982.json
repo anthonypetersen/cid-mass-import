@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_hospitalization_proxy_report",
+  "conceptID": 488072982,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "sourceConceptId": 557196660,
+  "responses": [
+    924508148,
+    490591332,
+    620607721,
+    403265873
+  ]
+}

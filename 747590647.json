@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_colonoscopy_annual",
+  "conceptID": 747590647,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "responses": [
+    394585074,
+    545736293,
+    649782848,
+    591725867,
+    630368149
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "key": "frequency_of_sun_exposure_past_30_days",
+  "conceptID": 358927134,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

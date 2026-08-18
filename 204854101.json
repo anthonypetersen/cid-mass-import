@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_mammogram_post_enrollment",
+  "conceptID": 204854101,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "sourceConceptId": 283771088,
+  "responses": [
+    433550500,
+    306738732,
+    732488174,
+    607645219,
+    185155541
+  ]
+}

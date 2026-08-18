@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_oral_contraceptive_pre_enrollment",
+  "conceptID": 727000730,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "sourceConceptId": 935055910,
+  "responses": [
+    286258710,
+    666013050,
+    898190979,
+    393740167,
+    813184577
+  ]
+}

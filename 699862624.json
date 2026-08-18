@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_hypertension_first_occurrence",
+  "conceptID": 699862624,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "responses": [
+    300863917,
+    471575730,
+    247093719,
+    689199750,
+    402338039
+  ]
+}

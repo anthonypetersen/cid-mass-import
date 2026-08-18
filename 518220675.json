@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_mammogram_most_recent",
+  "conceptID": 518220675,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "sourceConceptId": 693873814,
+  "responses": [
+    969753436,
+    775097819,
+    695080474,
+    816745084,
+    593927418
+  ]
+}

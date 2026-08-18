@@ -1,0 +1,13 @@
+{
+  "key": "last_occurrence_diabetes_baseline",
+  "conceptID": 307051749,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "sourceConceptId": 363692473,
+  "responses": [
+    650729817,
+    909602175,
+    169824165,
+    747638213
+  ]
+}

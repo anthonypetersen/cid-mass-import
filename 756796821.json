@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_obesity_proxy_report",
+  "conceptID": 756796821,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "sourceConceptId": 693873814,
+  "responses": [
+    298802151,
+    252374134,
+    725487576,
+    382801992,
+    212420948
+  ]
+}

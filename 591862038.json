@@ -1,0 +1,14 @@
+{
+  "key": "current_status_sun_exposure_most_recent",
+  "conceptID": 591862038,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 155603253,
+  "sourceConceptId": 283771088,
+  "responses": [
+    117973083,
+    176952168,
+    682890945,
+    753727993,
+    960347699
+  ]
+}

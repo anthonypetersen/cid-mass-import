@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_sunscreen_use_past_12_months",
+  "conceptID": 132508741,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "sourceConceptId": 167225166,
+  "responses": [
+    298805882,
+    994168209,
+    615116498,
+    989707841,
+    247479546
+  ]
+}

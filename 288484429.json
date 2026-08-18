@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_obesity_lifetime",
+  "conceptID": 288484429,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "responses": [
+    238728227,
+    880867317,
+    573107698,
+    856337830,
+    905055413
+  ]
+}

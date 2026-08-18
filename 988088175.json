@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_hypertension_past_12_months",
+  "conceptID": 988088175,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "sourceConceptId": 723779304,
+  "responses": [
+    891518243,
+    519622922,
+    736729822,
+    230637251,
+    345790951
+  ]
+}

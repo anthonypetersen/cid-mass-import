@@ -1,0 +1,12 @@
+{
+  "key": "severity_of_oral_contraceptive_suspected",
+  "conceptID": 935687841,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "responses": [
+    924508148,
+    490591332,
+    620607721,
+    403265873
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "date_of_arthritis_quarterly",
+  "conceptID": 983386728,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 155603253,
+  "sourceConceptId": 712692038,
+  "responses": [
+    502216051,
+    890542150,
+    712889975,
+    414324578,
+    943778574
+  ]
+}

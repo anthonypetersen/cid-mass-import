@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_obesity_current",
+  "conceptID": 596733282,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "sourceConceptId": 557196660,
+  "responses": [
+    398729598,
+    376835754,
+    232880924,
+    554137503,
+    340659906
+  ]
+}

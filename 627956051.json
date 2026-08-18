@@ -1,0 +1,14 @@
+{
+  "key": "date_of_depression_post_enrollment",
+  "conceptID": 627956051,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "sourceConceptId": 693873814,
+  "responses": [
+    744733938,
+    814214301,
+    806311897,
+    276332597,
+    699721200
+  ]
+}

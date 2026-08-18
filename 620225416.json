@@ -1,0 +1,13 @@
+{
+  "key": "reason_for_hypertension_confirmed",
+  "conceptID": 620225416,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "responses": [
+    382415328,
+    138173599,
+    619782256,
+    286918962,
+    533380688
+  ]
+}

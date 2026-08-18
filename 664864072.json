@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_hormone_therapy_past_12_months",
+  "conceptID": 664864072,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "responses": [
+    763680175,
+    671737436,
+    888331020,
+    917348031,
+    288089902
+  ]
+}

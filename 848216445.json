@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_mammogram_lifetime",
+  "conceptID": 848216445,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "responses": [
+    311866307,
+    392829047,
+    368902208,
+    388509085,
+    702366122
+  ]
+}
