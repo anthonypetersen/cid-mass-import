@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_oral_contraceptive_lifetime",
+  "conceptID": 599449031,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "sourceConceptId": 557196660,
+  "responses": [
+    487358882,
+    552219411,
+    188912142,
+    839503775,
+    151061438
+  ]
+}

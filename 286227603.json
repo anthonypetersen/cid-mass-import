@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_skin_exam_adulthood",
+  "conceptID": 286227603,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "responses": [
+    225224764,
+    142908205,
+    361886131,
+    496885791,
+    611887522
+  ]
+}

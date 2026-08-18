@@ -1,0 +1,13 @@
+{
+  "key": "date_of_mammogram_baseline",
+  "conceptID": 791038595,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "responses": [
+    298802151,
+    252374134,
+    725487576,
+    382801992,
+    212420948
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_radiation_exposure_childhood",
+  "conceptID": 428539484,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "sourceConceptId": 167225166,
+  "responses": [
+    969753436,
+    775097819,
+    695080474,
+    816745084,
+    593927418
+  ]
+}

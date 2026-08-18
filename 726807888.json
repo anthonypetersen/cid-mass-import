@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_pap_test_annual",
+  "conceptID": 726807888,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "sourceConceptId": 557196660,
+  "responses": [
+    502216051,
+    890542150,
+    712889975,
+    414324578,
+    943778574
+  ]
+}

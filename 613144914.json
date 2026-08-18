@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_arthritis_lifetime",
+  "conceptID": 613144914,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "sourceConceptId": 355786284,
+  "responses": [
+    487358882,
+    552219411,
+    188912142,
+    839503775,
+    151061438
+  ]
+}

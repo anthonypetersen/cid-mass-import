@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_fruit_intake_pre_enrollment",
+  "conceptID": 754221299,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "sourceConceptId": 693873814,
+  "responses": [
+    555888342,
+    708991182,
+    784719415,
+    992310951,
+    834379624
+  ]
+}

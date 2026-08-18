@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_arthritis_suspected",
+  "conceptID": 523453157,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "sourceConceptId": 363692473,
+  "responses": [
+    650729817,
+    909602175,
+    169824165,
+    747638213
+  ]
+}

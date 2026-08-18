@@ -1,0 +1,11 @@
+{
+  "key": "duration_of_hormone_therapy_proxy_report",
+  "conceptID": 542380716,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

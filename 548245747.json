@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_hormone_therapy_past_12_months",
+  "conceptID": 548245747,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "responses": [
+    566024300,
+    499189394,
+    522125122,
+    513154086,
+    482548207
+  ]
+}

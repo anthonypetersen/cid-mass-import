@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_asthma_screening",
+  "conceptID": 629069727,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "sourceConceptId": 167225166,
+  "responses": [
+    398729598,
+    376835754,
+    232880924,
+    554137503,
+    340659906
+  ]
+}

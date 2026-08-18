@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_alcohol_use_past_30_days",
+  "conceptID": 313650909,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "sourceConceptId": 693873814,
+  "responses": [
+    744733938,
+    814214301,
+    806311897,
+    276332597,
+    699721200
+  ]
+}

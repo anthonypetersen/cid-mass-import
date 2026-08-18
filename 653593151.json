@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_smoking_screening",
+  "conceptID": 653593151,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "sourceConceptId": 283771088,
+  "responses": [
+    502216051,
+    890542150,
+    712889975,
+    414324578,
+    943778574
+  ]
+}

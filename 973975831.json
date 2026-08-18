@@ -1,0 +1,10 @@
+{
+  "key": "last_occurrence_surgery_lifetime",
+  "conceptID": 973975831,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

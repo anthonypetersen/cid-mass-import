@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_pregnancy_quarterly",
+  "conceptID": 180186662,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "sourceConceptId": 693873814,
+  "responses": [
+    824360475,
+    574348834,
+    259149194,
+    170277529,
+    186288482
+  ]
+}

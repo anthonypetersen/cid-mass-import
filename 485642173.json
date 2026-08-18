@@ -1,0 +1,14 @@
+{
+  "key": "type_of_pregnancy_annual",
+  "conceptID": 485642173,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "sourceConceptId": 872839827,
+  "responses": [
+    858813191,
+    725558684,
+    994610339,
+    901178317,
+    488702322
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "key": "age_at_first_surgery_screening",
+  "conceptID": 319661715,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "sourceConceptId": 363692473,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

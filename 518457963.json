@@ -1,0 +1,14 @@
+{
+  "key": "type_of_arthritis_follow_up",
+  "conceptID": 518457963,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "sourceConceptId": 693873814,
+  "responses": [
+    568284718,
+    839702582,
+    208533316,
+    996074771,
+    606520193
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_obesity_proxy_report",
+  "conceptID": 196992822,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "sourceConceptId": 167225166,
+  "responses": [
+    433550500,
+    306738732,
+    732488174,
+    607645219,
+    185155541
+  ]
+}

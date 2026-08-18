@@ -1,0 +1,11 @@
+{
+  "key": "duration_of_vaping_first_occurrence",
+  "conceptID": 629321594,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "sourceConceptId": 355786284,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

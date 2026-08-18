@@ -1,0 +1,11 @@
+{
+  "key": "provider_reported_vegetable_intake_self_report",
+  "conceptID": 705207067,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "responses": [
+    179171223,
+    949361722,
+    948065095
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_chemotherapy_lifetime",
+  "conceptID": 802188973,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "sourceConceptId": 167225166,
+  "responses": [
+    253750658,
+    604867735,
+    363253336,
+    455190699,
+    490969770
+  ]
+}

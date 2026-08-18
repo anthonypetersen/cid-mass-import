@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_hospitalization_post_enrollment",
+  "conceptID": 246322386,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "sourceConceptId": 355786284,
+  "responses": [
+    577501635,
+    593161478,
+    682637029,
+    493470379,
+    221342818
+  ]
+}

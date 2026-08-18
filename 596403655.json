@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_arthritis_diagnostic",
+  "conceptID": 596403655,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "sourceConceptId": 363692473,
+  "responses": [
+    969753436,
+    775097819,
+    695080474,
+    816745084,
+    593927418
+  ]
+}

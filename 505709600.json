@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_anxiety_diagnostic",
+  "conceptID": 505709600,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "responses": [
+    566024300,
+    499189394,
+    522125122,
+    513154086,
+    482548207
+  ]
+}

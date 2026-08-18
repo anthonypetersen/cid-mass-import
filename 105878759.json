@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_alcohol_use_annual",
+  "conceptID": 105878759,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "sourceConceptId": 723779304,
+  "responses": [
+    153616768,
+    336497585,
+    704926440,
+    701528419,
+    604901244
+  ]
+}

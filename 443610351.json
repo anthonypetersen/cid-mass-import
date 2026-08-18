@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_skin_exam_pre_enrollment",
+  "conceptID": 443610351,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "sourceConceptId": 723779304,
+  "responses": [
+    382415328,
+    138173599,
+    619782256,
+    286918962,
+    533380688
+  ]
+}

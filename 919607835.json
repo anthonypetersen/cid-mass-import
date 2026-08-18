@@ -1,0 +1,14 @@
+{
+  "key": "last_occurrence_smoking_adulthood",
+  "conceptID": 919607835,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "sourceConceptId": 723779304,
+  "responses": [
+    643539294,
+    540318200,
+    265621100,
+    142726657,
+    734996610
+  ]
+}

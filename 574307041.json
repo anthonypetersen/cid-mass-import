@@ -1,0 +1,12 @@
+{
+  "key": "has_ever_hormone_therapy_annual",
+  "conceptID": 574307041,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "responses": [
+    924508148,
+    490591332,
+    620607721,
+    403265873
+  ]
+}

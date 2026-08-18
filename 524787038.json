@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_skin_exam_confirmed",
+  "conceptID": 524787038,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "responses": [
+    763680175,
+    671737436,
+    888331020,
+    917348031,
+    288089902
+  ]
+}

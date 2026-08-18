@@ -1,0 +1,10 @@
+{
+  "key": "severity_of_radiation_exposure_follow_up",
+  "conceptID": 506141416,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

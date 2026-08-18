@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_vaping_quarterly",
+  "conceptID": 238341761,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "sourceConceptId": 693873814,
+  "responses": [
+    891518243,
+    519622922,
+    736729822,
+    230637251,
+    345790951
+  ]
+}

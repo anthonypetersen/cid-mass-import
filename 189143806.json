@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_diabetes_baseline",
+  "conceptID": 189143806,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "sourceConceptId": 935055910,
+  "responses": [
+    568284718,
+    839702582,
+    208533316,
+    996074771,
+    606520193
+  ]
+}

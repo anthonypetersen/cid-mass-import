@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_anxiety_confirmed",
+  "conceptID": 677216365,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "sourceConceptId": 355786284,
+  "responses": [
+    311866307,
+    392829047,
+    368902208,
+    388509085,
+    702366122
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_smoking_first_occurrence",
+  "conceptID": 627613416,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "sourceConceptId": 557196660,
+  "responses": [
+    433550500,
+    306738732,
+    732488174,
+    607645219,
+    185155541
+  ]
+}

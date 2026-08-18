@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_oral_contraceptive_screening",
+  "conceptID": 669817809,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "sourceConceptId": 355786284,
+  "responses": [
+    891518243,
+    519622922,
+    736729822,
+    230637251,
+    345790951
+  ]
+}

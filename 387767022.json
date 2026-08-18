@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_chemotherapy_first_occurrence",
+  "conceptID": 387767022,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "responses": [
+    433550500,
+    306738732,
+    732488174,
+    607645219,
+    185155541
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_mammogram_pre_enrollment",
+  "conceptID": 180985900,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "sourceConceptId": 363692473,
+  "responses": [
+    737532966,
+    362342904,
+    347936215,
+    402939888,
+    126196117
+  ]
+}

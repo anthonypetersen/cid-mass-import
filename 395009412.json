@@ -1,0 +1,14 @@
+{
+  "key": "type_of_radiation_exposure_current",
+  "conceptID": 395009412,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "sourceConceptId": 167225166,
+  "responses": [
+    763680175,
+    671737436,
+    888331020,
+    917348031,
+    288089902
+  ]
+}

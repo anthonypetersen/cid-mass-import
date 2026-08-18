@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_alcohol_use_annual",
+  "conceptID": 114056875,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "sourceConceptId": 557196660,
+  "responses": [
+    744733938,
+    814214301,
+    806311897,
+    276332597,
+    699721200
+  ]
+}

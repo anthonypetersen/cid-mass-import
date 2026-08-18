@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_surgery_lifetime",
+  "conceptID": 974434748,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "sourceConceptId": 167225166,
+  "responses": [
+    858873535,
+    769258593,
+    148190165,
+    162406278,
+    252371216
+  ]
+}

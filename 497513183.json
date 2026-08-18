@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_diabetes_childhood",
+  "conceptID": 497513183,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "sourceConceptId": 283771088,
+  "responses": [
+    643539294,
+    540318200,
+    265621100,
+    142726657,
+    734996610
+  ]
+}

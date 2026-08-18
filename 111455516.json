@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_pregnancy_suspected",
+  "conceptID": 111455516,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "responses": [
+    941380958,
+    350426324,
+    735926855,
+    261660447,
+    223568566
+  ]
+}

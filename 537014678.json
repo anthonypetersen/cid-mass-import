@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_colonoscopy_baseline",
+  "conceptID": 537014678,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "responses": [
+    636615193,
+    390662015,
+    756472591,
+    365687810,
+    504786462
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "date_of_mammogram_annual",
+  "conceptID": 333902075,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "sourceConceptId": 363692473,
+  "responses": [
+    941380958,
+    350426324,
+    735926855,
+    261660447,
+    223568566
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_psa_test_quarterly",
+  "conceptID": 145862681,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "sourceConceptId": 167225166,
+  "responses": [
+    577501635,
+    593161478,
+    682637029,
+    493470379,
+    221342818
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "key": "age_at_first_hospitalization_quarterly",
+  "conceptID": 709607362,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "sourceConceptId": 693873814,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

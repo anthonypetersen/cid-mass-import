@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_psa_test_diagnostic",
+  "conceptID": 463239792,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "sourceConceptId": 935055910,
+  "responses": [
+    924508148,
+    490591332,
+    620607721,
+    403265873
+  ]
+}

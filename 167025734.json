@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_alcohol_use_confirmed",
+  "conceptID": 167025734,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "sourceConceptId": 363692473,
+  "responses": [
+    382415328,
+    138173599,
+    619782256,
+    286918962,
+    533380688
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "key": "provider_reported_surgery_suspected",
+  "conceptID": 703078341,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "responses": [
+    924508148,
+    490591332,
+    620607721,
+    403265873
+  ]
+}

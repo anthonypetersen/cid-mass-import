@@ -1,0 +1,13 @@
+{
+  "key": "type_of_radiation_exposure_quarterly",
+  "conceptID": 278513158,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "responses": [
+    398729598,
+    376835754,
+    232880924,
+    554137503,
+    340659906
+  ]
+}

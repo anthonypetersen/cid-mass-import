@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_arthritis_proxy_report",
+  "conceptID": 529847136,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "sourceConceptId": 872839827,
+  "responses": [
+    763680175,
+    671737436,
+    888331020,
+    917348031,
+    288089902
+  ]
+}

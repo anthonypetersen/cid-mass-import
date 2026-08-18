@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_skin_exam_quarterly",
+  "conceptID": 359610481,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "sourceConceptId": 693873814,
+  "responses": [
+    969753436,
+    775097819,
+    695080474,
+    816745084,
+    593927418
+  ]
+}

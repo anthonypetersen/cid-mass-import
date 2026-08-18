@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_psa_test_lifetime",
+  "conceptID": 561206019,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "sourceConceptId": 355786284,
+  "responses": [
+    858873535,
+    769258593,
+    148190165,
+    162406278,
+    252371216
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_hospitalization_lifetime",
+  "conceptID": 910334561,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "sourceConceptId": 355786284,
+  "responses": [
+    502216051,
+    890542150,
+    712889975,
+    414324578,
+    943778574
+  ]
+}

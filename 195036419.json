@@ -1,0 +1,11 @@
+{
+  "key": "current_status_hypertension_pre_enrollment",
+  "conceptID": 195036419,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "responses": [
+    179171223,
+    949361722,
+    948065095
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "key": "last_occurrence_mammogram_screening",
+  "conceptID": 250481225,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

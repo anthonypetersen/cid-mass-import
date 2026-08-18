@@ -1,0 +1,14 @@
+{
+  "key": "last_occurrence_oral_contraceptive_childhood",
+  "conceptID": 646176435,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "sourceConceptId": 283771088,
+  "responses": [
+    577501635,
+    593161478,
+    682637029,
+    493470379,
+    221342818
+  ]
+}

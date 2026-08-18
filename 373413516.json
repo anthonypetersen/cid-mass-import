@@ -1,0 +1,13 @@
+{
+  "key": "change_in_alcohol_use_confirmed",
+  "conceptID": 373413516,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "responses": [
+    286258710,
+    666013050,
+    898190979,
+    393740167,
+    813184577
+  ]
+}

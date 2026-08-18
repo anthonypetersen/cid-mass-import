@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_surgery_baseline",
+  "conceptID": 267112227,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "responses": [
+    216981353,
+    975471774,
+    260555361,
+    738486687,
+    729722106
+  ]
+}

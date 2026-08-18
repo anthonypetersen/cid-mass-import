@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_radiation_exposure_diagnostic",
+  "conceptID": 153636578,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "responses": [
+    286258710,
+    666013050,
+    898190979,
+    393740167,
+    813184577
+  ]
+}

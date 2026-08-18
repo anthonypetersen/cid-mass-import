@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_alcohol_use_first_occurrence",
+  "conceptID": 170919138,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "sourceConceptId": 712692038,
+  "responses": [
+    453651208,
+    218253522,
+    877331970,
+    432739350,
+    108573748
+  ]
+}

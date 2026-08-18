@@ -1,0 +1,12 @@
+{
+  "key": "confidence_in_colonoscopy_screening",
+  "conceptID": 703568810,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "sourceConceptId": 872839827,
+  "responses": [
+    179171223,
+    949361722,
+    948065095
+  ]
+}

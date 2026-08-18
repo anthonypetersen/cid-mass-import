@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_obesity_suspected",
+  "conceptID": 320955878,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "responses": [
+    286258710,
+    666013050,
+    898190979,
+    393740167,
+    813184577
+  ]
+}

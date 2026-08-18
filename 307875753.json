@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_pap_test_quarterly",
+  "conceptID": 307875753,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "sourceConceptId": 355786284,
+  "responses": [
+    763680175,
+    671737436,
+    888331020,
+    917348031,
+    288089902
+  ]
+}

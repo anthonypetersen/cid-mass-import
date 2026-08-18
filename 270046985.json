@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_hormone_therapy_lifetime",
+  "conceptID": 270046985,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "sourceConceptId": 723779304,
+  "responses": [
+    663346842,
+    396398216,
+    860202867,
+    236435154,
+    429175018
+  ]
+}

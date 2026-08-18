@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_pregnancy_proxy_report",
+  "conceptID": 141352281,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "sourceConceptId": 355786284,
+  "responses": [
+    286258710,
+    666013050,
+    898190979,
+    393740167,
+    813184577
+  ]
+}

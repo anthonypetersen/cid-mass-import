@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_diabetes_current",
+  "conceptID": 458337922,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "sourceConceptId": 693873814,
+  "responses": [
+    566024300,
+    499189394,
+    522125122,
+    513154086,
+    482548207
+  ]
+}
