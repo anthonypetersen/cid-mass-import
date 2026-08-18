@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_hospitalization_lifetime",
+  "conceptID": 850688062,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "responses": [
+    737532966,
+    362342904,
+    347936215,
+    402939888,
+    126196117
+  ]
+}

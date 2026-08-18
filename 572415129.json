@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_surgery_first_occurrence",
+  "conceptID": 572415129,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "responses": [
+    577501635,
+    593161478,
+    682637029,
+    493470379,
+    221342818
+  ]
+}

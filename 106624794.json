@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_smoking_quarterly",
+  "conceptID": 106624794,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "sourceConceptId": 693873814,
+  "responses": [
+    300863917,
+    471575730,
+    247093719,
+    689199750,
+    402338039
+  ]
+}

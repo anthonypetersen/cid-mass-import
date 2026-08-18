@@ -1,0 +1,12 @@
+{
+  "key": "current_status_oral_contraceptive_past_30_days",
+  "conceptID": 668971432,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "sourceConceptId": 935055910,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

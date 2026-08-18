@@ -1,0 +1,14 @@
+{
+  "key": "type_of_surgery_post_enrollment",
+  "conceptID": 926138531,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "sourceConceptId": 355786284,
+  "responses": [
+    153616768,
+    336497585,
+    704926440,
+    701528419,
+    604901244
+  ]
+}

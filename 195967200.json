@@ -1,0 +1,14 @@
+{
+  "key": "current_status_psa_test_screening",
+  "conceptID": 195967200,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "sourceConceptId": 363692473,
+  "responses": [
+    555888342,
+    708991182,
+    784719415,
+    992310951,
+    834379624
+  ]
+}

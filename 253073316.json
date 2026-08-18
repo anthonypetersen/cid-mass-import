@@ -1,0 +1,14 @@
+{
+  "key": "current_status_breastfeeding_lifetime",
+  "conceptID": 253073316,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "sourceConceptId": 693873814,
+  "responses": [
+    398729598,
+    376835754,
+    232880924,
+    554137503,
+    340659906
+  ]
+}

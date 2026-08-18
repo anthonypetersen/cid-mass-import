@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_surgery_annual",
+  "conceptID": 447733223,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "sourceConceptId": 167225166,
+  "responses": [
+    298805882,
+    994168209,
+    615116498,
+    989707841,
+    247479546
+  ]
+}

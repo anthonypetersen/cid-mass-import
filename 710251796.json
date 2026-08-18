@@ -1,0 +1,13 @@
+{
+  "key": "reason_for_hormone_therapy_adulthood",
+  "conceptID": 710251796,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "sourceConceptId": 693873814,
+  "responses": [
+    924508148,
+    490591332,
+    620607721,
+    403265873
+  ]
+}

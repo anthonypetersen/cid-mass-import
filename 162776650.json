@@ -1,0 +1,11 @@
+{
+  "key": "reason_for_red_meat_diagnostic",
+  "conceptID": 162776650,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "sourceConceptId": 363692473,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

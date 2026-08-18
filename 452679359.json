@@ -1,0 +1,13 @@
+{
+  "key": "type_of_hypertension_diagnostic",
+  "conceptID": 452679359,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "responses": [
+    763680175,
+    671737436,
+    888331020,
+    917348031,
+    288089902
+  ]
+}

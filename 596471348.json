@@ -1,0 +1,12 @@
+{
+  "key": "change_in_hypertension_follow_up",
+  "conceptID": 596471348,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "sourceConceptId": 693873814,
+  "responses": [
+    179171223,
+    949361722,
+    948065095
+  ]
+}

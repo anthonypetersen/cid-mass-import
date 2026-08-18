@@ -1,0 +1,13 @@
+{
+  "key": "current_status_mammogram_pre_enrollment",
+  "conceptID": 941972585,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "responses": [
+    577501635,
+    593161478,
+    682637029,
+    493470379,
+    221342818
+  ]
+}

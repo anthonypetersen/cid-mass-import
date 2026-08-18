@@ -1,0 +1,14 @@
+{
+  "key": "date_of_arthritis_annual",
+  "conceptID": 777436800,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "sourceConceptId": 935055910,
+  "responses": [
+    450679250,
+    591095914,
+    986041937,
+    542799413,
+    873533959
+  ]
+}

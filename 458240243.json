@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_obesity_baseline",
+  "conceptID": 458240243,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "sourceConceptId": 557196660,
+  "responses": [
+    382415328,
+    138173599,
+    619782256,
+    286918962,
+    533380688
+  ]
+}

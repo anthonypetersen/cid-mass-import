@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_fruit_intake_first_occurrence",
+  "conceptID": 668116897,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "sourceConceptId": 363692473,
+  "responses": [
+    502216051,
+    890542150,
+    712889975,
+    414324578,
+    943778574
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_asthma_confirmed",
+  "conceptID": 549213172,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "responses": [
+    441937069,
+    740844861,
+    921365155,
+    830529584,
+    495426092
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_breastfeeding_follow_up",
+  "conceptID": 776154560,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "responses": [
+    555888342,
+    708991182,
+    784719415,
+    992310951,
+    834379624
+  ]
+}

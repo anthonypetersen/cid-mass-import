@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_sleep_apnea_lifetime",
+  "conceptID": 284346971,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "sourceConceptId": 723779304,
+  "responses": [
+    298805882,
+    994168209,
+    615116498,
+    989707841,
+    247479546
+  ]
+}

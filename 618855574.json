@@ -1,0 +1,14 @@
+{
+  "key": "last_occurrence_sun_exposure_annual",
+  "conceptID": 618855574,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "sourceConceptId": 872839827,
+  "responses": [
+    286258710,
+    666013050,
+    898190979,
+    393740167,
+    813184577
+  ]
+}

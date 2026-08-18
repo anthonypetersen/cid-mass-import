@@ -1,0 +1,11 @@
+{
+  "key": "date_of_sleep_apnea_first_occurrence",
+  "conceptID": 305416410,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_depression_screening",
+  "conceptID": 800155652,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "sourceConceptId": 935055910,
+  "responses": [
+    311866307,
+    392829047,
+    368902208,
+    388509085,
+    702366122
+  ]
+}

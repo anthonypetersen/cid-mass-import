@@ -1,0 +1,14 @@
+{
+  "key": "date_of_alcohol_use_screening",
+  "conceptID": 345221940,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "sourceConceptId": 557196660,
+  "responses": [
+    453651208,
+    218253522,
+    877331970,
+    432739350,
+    108573748
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_colonoscopy_current",
+  "conceptID": 975814357,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "sourceConceptId": 935055910,
+  "responses": [
+    225224764,
+    142908205,
+    361886131,
+    496885791,
+    611887522
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_arthritis_post_enrollment",
+  "conceptID": 931438235,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "sourceConceptId": 557196660,
+  "responses": [
+    216981353,
+    975471774,
+    260555361,
+    738486687,
+    729722106
+  ]
+}

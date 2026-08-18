@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_hormone_therapy_childhood",
+  "conceptID": 346680513,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "responses": [
+    117973083,
+    176952168,
+    682890945,
+    753727993,
+    960347699
+  ]
+}

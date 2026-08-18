@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_radiation_exposure_past_12_months",
+  "conceptID": 470097941,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "responses": [
+    763680175,
+    671737436,
+    888331020,
+    917348031,
+    288089902
+  ]
+}

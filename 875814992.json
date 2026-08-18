@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_skin_exam_adulthood",
+  "conceptID": 875814992,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "sourceConceptId": 723779304,
+  "responses": [
+    433550500,
+    306738732,
+    732488174,
+    607645219,
+    185155541
+  ]
+}

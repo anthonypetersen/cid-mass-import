@@ -1,0 +1,13 @@
+{
+  "key": "has_ever_arthritis_past_12_months",
+  "conceptID": 721748551,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "responses": [
+    286258710,
+    666013050,
+    898190979,
+    393740167,
+    813184577
+  ]
+}

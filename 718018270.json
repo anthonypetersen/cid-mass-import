@@ -1,0 +1,12 @@
+{
+  "key": "severity_of_chemotherapy_lifetime",
+  "conceptID": 718018270,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "sourceConceptId": 935055910,
+  "responses": [
+    179171223,
+    949361722,
+    948065095
+  ]
+}

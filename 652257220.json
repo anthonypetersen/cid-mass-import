@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_radiation_exposure_post_enrollment",
+  "conceptID": 652257220,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "sourceConceptId": 872839827,
+  "responses": [
+    298802151,
+    252374134,
+    725487576,
+    382801992,
+    212420948
+  ]
+}

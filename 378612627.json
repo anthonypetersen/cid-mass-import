@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_pregnancy_quarterly",
+  "conceptID": 378612627,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "responses": [
+    441937069,
+    740844861,
+    921365155,
+    830529584,
+    495426092
+  ]
+}

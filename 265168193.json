@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_vegetable_intake_first_occurrence",
+  "conceptID": 265168193,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "sourceConceptId": 167225166,
+  "responses": [
+    636615193,
+    390662015,
+    756472591,
+    365687810,
+    504786462
+  ]
+}

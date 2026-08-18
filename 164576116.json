@@ -1,0 +1,14 @@
+{
+  "key": "type_of_radiation_exposure_baseline",
+  "conceptID": 164576116,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "sourceConceptId": 283771088,
+  "responses": [
+    744733938,
+    814214301,
+    806311897,
+    276332597,
+    699721200
+  ]
+}

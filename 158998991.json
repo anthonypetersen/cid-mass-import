@@ -1,0 +1,14 @@
+{
+  "key": "current_status_arthritis_annual",
+  "conceptID": 158998991,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "sourceConceptId": 723779304,
+  "responses": [
+    153616768,
+    336497585,
+    704926440,
+    701528419,
+    604901244
+  ]
+}

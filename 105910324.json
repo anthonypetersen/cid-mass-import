@@ -1,0 +1,14 @@
+{
+  "key": "type_of_hypertension_confirmed",
+  "conceptID": 105910324,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "sourceConceptId": 167225166,
+  "responses": [
+    636615193,
+    390662015,
+    756472591,
+    365687810,
+    504786462
+  ]
+}

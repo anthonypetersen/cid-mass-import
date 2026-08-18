@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_fruit_intake_annual",
+  "conceptID": 976577195,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "sourceConceptId": 355786284,
+  "responses": [
+    636615193,
+    390662015,
+    756472591,
+    365687810,
+    504786462
+  ]
+}

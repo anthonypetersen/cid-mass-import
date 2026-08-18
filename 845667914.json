@@ -1,0 +1,14 @@
+{
+  "key": "change_in_radiation_exposure_first_occurrence",
+  "conceptID": 845667914,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "sourceConceptId": 557196660,
+  "responses": [
+    153616768,
+    336497585,
+    704926440,
+    701528419,
+    604901244
+  ]
+}

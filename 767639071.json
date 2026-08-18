@@ -1,0 +1,13 @@
+{
+  "key": "has_ever_diabetes_past_12_months",
+  "conceptID": 767639071,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "responses": [
+    253750658,
+    604867735,
+    363253336,
+    455190699,
+    490969770
+  ]
+}

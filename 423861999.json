@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_mammogram_diagnostic",
+  "conceptID": 423861999,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "responses": [
+    643539294,
+    540318200,
+    265621100,
+    142726657,
+    734996610
+  ]
+}

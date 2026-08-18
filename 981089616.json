@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_asthma_adulthood",
+  "conceptID": 981089616,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "sourceConceptId": 167225166,
+  "responses": [
+    566024300,
+    499189394,
+    522125122,
+    513154086,
+    482548207
+  ]
+}

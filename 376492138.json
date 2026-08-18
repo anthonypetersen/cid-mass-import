@@ -1,0 +1,10 @@
+{
+  "key": "confidence_in_hypertension_proxy_report",
+  "conceptID": 376492138,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_smoking_current",
+  "conceptID": 962514077,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "responses": [
+    487358882,
+    552219411,
+    188912142,
+    839503775,
+    151061438
+  ]
+}

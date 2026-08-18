@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_asthma_first_occurrence",
+  "conceptID": 191930582,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "sourceConceptId": 557196660,
+  "responses": [
+    476519996,
+    717523111,
+    458662226,
+    402508719,
+    906077259
+  ]
+}

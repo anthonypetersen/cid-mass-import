@@ -1,0 +1,13 @@
+{
+  "key": "current_status_surgery_diagnostic",
+  "conceptID": 122702205,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "responses": [
+    238728227,
+    880867317,
+    573107698,
+    856337830,
+    905055413
+  ]
+}

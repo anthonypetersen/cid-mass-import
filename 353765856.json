@@ -1,0 +1,14 @@
+{
+  "key": "type_of_skin_exam_proxy_report",
+  "conceptID": 353765856,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "sourceConceptId": 693873814,
+  "responses": [
+    487358882,
+    552219411,
+    188912142,
+    839503775,
+    151061438
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "reason_for_hypertension_suspected",
+  "conceptID": 288098056,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "responses": [
+    153616768,
+    336497585,
+    704926440,
+    701528419,
+    604901244
+  ]
+}

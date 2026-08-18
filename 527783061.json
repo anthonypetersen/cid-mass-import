@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_asthma_baseline",
+  "conceptID": 527783061,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "responses": [
+    153616768,
+    336497585,
+    704926440,
+    701528419,
+    604901244
+  ]
+}

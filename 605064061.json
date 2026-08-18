@@ -1,0 +1,13 @@
+{
+  "key": "reason_for_hospitalization_childhood",
+  "conceptID": 605064061,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "responses": [
+    398729598,
+    376835754,
+    232880924,
+    554137503,
+    340659906
+  ]
+}

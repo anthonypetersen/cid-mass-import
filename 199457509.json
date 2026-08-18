@@ -1,0 +1,11 @@
+{
+  "key": "change_in_sun_exposure_adulthood",
+  "conceptID": 199457509,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "sourceConceptId": 557196660,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

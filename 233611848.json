@@ -1,0 +1,12 @@
+{
+  "key": "frequency_of_radiation_exposure_self_report",
+  "conceptID": 233611848,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "responses": [
+    650729817,
+    909602175,
+    169824165,
+    747638213
+  ]
+}

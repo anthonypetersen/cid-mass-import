@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_hormone_therapy_annual",
+  "conceptID": 460216132,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "sourceConceptId": 167225166,
+  "responses": [
+    505092515,
+    231936346,
+    656869759,
+    826833277,
+    287568690
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_breastfeeding_adulthood",
+  "conceptID": 373004193,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "sourceConceptId": 723779304,
+  "responses": [
+    891518243,
+    519622922,
+    736729822,
+    230637251,
+    345790951
+  ]
+}

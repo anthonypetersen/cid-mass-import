@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_asthma_past_12_months",
+  "conceptID": 524520365,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "sourceConceptId": 712692038,
+  "responses": [
+    941380958,
+    350426324,
+    735926855,
+    261660447,
+    223568566
+  ]
+}

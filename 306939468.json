@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_vaping_pre_enrollment",
+  "conceptID": 306939468,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "sourceConceptId": 355786284,
+  "responses": [
+    238728227,
+    880867317,
+    573107698,
+    856337830,
+    905055413
+  ]
+}

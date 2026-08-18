@@ -1,0 +1,13 @@
+{
+  "key": "current_status_hormone_therapy_baseline",
+  "conceptID": 280119766,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "responses": [
+    891518243,
+    519622922,
+    736729822,
+    230637251,
+    345790951
+  ]
+}

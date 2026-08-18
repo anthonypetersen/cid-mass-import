@@ -1,0 +1,14 @@
+{
+  "key": "number_of_red_meat_pre_enrollment",
+  "conceptID": 929193913,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "sourceConceptId": 693873814,
+  "responses": [
+    253750658,
+    604867735,
+    363253336,
+    455190699,
+    490969770
+  ]
+}

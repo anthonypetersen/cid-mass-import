@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_psa_test_self_report",
+  "conceptID": 475400830,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "sourceConceptId": 872839827,
+  "responses": [
+    311866307,
+    392829047,
+    368902208,
+    388509085,
+    702366122
+  ]
+}

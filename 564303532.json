@@ -1,0 +1,14 @@
+{
+  "key": "type_of_red_meat_diagnostic",
+  "conceptID": 564303532,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "sourceConceptId": 167225166,
+  "responses": [
+    663346842,
+    396398216,
+    860202867,
+    236435154,
+    429175018
+  ]
+}

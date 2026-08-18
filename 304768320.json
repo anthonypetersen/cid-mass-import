@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_depression_annual",
+  "conceptID": 304768320,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "responses": [
+    153616768,
+    336497585,
+    704926440,
+    701528419,
+    604901244
+  ]
+}

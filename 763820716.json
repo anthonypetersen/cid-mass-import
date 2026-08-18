@@ -1,0 +1,14 @@
+{
+  "key": "type_of_depression_diagnostic",
+  "conceptID": 763820716,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "sourceConceptId": 723779304,
+  "responses": [
+    441937069,
+    740844861,
+    921365155,
+    830529584,
+    495426092
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_hormone_therapy_adulthood",
+  "conceptID": 865136795,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "sourceConceptId": 557196660,
+  "responses": [
+    663346842,
+    396398216,
+    860202867,
+    236435154,
+    429175018
+  ]
+}

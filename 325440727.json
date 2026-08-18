@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_hypertension_baseline",
+  "conceptID": 325440727,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "responses": [
+    969753436,
+    775097819,
+    695080474,
+    816745084,
+    593927418
+  ]
+}

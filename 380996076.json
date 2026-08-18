@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_vegetable_intake_past_12_months",
+  "conceptID": 380996076,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "responses": [
+    453651208,
+    218253522,
+    877331970,
+    432739350,
+    108573748
+  ]
+}

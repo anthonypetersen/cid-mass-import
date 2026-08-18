@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_depression_past_30_days",
+  "conceptID": 760235545,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "responses": [
+    238728227,
+    880867317,
+    573107698,
+    856337830,
+    905055413
+  ]
+}

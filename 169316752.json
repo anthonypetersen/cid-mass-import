@@ -1,0 +1,13 @@
+{
+  "key": "current_status_surgery_past_30_days",
+  "conceptID": 169316752,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "responses": [
+    636615193,
+    390662015,
+    756472591,
+    365687810,
+    504786462
+  ]
+}
