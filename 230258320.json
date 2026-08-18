@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_exercise_past_30_days",
+  "conceptID": 230258320,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "responses": [
+    636615193,
+    390662015,
+    756472591,
+    365687810,
+    504786462
+  ]
+}

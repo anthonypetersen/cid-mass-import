@@ -1,0 +1,12 @@
+{
+  "key": "provider_reported_hospitalization_lifetime",
+  "conceptID": 237693737,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 577302045,
+  "sourceConceptId": 363692473,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

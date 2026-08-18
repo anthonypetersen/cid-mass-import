@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_sun_exposure_past_12_months",
+  "conceptID": 679529781,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "sourceConceptId": 167225166,
+  "responses": [
+    763680175,
+    671737436,
+    888331020,
+    917348031,
+    288089902
+  ]
+}

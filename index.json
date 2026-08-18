@@ -1,7 +1,7 @@
 {
   "_metadata": {
-    "last_updated": "2026-08-18T18:00:11.615Z",
-    "total_files": 4500,
+    "last_updated": "2026-08-18T18:00:18.915Z",
+    "total_files": 5000,
     "version": "2.0"
   },
   "_files": {
@@ -18004,6 +18004,2006 @@
     "725681547.json": {
       "key": "self_reported_red_meat_suspected",
       "object_type": "QUESTION"
+    },
+    "192395983.json": {
+      "key": "provider_reported_alcohol_use_adulthood",
+      "object_type": "QUESTION"
+    },
+    "712768237.json": {
+      "key": "confidence_in_psa_test_screening",
+      "object_type": "QUESTION"
+    },
+    "234652955.json": {
+      "key": "number_of_smoking_annual",
+      "object_type": "QUESTION"
+    },
+    "334718923.json": {
+      "key": "has_ever_chemotherapy_annual",
+      "object_type": "QUESTION"
+    },
+    "393311476.json": {
+      "key": "frequency_of_skin_exam_quarterly",
+      "object_type": "QUESTION"
+    },
+    "916843301.json": {
+      "key": "duration_of_red_meat_follow_up",
+      "object_type": "QUESTION"
+    },
+    "369873674.json": {
+      "key": "frequency_of_asthma_annual",
+      "object_type": "QUESTION"
+    },
+    "852985306.json": {
+      "key": "duration_of_smoking_diagnostic",
+      "object_type": "QUESTION"
+    },
+    "386707517.json": {
+      "key": "date_of_obesity_confirmed",
+      "object_type": "QUESTION"
+    },
+    "989045977.json": {
+      "key": "provider_reported_vegetable_intake_annual",
+      "object_type": "QUESTION"
+    },
+    "869761322.json": {
+      "key": "self_reported_depression_most_recent",
+      "object_type": "QUESTION"
+    },
+    "722830748.json": {
+      "key": "reason_for_psa_test_post_enrollment",
+      "object_type": "QUESTION"
+    },
+    "670513433.json": {
+      "key": "date_of_fruit_intake_proxy_report",
+      "object_type": "QUESTION"
+    },
+    "590190145.json": {
+      "key": "frequency_of_vegetable_intake_first_occurrence",
+      "object_type": "QUESTION"
+    },
+    "831794151.json": {
+      "key": "duration_of_colonoscopy_follow_up",
+      "object_type": "QUESTION"
+    },
+    "967334675.json": {
+      "key": "has_ever_arthritis_post_enrollment",
+      "object_type": "QUESTION"
+    },
+    "485362886.json": {
+      "key": "self_reported_exercise_follow_up",
+      "object_type": "QUESTION"
+    },
+    "351113160.json": {
+      "key": "frequency_of_exercise_childhood",
+      "object_type": "QUESTION"
+    },
+    "102535014.json": {
+      "key": "change_in_hospitalization_confirmed",
+      "object_type": "QUESTION"
+    },
+    "340781183.json": {
+      "key": "frequency_of_skin_exam_past_30_days",
+      "object_type": "QUESTION"
+    },
+    "506895346.json": {
+      "key": "last_occurrence_sleep_apnea_lifetime",
+      "object_type": "QUESTION"
+    },
+    "897435848.json": {
+      "key": "confidence_in_pregnancy_baseline",
+      "object_type": "QUESTION"
+    },
+    "580555187.json": {
+      "key": "number_of_depression_pre_enrollment",
+      "object_type": "QUESTION"
+    },
+    "993879363.json": {
+      "key": "has_ever_depression_current",
+      "object_type": "QUESTION"
+    },
+    "204714769.json": {
+      "key": "severity_of_mammogram_most_recent",
+      "object_type": "QUESTION"
+    },
+    "372229748.json": {
+      "key": "confidence_in_chemotherapy_childhood",
+      "object_type": "QUESTION"
+    },
+    "822194231.json": {
+      "key": "current_status_asthma_diagnostic",
+      "object_type": "QUESTION"
+    },
+    "846798116.json": {
+      "key": "number_of_diabetes_pre_enrollment",
+      "object_type": "QUESTION"
+    },
+    "716302355.json": {
+      "key": "change_in_pregnancy_past_12_months",
+      "object_type": "QUESTION"
+    },
+    "767880331.json": {
+      "key": "age_at_first_vegetable_intake_self_report",
+      "object_type": "QUESTION"
+    },
+    "832784132.json": {
+      "key": "change_in_sun_exposure_childhood",
+      "object_type": "QUESTION"
+    },
+    "545735224.json": {
+      "key": "last_occurrence_pap_test_screening",
+      "object_type": "QUESTION"
+    },
+    "214871191.json": {
+      "key": "self_reported_colonoscopy_current",
+      "object_type": "QUESTION"
+    },
+    "601112736.json": {
+      "key": "reason_for_alcohol_use_first_occurrence",
+      "object_type": "QUESTION"
+    },
+    "404536603.json": {
+      "key": "frequency_of_colonoscopy_current",
+      "object_type": "QUESTION"
+    },
+    "409744782.json": {
+      "key": "change_in_chemotherapy_most_recent",
+      "object_type": "QUESTION"
+    },
+    "632841433.json": {
+      "key": "age_at_first_pregnancy_proxy_report",
+      "object_type": "QUESTION"
+    },
+    "273513045.json": {
+      "key": "frequency_of_arthritis_self_report",
+      "object_type": "QUESTION"
+    },
+    "798378343.json": {
+      "key": "confidence_in_vaping_adulthood",
+      "object_type": "QUESTION"
+    },
+    "833101954.json": {
+      "key": "confidence_in_breastfeeding_past_30_days",
+      "object_type": "QUESTION"
+    },
+    "869669014.json": {
+      "key": "frequency_of_anxiety_post_enrollment",
+      "object_type": "QUESTION"
+    },
+    "355509011.json": {
+      "key": "change_in_vegetable_intake_confirmed",
+      "object_type": "QUESTION"
+    },
+    "324645165.json": {
+      "key": "change_in_surgery_adulthood",
+      "object_type": "QUESTION"
+    },
+    "652458242.json": {
+      "key": "reason_for_skin_exam_self_report",
+      "object_type": "QUESTION"
+    },
+    "483282714.json": {
+      "key": "number_of_alcohol_use_screening",
+      "object_type": "QUESTION"
+    },
+    "891791440.json": {
+      "key": "change_in_hypertension_suspected",
+      "object_type": "QUESTION"
+    },
+    "843167305.json": {
+      "key": "reason_for_alcohol_use_lifetime",
+      "object_type": "QUESTION"
+    },
+    "742357895.json": {
+      "key": "number_of_arthritis_most_recent",
+      "object_type": "QUESTION"
+    },
+    "262668084.json": {
+      "key": "change_in_red_meat_suspected",
+      "object_type": "QUESTION"
+    },
+    "603918290.json": {
+      "key": "current_status_psa_test_current",
+      "object_type": "QUESTION"
+    },
+    "326792520.json": {
+      "key": "last_occurrence_red_meat_adulthood",
+      "object_type": "QUESTION"
+    },
+    "561154405.json": {
+      "key": "severity_of_hormone_therapy_most_recent",
+      "object_type": "QUESTION"
+    },
+    "383295054.json": {
+      "key": "date_of_obesity_lifetime",
+      "object_type": "QUESTION"
+    },
+    "930567804.json": {
+      "key": "frequency_of_colonoscopy_past_12_months",
+      "object_type": "QUESTION"
+    },
+    "714164259.json": {
+      "key": "confidence_in_obesity_confirmed",
+      "object_type": "QUESTION"
+    },
+    "997809504.json": {
+      "key": "last_occurrence_sunscreen_use_past_30_days",
+      "object_type": "QUESTION"
+    },
+    "186840941.json": {
+      "key": "date_of_colonoscopy_current",
+      "object_type": "QUESTION"
+    },
+    "590676771.json": {
+      "key": "duration_of_vegetable_intake_lifetime",
+      "object_type": "QUESTION"
+    },
+    "400565300.json": {
+      "key": "duration_of_hormone_therapy_most_recent",
+      "object_type": "QUESTION"
+    },
+    "146586013.json": {
+      "key": "number_of_skin_exam_annual",
+      "object_type": "QUESTION"
+    },
+    "957007205.json": {
+      "key": "reason_for_hypertension_quarterly",
+      "object_type": "QUESTION"
+    },
+    "853865498.json": {
+      "key": "provider_reported_depression_screening",
+      "object_type": "QUESTION"
+    },
+    "183706558.json": {
+      "key": "change_in_surgery_past_30_days",
+      "object_type": "QUESTION"
+    },
+    "171545806.json": {
+      "key": "provider_reported_arthritis_post_enrollment",
+      "object_type": "QUESTION"
+    },
+    "370001879.json": {
+      "key": "current_status_anxiety_past_30_days",
+      "object_type": "QUESTION"
+    },
+    "436104794.json": {
+      "key": "severity_of_alcohol_use_current",
+      "object_type": "QUESTION"
+    },
+    "664866322.json": {
+      "key": "current_status_hormone_therapy_lifetime",
+      "object_type": "QUESTION"
+    },
+    "727304589.json": {
+      "key": "duration_of_fruit_intake_baseline",
+      "object_type": "QUESTION"
+    },
+    "650571921.json": {
+      "key": "severity_of_hypertension_most_recent",
+      "object_type": "QUESTION"
+    },
+    "901376366.json": {
+      "key": "current_status_depression_confirmed",
+      "object_type": "QUESTION"
+    },
+    "738373205.json": {
+      "key": "type_of_vegetable_intake_adulthood",
+      "object_type": "QUESTION"
+    },
+    "434925020.json": {
+      "key": "number_of_vegetable_intake_lifetime",
+      "object_type": "QUESTION"
+    },
+    "803092401.json": {
+      "key": "current_status_hospitalization_diagnostic",
+      "object_type": "QUESTION"
+    },
+    "746966097.json": {
+      "key": "current_status_depression_current",
+      "object_type": "QUESTION"
+    },
+    "383036780.json": {
+      "key": "date_of_mammogram_pre_enrollment",
+      "object_type": "QUESTION"
+    },
+    "433799846.json": {
+      "key": "reason_for_obesity_childhood",
+      "object_type": "QUESTION"
+    },
+    "114119925.json": {
+      "key": "self_reported_vaping_childhood",
+      "object_type": "QUESTION"
+    },
+    "342452758.json": {
+      "key": "change_in_colonoscopy_self_report",
+      "object_type": "QUESTION"
+    },
+    "201262885.json": {
+      "key": "provider_reported_pregnancy_screening",
+      "object_type": "QUESTION"
+    },
+    "179768933.json": {
+      "key": "confidence_in_diabetes_quarterly",
+      "object_type": "QUESTION"
+    },
+    "923204836.json": {
+      "key": "has_ever_sleep_apnea_baseline",
+      "object_type": "QUESTION"
+    },
+    "247984852.json": {
+      "key": "age_at_first_depression_proxy_report",
+      "object_type": "QUESTION"
+    },
+    "431665110.json": {
+      "key": "duration_of_anxiety_past_30_days",
+      "object_type": "QUESTION"
+    },
+    "386446433.json": {
+      "key": "type_of_fruit_intake_follow_up",
+      "object_type": "QUESTION"
+    },
+    "842459251.json": {
+      "key": "confidence_in_hormone_therapy_confirmed",
+      "object_type": "QUESTION"
+    },
+    "807606300.json": {
+      "key": "frequency_of_pap_test_pre_enrollment",
+      "object_type": "QUESTION"
+    },
+    "392018650.json": {
+      "key": "has_ever_sunscreen_use_proxy_report",
+      "object_type": "QUESTION"
+    },
+    "232394255.json": {
+      "key": "current_status_asthma_annual",
+      "object_type": "QUESTION"
+    },
+    "910407719.json": {
+      "key": "has_ever_psa_test_childhood",
+      "object_type": "QUESTION"
+    },
+    "741827363.json": {
+      "key": "confidence_in_exercise_past_12_months",
+      "object_type": "QUESTION"
+    },
+    "950894913.json": {
+      "key": "has_ever_skin_exam_diagnostic",
+      "object_type": "QUESTION"
+    },
+    "969174227.json": {
+      "key": "date_of_colonoscopy_post_enrollment",
+      "object_type": "QUESTION"
+    },
+    "452050628.json": {
+      "key": "confidence_in_arthritis_childhood",
+      "object_type": "QUESTION"
+    },
+    "921570595.json": {
+      "key": "reason_for_vegetable_intake_current",
+      "object_type": "QUESTION"
+    },
+    "649430204.json": {
+      "key": "duration_of_mammogram_adulthood",
+      "object_type": "QUESTION"
+    },
+    "208145891.json": {
+      "key": "severity_of_sleep_apnea_pre_enrollment",
+      "object_type": "QUESTION"
+    },
+    "859394751.json": {
+      "key": "number_of_oral_contraceptive_suspected",
+      "object_type": "QUESTION"
+    },
+    "776832133.json": {
+      "key": "age_at_first_psa_test_quarterly",
+      "object_type": "QUESTION"
+    },
+    "795803736.json": {
+      "key": "reason_for_smoking_adulthood",
+      "object_type": "QUESTION"
+    },
+    "129392856.json": {
+      "key": "date_of_red_meat_quarterly",
+      "object_type": "QUESTION"
+    },
+    "238234688.json": {
+      "key": "age_at_first_obesity_self_report",
+      "object_type": "QUESTION"
+    },
+    "233812254.json": {
+      "key": "date_of_sleep_apnea_past_30_days",
+      "object_type": "QUESTION"
+    },
+    "965653633.json": {
+      "key": "type_of_hormone_therapy_most_recent",
+      "object_type": "QUESTION"
+    },
+    "328945070.json": {
+      "key": "age_at_first_hospitalization_diagnostic",
+      "object_type": "QUESTION"
+    },
+    "890967626.json": {
+      "key": "has_ever_red_meat_screening",
+      "object_type": "QUESTION"
+    },
+    "613353118.json": {
+      "key": "frequency_of_oral_contraceptive_first_occurrence",
+      "object_type": "QUESTION"
+    },
+    "611234277.json": {
+      "key": "self_reported_oral_contraceptive_quarterly",
+      "object_type": "QUESTION"
+    },
+    "538354560.json": {
+      "key": "has_ever_colonoscopy_confirmed",
+      "object_type": "QUESTION"
+    },
+    "763072818.json": {
+      "key": "number_of_pregnancy_most_recent",
+      "object_type": "QUESTION"
+    },
+    "402826677.json": {
+      "key": "severity_of_sun_exposure_follow_up",
+      "object_type": "QUESTION"
+    },
+    "130688415.json": {
+      "key": "has_ever_chemotherapy_self_report",
+      "object_type": "QUESTION"
+    },
+    "583971313.json": {
+      "key": "severity_of_anxiety_proxy_report",
+      "object_type": "QUESTION"
+    },
+    "310242784.json": {
+      "key": "number_of_depression_childhood",
+      "object_type": "QUESTION"
+    },
+    "259698573.json": {
+      "key": "has_ever_pap_test_current",
+      "object_type": "QUESTION"
+    },
+    "887692676.json": {
+      "key": "age_at_first_alcohol_use_most_recent",
+      "object_type": "QUESTION"
+    },
+    "319762720.json": {
+      "key": "has_ever_obesity_screening",
+      "object_type": "QUESTION"
+    },
+    "279050778.json": {
+      "key": "last_occurrence_arthritis_first_occurrence",
+      "object_type": "QUESTION"
+    },
+    "990074404.json": {
+      "key": "duration_of_radiation_exposure_pre_enrollment",
+      "object_type": "QUESTION"
+    },
+    "608163447.json": {
+      "key": "confidence_in_vaping_current",
+      "object_type": "QUESTION"
+    },
+    "705555341.json": {
+      "key": "date_of_vaping_quarterly",
+      "object_type": "QUESTION"
+    },
+    "148543737.json": {
+      "key": "frequency_of_obesity_most_recent",
+      "object_type": "QUESTION"
+    },
+    "969209550.json": {
+      "key": "date_of_smoking_suspected",
+      "object_type": "QUESTION"
+    },
+    "749281603.json": {
+      "key": "change_in_colonoscopy_most_recent",
+      "object_type": "QUESTION"
+    },
+    "441629045.json": {
+      "key": "has_ever_colonoscopy_most_recent",
+      "object_type": "QUESTION"
+    },
+    "809866701.json": {
+      "key": "last_occurrence_hospitalization_annual",
+      "object_type": "QUESTION"
+    },
+    "491930445.json": {
+      "key": "current_status_breastfeeding_current",
+      "object_type": "QUESTION"
+    },
+    "786658282.json": {
+      "key": "last_occurrence_red_meat_past_30_days",
+      "object_type": "QUESTION"
+    },
+    "864968728.json": {
+      "key": "last_occurrence_skin_exam_current",
+      "object_type": "QUESTION"
+    },
+    "237693737.json": {
+      "key": "provider_reported_hospitalization_lifetime",
+      "object_type": "QUESTION"
+    },
+    "569870350.json": {
+      "key": "provider_reported_surgery_follow_up",
+      "object_type": "QUESTION"
+    },
+    "263872927.json": {
+      "key": "frequency_of_hypertension_confirmed",
+      "object_type": "QUESTION"
+    },
+    "500339471.json": {
+      "key": "confidence_in_breastfeeding_most_recent",
+      "object_type": "QUESTION"
+    },
+    "565141636.json": {
+      "key": "provider_reported_surgery_diagnostic",
+      "object_type": "QUESTION"
+    },
+    "785305618.json": {
+      "key": "provider_reported_asthma_follow_up",
+      "object_type": "QUESTION"
+    },
+    "668277892.json": {
+      "key": "severity_of_oral_contraceptive_past_30_days",
+      "object_type": "QUESTION"
+    },
+    "452657150.json": {
+      "key": "current_status_hormone_therapy_first_occurrence",
+      "object_type": "QUESTION"
+    },
+    "641182861.json": {
+      "key": "change_in_diabetes_past_12_months",
+      "object_type": "QUESTION"
+    },
+    "108901301.json": {
+      "key": "confidence_in_vaping_childhood",
+      "object_type": "QUESTION"
+    },
+    "657601019.json": {
+      "key": "provider_reported_sun_exposure_diagnostic",
+      "object_type": "QUESTION"
+    },
+    "165524575.json": {
+      "key": "last_occurrence_pregnancy_annual",
+      "object_type": "QUESTION"
+    },
+    "459669842.json": {
+      "key": "duration_of_skin_exam_most_recent",
+      "object_type": "QUESTION"
+    },
+    "949807568.json": {
+      "key": "frequency_of_hypertension_diagnostic",
+      "object_type": "QUESTION"
+    },
+    "909284968.json": {
+      "key": "self_reported_red_meat_current",
+      "object_type": "QUESTION"
+    },
+    "339631856.json": {
+      "key": "number_of_skin_exam_quarterly",
+      "object_type": "QUESTION"
+    },
+    "899907371.json": {
+      "key": "current_status_radiation_exposure_confirmed",
+      "object_type": "QUESTION"
+    },
+    "456119134.json": {
+      "key": "confidence_in_obesity_quarterly",
+      "object_type": "QUESTION"
+    },
+    "286274194.json": {
+      "key": "duration_of_breastfeeding_annual",
+      "object_type": "QUESTION"
+    },
+    "998885140.json": {
+      "key": "duration_of_red_meat_current",
+      "object_type": "QUESTION"
+    },
+    "837963471.json": {
+      "key": "type_of_colonoscopy_pre_enrollment",
+      "object_type": "QUESTION"
+    },
+    "170161486.json": {
+      "key": "number_of_red_meat_childhood",
+      "object_type": "QUESTION"
+    },
+    "297982158.json": {
+      "key": "duration_of_asthma_suspected",
+      "object_type": "QUESTION"
+    },
+    "791189771.json": {
+      "key": "reason_for_vaping_post_enrollment",
+      "object_type": "QUESTION"
+    },
+    "698181078.json": {
+      "key": "confidence_in_radiation_exposure_self_report",
+      "object_type": "QUESTION"
+    },
+    "576291661.json": {
+      "key": "change_in_skin_exam_follow_up",
+      "object_type": "QUESTION"
+    },
+    "742055241.json": {
+      "key": "provider_reported_chemotherapy_confirmed",
+      "object_type": "QUESTION"
+    },
+    "413939893.json": {
+      "key": "current_status_hospitalization_self_report",
+      "object_type": "QUESTION"
+    },
+    "657002142.json": {
+      "key": "frequency_of_oral_contraceptive_confirmed",
+      "object_type": "QUESTION"
+    },
+    "313413625.json": {
+      "key": "change_in_red_meat_most_recent",
+      "object_type": "QUESTION"
+    },
+    "612410520.json": {
+      "key": "duration_of_breastfeeding_current",
+      "object_type": "QUESTION"
+    },
+    "983138488.json": {
+      "key": "type_of_sleep_apnea_suspected",
+      "object_type": "QUESTION"
+    },
+    "439929530.json": {
+      "key": "frequency_of_vegetable_intake_lifetime",
+      "object_type": "QUESTION"
+    },
+    "194225353.json": {
+      "key": "confidence_in_exercise_quarterly",
+      "object_type": "QUESTION"
+    },
+    "777461908.json": {
+      "key": "confidence_in_pregnancy_first_occurrence",
+      "object_type": "QUESTION"
+    },
+    "626826637.json": {
+      "key": "duration_of_vegetable_intake_most_recent",
+      "object_type": "QUESTION"
+    },
+    "201532393.json": {
+      "key": "number_of_hypertension_childhood",
+      "object_type": "QUESTION"
+    },
+    "734088082.json": {
+      "key": "provider_reported_hormone_therapy_quarterly",
+      "object_type": "QUESTION"
+    },
+    "318663176.json": {
+      "key": "confidence_in_sunscreen_use_post_enrollment",
+      "object_type": "QUESTION"
+    },
+    "533230147.json": {
+      "key": "type_of_fruit_intake_first_occurrence",
+      "object_type": "QUESTION"
+    },
+    "955278271.json": {
+      "key": "self_reported_breastfeeding_annual",
+      "object_type": "QUESTION"
+    },
+    "498071508.json": {
+      "key": "has_ever_depression_screening",
+      "object_type": "QUESTION"
+    },
+    "193180852.json": {
+      "key": "type_of_psa_test_childhood",
+      "object_type": "QUESTION"
+    },
+    "556782425.json": {
+      "key": "frequency_of_radiation_exposure_lifetime",
+      "object_type": "QUESTION"
+    },
+    "248336698.json": {
+      "key": "confidence_in_chemotherapy_most_recent",
+      "object_type": "QUESTION"
+    },
+    "665013069.json": {
+      "key": "last_occurrence_arthritis_proxy_report",
+      "object_type": "QUESTION"
+    },
+    "242742320.json": {
+      "key": "provider_reported_colonoscopy_baseline",
+      "object_type": "QUESTION"
+    },
+    "933349202.json": {
+      "key": "confidence_in_hospitalization_annual",
+      "object_type": "QUESTION"
+    },
+    "257532732.json": {
+      "key": "date_of_red_meat_follow_up",
+      "object_type": "QUESTION"
+    },
+    "801923688.json": {
+      "key": "provider_reported_diabetes_childhood",
+      "object_type": "QUESTION"
+    },
+    "517928724.json": {
+      "key": "duration_of_radiation_exposure_past_30_days",
+      "object_type": "QUESTION"
+    },
+    "722869814.json": {
+      "key": "frequency_of_chemotherapy_lifetime",
+      "object_type": "QUESTION"
+    },
+    "424222102.json": {
+      "key": "last_occurrence_arthritis_past_12_months",
+      "object_type": "QUESTION"
+    },
+    "168889476.json": {
+      "key": "number_of_obesity_lifetime",
+      "object_type": "QUESTION"
+    },
+    "798396496.json": {
+      "key": "age_at_first_colonoscopy_baseline",
+      "object_type": "QUESTION"
+    },
+    "684417487.json": {
+      "key": "date_of_diabetes_childhood",
+      "object_type": "QUESTION"
+    },
+    "845284452.json": {
+      "key": "duration_of_asthma_follow_up",
+      "object_type": "QUESTION"
+    },
+    "860644920.json": {
+      "key": "self_reported_chemotherapy_past_12_months",
+      "object_type": "QUESTION"
+    },
+    "236107995.json": {
+      "key": "change_in_radiation_exposure_annual",
+      "object_type": "QUESTION"
+    },
+    "266537084.json": {
+      "key": "change_in_asthma_quarterly",
+      "object_type": "QUESTION"
+    },
+    "474531596.json": {
+      "key": "age_at_first_exercise_confirmed",
+      "object_type": "QUESTION"
+    },
+    "134467975.json": {
+      "key": "reason_for_smoking_past_12_months",
+      "object_type": "QUESTION"
+    },
+    "427375992.json": {
+      "key": "confidence_in_diabetes_suspected",
+      "object_type": "QUESTION"
+    },
+    "768123726.json": {
+      "key": "confidence_in_red_meat_past_30_days",
+      "object_type": "QUESTION"
+    },
+    "373568239.json": {
+      "key": "self_reported_arthritis_first_occurrence",
+      "object_type": "QUESTION"
+    },
+    "917879139.json": {
+      "key": "age_at_first_skin_exam_past_30_days",
+      "object_type": "QUESTION"
+    },
+    "540126046.json": {
+      "key": "confidence_in_colonoscopy_childhood",
+      "object_type": "QUESTION"
+    },
+    "864589313.json": {
+      "key": "current_status_vaping_confirmed",
+      "object_type": "QUESTION"
+    },
+    "810661315.json": {
+      "key": "frequency_of_sunscreen_use_screening",
+      "object_type": "QUESTION"
+    },
+    "864562512.json": {
+      "key": "severity_of_hospitalization_past_12_months",
+      "object_type": "QUESTION"
+    },
+    "305614740.json": {
+      "key": "provider_reported_oral_contraceptive_first_occurrence",
+      "object_type": "QUESTION"
+    },
+    "524157956.json": {
+      "key": "number_of_breastfeeding_follow_up",
+      "object_type": "QUESTION"
+    },
+    "155912871.json": {
+      "key": "has_ever_radiation_exposure_diagnostic",
+      "object_type": "QUESTION"
+    },
+    "914750372.json": {
+      "key": "severity_of_hospitalization_adulthood",
+      "object_type": "QUESTION"
+    },
+    "420535626.json": {
+      "key": "current_status_exercise_screening",
+      "object_type": "QUESTION"
+    },
+    "918617278.json": {
+      "key": "self_reported_chemotherapy_diagnostic",
+      "object_type": "QUESTION"
+    },
+    "998342044.json": {
+      "key": "duration_of_exercise_most_recent",
+      "object_type": "QUESTION"
+    },
+    "165640195.json": {
+      "key": "age_at_first_pap_test_adulthood",
+      "object_type": "QUESTION"
+    },
+    "230258320.json": {
+      "key": "self_reported_exercise_past_30_days",
+      "object_type": "QUESTION"
+    },
+    "635427719.json": {
+      "key": "number_of_hypertension_lifetime",
+      "object_type": "QUESTION"
+    },
+    "213751446.json": {
+      "key": "confidence_in_alcohol_use_suspected",
+      "object_type": "QUESTION"
+    },
+    "249861577.json": {
+      "key": "self_reported_sunscreen_use_suspected",
+      "object_type": "QUESTION"
+    },
+    "949363274.json": {
+      "key": "age_at_first_hospitalization_current",
+      "object_type": "QUESTION"
+    },
+    "777791446.json": {
+      "key": "provider_reported_red_meat_suspected",
+      "object_type": "QUESTION"
+    },
+    "242758301.json": {
+      "key": "last_occurrence_smoking_past_30_days",
+      "object_type": "QUESTION"
+    },
+    "629401468.json": {
+      "key": "self_reported_hospitalization_proxy_report",
+      "object_type": "QUESTION"
+    },
+    "346275993.json": {
+      "key": "age_at_first_red_meat_current",
+      "object_type": "QUESTION"
+    },
+    "594863068.json": {
+      "key": "self_reported_red_meat_most_recent",
+      "object_type": "QUESTION"
+    },
+    "117919362.json": {
+      "key": "confidence_in_pregnancy_most_recent",
+      "object_type": "QUESTION"
+    },
+    "160600014.json": {
+      "key": "current_status_asthma_follow_up",
+      "object_type": "QUESTION"
+    },
+    "304401848.json": {
+      "key": "frequency_of_fruit_intake_baseline",
+      "object_type": "QUESTION"
+    },
+    "763488103.json": {
+      "key": "duration_of_diabetes_quarterly",
+      "object_type": "QUESTION"
+    },
+    "897422518.json": {
+      "key": "duration_of_hypertension_current",
+      "object_type": "QUESTION"
+    },
+    "301239918.json": {
+      "key": "last_occurrence_alcohol_use_confirmed",
+      "object_type": "QUESTION"
+    },
+    "684979149.json": {
+      "key": "last_occurrence_hospitalization_adulthood",
+      "object_type": "QUESTION"
+    },
+    "459560034.json": {
+      "key": "self_reported_red_meat_past_30_days",
+      "object_type": "QUESTION"
+    },
+    "990453117.json": {
+      "key": "number_of_skin_exam_current",
+      "object_type": "QUESTION"
+    },
+    "380145253.json": {
+      "key": "provider_reported_sunscreen_use_pre_enrollment",
+      "object_type": "QUESTION"
+    },
+    "263899026.json": {
+      "key": "change_in_exercise_screening",
+      "object_type": "QUESTION"
+    },
+    "769936961.json": {
+      "key": "provider_reported_radiation_exposure_follow_up",
+      "object_type": "QUESTION"
+    },
+    "465033207.json": {
+      "key": "severity_of_hormone_therapy_suspected",
+      "object_type": "QUESTION"
+    },
+    "272596910.json": {
+      "key": "current_status_pregnancy_diagnostic",
+      "object_type": "QUESTION"
+    },
+    "643089655.json": {
+      "key": "last_occurrence_anxiety_past_12_months",
+      "object_type": "QUESTION"
+    },
+    "835305431.json": {
+      "key": "type_of_fruit_intake_baseline",
+      "object_type": "QUESTION"
+    },
+    "759527695.json": {
+      "key": "date_of_vaping_post_enrollment",
+      "object_type": "QUESTION"
+    },
+    "861006004.json": {
+      "key": "frequency_of_diabetes_baseline",
+      "object_type": "QUESTION"
+    },
+    "716685240.json": {
+      "key": "confidence_in_alcohol_use_diagnostic",
+      "object_type": "QUESTION"
+    },
+    "572144797.json": {
+      "key": "self_reported_pregnancy_annual",
+      "object_type": "QUESTION"
+    },
+    "968804753.json": {
+      "key": "current_status_hospitalization_confirmed",
+      "object_type": "QUESTION"
+    },
+    "342836812.json": {
+      "key": "provider_reported_depression_proxy_report",
+      "object_type": "QUESTION"
+    },
+    "470086688.json": {
+      "key": "frequency_of_oral_contraceptive_baseline",
+      "object_type": "QUESTION"
+    },
+    "465792076.json": {
+      "key": "has_ever_diabetes_self_report",
+      "object_type": "QUESTION"
+    },
+    "322206314.json": {
+      "key": "reason_for_hormone_therapy_proxy_report",
+      "object_type": "QUESTION"
+    },
+    "808625441.json": {
+      "key": "number_of_breastfeeding_past_30_days",
+      "object_type": "QUESTION"
+    },
+    "493095586.json": {
+      "key": "type_of_radiation_exposure_past_30_days",
+      "object_type": "QUESTION"
+    },
+    "599510382.json": {
+      "key": "duration_of_hospitalization_past_12_months",
+      "object_type": "QUESTION"
+    },
+    "377418930.json": {
+      "key": "change_in_surgery_diagnostic",
+      "object_type": "QUESTION"
+    },
+    "489801468.json": {
+      "key": "age_at_first_pap_test_diagnostic",
+      "object_type": "QUESTION"
+    },
+    "342385613.json": {
+      "key": "last_occurrence_alcohol_use_adulthood",
+      "object_type": "QUESTION"
+    },
+    "376223246.json": {
+      "key": "age_at_first_sun_exposure_self_report",
+      "object_type": "QUESTION"
+    },
+    "359482604.json": {
+      "key": "reason_for_hormone_therapy_diagnostic",
+      "object_type": "QUESTION"
+    },
+    "478632170.json": {
+      "key": "current_status_surgery_post_enrollment",
+      "object_type": "QUESTION"
+    },
+    "892370127.json": {
+      "key": "provider_reported_arthritis_past_30_days",
+      "object_type": "QUESTION"
+    },
+    "853306367.json": {
+      "key": "has_ever_diabetes_follow_up",
+      "object_type": "QUESTION"
+    },
+    "457880423.json": {
+      "key": "type_of_psa_test_baseline",
+      "object_type": "QUESTION"
+    },
+    "317209665.json": {
+      "key": "provider_reported_fruit_intake_screening",
+      "object_type": "QUESTION"
+    },
+    "616267347.json": {
+      "key": "duration_of_skin_exam_diagnostic",
+      "object_type": "QUESTION"
+    },
+    "519953245.json": {
+      "key": "number_of_skin_exam_past_30_days",
+      "object_type": "QUESTION"
+    },
+    "737643820.json": {
+      "key": "confidence_in_red_meat_self_report",
+      "object_type": "QUESTION"
+    },
+    "145804082.json": {
+      "key": "type_of_pregnancy_self_report",
+      "object_type": "QUESTION"
+    },
+    "727910531.json": {
+      "key": "last_occurrence_radiation_exposure_screening",
+      "object_type": "QUESTION"
+    },
+    "376639579.json": {
+      "key": "last_occurrence_sun_exposure_most_recent",
+      "object_type": "QUESTION"
+    },
+    "426752230.json": {
+      "key": "age_at_first_pap_test_proxy_report",
+      "object_type": "QUESTION"
+    },
+    "978834612.json": {
+      "key": "last_occurrence_oral_contraceptive_current",
+      "object_type": "QUESTION"
+    },
+    "353158839.json": {
+      "key": "frequency_of_psa_test_most_recent",
+      "object_type": "QUESTION"
+    },
+    "931018823.json": {
+      "key": "frequency_of_hormone_therapy_annual",
+      "object_type": "QUESTION"
+    },
+    "681590382.json": {
+      "key": "type_of_anxiety_diagnostic",
+      "object_type": "QUESTION"
+    },
+    "506289311.json": {
+      "key": "self_reported_psa_test_first_occurrence",
+      "object_type": "QUESTION"
+    },
+    "463669663.json": {
+      "key": "number_of_pap_test_confirmed",
+      "object_type": "QUESTION"
+    },
+    "695743059.json": {
+      "key": "last_occurrence_red_meat_follow_up",
+      "object_type": "QUESTION"
+    },
+    "197371068.json": {
+      "key": "frequency_of_anxiety_diagnostic",
+      "object_type": "QUESTION"
+    },
+    "186928914.json": {
+      "key": "confidence_in_arthritis_past_12_months",
+      "object_type": "QUESTION"
+    },
+    "404252972.json": {
+      "key": "age_at_first_colonoscopy_current",
+      "object_type": "QUESTION"
+    },
+    "680056601.json": {
+      "key": "confidence_in_fruit_intake_proxy_report",
+      "object_type": "QUESTION"
+    },
+    "569446416.json": {
+      "key": "has_ever_chemotherapy_follow_up",
+      "object_type": "QUESTION"
+    },
+    "529366603.json": {
+      "key": "has_ever_radiation_exposure_follow_up",
+      "object_type": "QUESTION"
+    },
+    "756168677.json": {
+      "key": "self_reported_asthma_diagnostic",
+      "object_type": "QUESTION"
+    },
+    "334083702.json": {
+      "key": "provider_reported_sunscreen_use_past_12_months",
+      "object_type": "QUESTION"
+    },
+    "636470240.json": {
+      "key": "confidence_in_depression_post_enrollment",
+      "object_type": "QUESTION"
+    },
+    "972743273.json": {
+      "key": "frequency_of_psa_test_current",
+      "object_type": "QUESTION"
+    },
+    "731832023.json": {
+      "key": "type_of_colonoscopy_lifetime",
+      "object_type": "QUESTION"
+    },
+    "544369129.json": {
+      "key": "has_ever_oral_contraceptive_quarterly",
+      "object_type": "QUESTION"
+    },
+    "204768491.json": {
+      "key": "self_reported_radiation_exposure_lifetime",
+      "object_type": "QUESTION"
+    },
+    "633316972.json": {
+      "key": "reason_for_obesity_suspected",
+      "object_type": "QUESTION"
+    },
+    "280997431.json": {
+      "key": "provider_reported_pregnancy_proxy_report",
+      "object_type": "QUESTION"
+    },
+    "303344264.json": {
+      "key": "number_of_asthma_lifetime",
+      "object_type": "QUESTION"
+    },
+    "772943847.json": {
+      "key": "has_ever_oral_contraceptive_most_recent",
+      "object_type": "QUESTION"
+    },
+    "329564189.json": {
+      "key": "self_reported_anxiety_baseline",
+      "object_type": "QUESTION"
+    },
+    "119482998.json": {
+      "key": "frequency_of_sunscreen_use_lifetime",
+      "object_type": "QUESTION"
+    },
+    "623183629.json": {
+      "key": "duration_of_hormone_therapy_self_report",
+      "object_type": "QUESTION"
+    },
+    "621392828.json": {
+      "key": "type_of_vaping_post_enrollment",
+      "object_type": "QUESTION"
+    },
+    "630587444.json": {
+      "key": "provider_reported_sunscreen_use_baseline",
+      "object_type": "QUESTION"
+    },
+    "445740465.json": {
+      "key": "provider_reported_breastfeeding_quarterly",
+      "object_type": "QUESTION"
+    },
+    "932568026.json": {
+      "key": "date_of_colonoscopy_childhood",
+      "object_type": "QUESTION"
+    },
+    "201824302.json": {
+      "key": "duration_of_colonoscopy_confirmed",
+      "object_type": "QUESTION"
+    },
+    "361616266.json": {
+      "key": "change_in_obesity_diagnostic",
+      "object_type": "QUESTION"
+    },
+    "107875385.json": {
+      "key": "type_of_obesity_childhood",
+      "object_type": "QUESTION"
+    },
+    "651381188.json": {
+      "key": "age_at_first_mammogram_past_30_days",
+      "object_type": "QUESTION"
+    },
+    "572215867.json": {
+      "key": "self_reported_alcohol_use_childhood",
+      "object_type": "QUESTION"
+    },
+    "395794239.json": {
+      "key": "duration_of_exercise_diagnostic",
+      "object_type": "QUESTION"
+    },
+    "106642595.json": {
+      "key": "provider_reported_radiation_exposure_past_12_months",
+      "object_type": "QUESTION"
+    },
+    "542641032.json": {
+      "key": "type_of_anxiety_annual",
+      "object_type": "QUESTION"
+    },
+    "478439360.json": {
+      "key": "duration_of_skin_exam_baseline",
+      "object_type": "QUESTION"
+    },
+    "633840612.json": {
+      "key": "current_status_diabetes_post_enrollment",
+      "object_type": "QUESTION"
+    },
+    "534585483.json": {
+      "key": "age_at_first_exercise_most_recent",
+      "object_type": "QUESTION"
+    },
+    "858952572.json": {
+      "key": "self_reported_fruit_intake_baseline",
+      "object_type": "QUESTION"
+    },
+    "369523084.json": {
+      "key": "confidence_in_pap_test_current",
+      "object_type": "QUESTION"
+    },
+    "971263104.json": {
+      "key": "number_of_diabetes_proxy_report",
+      "object_type": "QUESTION"
+    },
+    "326325619.json": {
+      "key": "change_in_red_meat_diagnostic",
+      "object_type": "QUESTION"
+    },
+    "885601168.json": {
+      "key": "current_status_sun_exposure_annual",
+      "object_type": "QUESTION"
+    },
+    "967076718.json": {
+      "key": "date_of_smoking_self_report",
+      "object_type": "QUESTION"
+    },
+    "491819580.json": {
+      "key": "type_of_psa_test_suspected",
+      "object_type": "QUESTION"
+    },
+    "218209480.json": {
+      "key": "frequency_of_sunscreen_use_baseline",
+      "object_type": "QUESTION"
+    },
+    "801186852.json": {
+      "key": "age_at_first_smoking_past_30_days",
+      "object_type": "QUESTION"
+    },
+    "505343333.json": {
+      "key": "age_at_first_mammogram_baseline",
+      "object_type": "QUESTION"
+    },
+    "151950591.json": {
+      "key": "provider_reported_sunscreen_use_confirmed",
+      "object_type": "QUESTION"
+    },
+    "679529781.json": {
+      "key": "frequency_of_sun_exposure_past_12_months",
+      "object_type": "QUESTION"
+    },
+    "625181992.json": {
+      "key": "confidence_in_pregnancy_quarterly",
+      "object_type": "QUESTION"
+    },
+    "667206735.json": {
+      "key": "self_reported_red_meat_childhood",
+      "object_type": "QUESTION"
+    },
+    "927939244.json": {
+      "key": "has_ever_hypertension_most_recent",
+      "object_type": "QUESTION"
+    },
+    "837051139.json": {
+      "key": "reason_for_alcohol_use_annual",
+      "object_type": "QUESTION"
+    },
+    "277326646.json": {
+      "key": "current_status_hospitalization_annual",
+      "object_type": "QUESTION"
+    },
+    "939435988.json": {
+      "key": "self_reported_diabetes_first_occurrence",
+      "object_type": "QUESTION"
+    },
+    "853329824.json": {
+      "key": "age_at_first_asthma_quarterly",
+      "object_type": "QUESTION"
+    },
+    "394910287.json": {
+      "key": "number_of_oral_contraceptive_adulthood",
+      "object_type": "QUESTION"
+    },
+    "198417175.json": {
+      "key": "duration_of_alcohol_use_proxy_report",
+      "object_type": "QUESTION"
+    },
+    "624927416.json": {
+      "key": "has_ever_anxiety_baseline",
+      "object_type": "QUESTION"
+    },
+    "174036381.json": {
+      "key": "change_in_hormone_therapy_lifetime",
+      "object_type": "QUESTION"
+    },
+    "226331786.json": {
+      "key": "date_of_obesity_current",
+      "object_type": "QUESTION"
+    },
+    "656724929.json": {
+      "key": "number_of_depression_screening",
+      "object_type": "QUESTION"
+    },
+    "353428766.json": {
+      "key": "change_in_vaping_post_enrollment",
+      "object_type": "QUESTION"
+    },
+    "970465368.json": {
+      "key": "severity_of_mammogram_current",
+      "object_type": "QUESTION"
+    },
+    "816685112.json": {
+      "key": "type_of_pap_test_baseline",
+      "object_type": "QUESTION"
+    },
+    "239095324.json": {
+      "key": "confidence_in_oral_contraceptive_lifetime",
+      "object_type": "QUESTION"
+    },
+    "908141112.json": {
+      "key": "age_at_first_sun_exposure_follow_up",
+      "object_type": "QUESTION"
+    },
+    "640729362.json": {
+      "key": "has_ever_radiation_exposure_screening",
+      "object_type": "QUESTION"
+    },
+    "749397960.json": {
+      "key": "age_at_first_arthritis_past_12_months",
+      "object_type": "QUESTION"
+    },
+    "876690431.json": {
+      "key": "last_occurrence_sunscreen_use_self_report",
+      "object_type": "QUESTION"
+    },
+    "300272272.json": {
+      "key": "self_reported_pap_test_screening",
+      "object_type": "QUESTION"
+    },
+    "715204959.json": {
+      "key": "frequency_of_breastfeeding_proxy_report",
+      "object_type": "QUESTION"
+    },
+    "676166631.json": {
+      "key": "severity_of_vaping_diagnostic",
+      "object_type": "QUESTION"
+    },
+    "211061704.json": {
+      "key": "confidence_in_vegetable_intake_pre_enrollment",
+      "object_type": "QUESTION"
+    },
+    "460567303.json": {
+      "key": "confidence_in_hospitalization_confirmed",
+      "object_type": "QUESTION"
+    },
+    "835089517.json": {
+      "key": "confidence_in_surgery_suspected",
+      "object_type": "QUESTION"
+    },
+    "572616666.json": {
+      "key": "duration_of_vaping_most_recent",
+      "object_type": "QUESTION"
+    },
+    "518765465.json": {
+      "key": "self_reported_red_meat_first_occurrence",
+      "object_type": "QUESTION"
+    },
+    "556148987.json": {
+      "key": "provider_reported_diabetes_adulthood",
+      "object_type": "QUESTION"
+    },
+    "624823824.json": {
+      "key": "has_ever_depression_quarterly",
+      "object_type": "QUESTION"
+    },
+    "523314898.json": {
+      "key": "self_reported_sunscreen_use_lifetime",
+      "object_type": "QUESTION"
+    },
+    "548817558.json": {
+      "key": "has_ever_oral_contraceptive_past_30_days",
+      "object_type": "QUESTION"
+    },
+    "410258251.json": {
+      "key": "self_reported_arthritis_current",
+      "object_type": "QUESTION"
+    },
+    "262372352.json": {
+      "key": "reason_for_arthritis_follow_up",
+      "object_type": "QUESTION"
+    },
+    "962590488.json": {
+      "key": "provider_reported_anxiety_baseline",
+      "object_type": "QUESTION"
+    },
+    "502528258.json": {
+      "key": "age_at_first_hormone_therapy_screening",
+      "object_type": "QUESTION"
+    },
+    "959251958.json": {
+      "key": "has_ever_sleep_apnea_post_enrollment",
+      "object_type": "QUESTION"
+    },
+    "286321681.json": {
+      "key": "provider_reported_colonoscopy_past_30_days",
+      "object_type": "QUESTION"
+    },
+    "425870802.json": {
+      "key": "self_reported_breastfeeding_lifetime",
+      "object_type": "QUESTION"
+    },
+    "905988971.json": {
+      "key": "severity_of_psa_test_baseline",
+      "object_type": "QUESTION"
+    },
+    "907197053.json": {
+      "key": "confidence_in_colonoscopy_baseline",
+      "object_type": "QUESTION"
+    },
+    "916151902.json": {
+      "key": "last_occurrence_oral_contraceptive_lifetime",
+      "object_type": "QUESTION"
+    },
+    "638067432.json": {
+      "key": "self_reported_colonoscopy_confirmed",
+      "object_type": "QUESTION"
+    },
+    "714874699.json": {
+      "key": "current_status_red_meat_baseline",
+      "object_type": "QUESTION"
+    },
+    "509555959.json": {
+      "key": "duration_of_sun_exposure_past_30_days",
+      "object_type": "QUESTION"
+    },
+    "779140554.json": {
+      "key": "confidence_in_alcohol_use_past_12_months",
+      "object_type": "QUESTION"
+    },
+    "760694304.json": {
+      "key": "confidence_in_pap_test_suspected",
+      "object_type": "QUESTION"
+    },
+    "687641400.json": {
+      "key": "has_ever_asthma_childhood",
+      "object_type": "QUESTION"
+    },
+    "587323950.json": {
+      "key": "age_at_first_hospitalization_post_enrollment",
+      "object_type": "QUESTION"
+    },
+    "360952801.json": {
+      "key": "severity_of_diabetes_adulthood",
+      "object_type": "QUESTION"
+    },
+    "144993612.json": {
+      "key": "provider_reported_colonoscopy_quarterly",
+      "object_type": "QUESTION"
+    },
+    "251190022.json": {
+      "key": "has_ever_obesity_past_12_months",
+      "object_type": "QUESTION"
+    },
+    "929959538.json": {
+      "key": "has_ever_sleep_apnea_diagnostic",
+      "object_type": "QUESTION"
+    },
+    "329144955.json": {
+      "key": "type_of_breastfeeding_quarterly",
+      "object_type": "QUESTION"
+    },
+    "563612915.json": {
+      "key": "has_ever_pregnancy_past_12_months",
+      "object_type": "QUESTION"
+    },
+    "437185184.json": {
+      "key": "confidence_in_psa_test_childhood",
+      "object_type": "QUESTION"
+    },
+    "639090176.json": {
+      "key": "reason_for_anxiety_screening",
+      "object_type": "QUESTION"
+    },
+    "418820668.json": {
+      "key": "number_of_sleep_apnea_childhood",
+      "object_type": "QUESTION"
+    },
+    "510701564.json": {
+      "key": "age_at_first_arthritis_annual",
+      "object_type": "QUESTION"
+    },
+    "216673782.json": {
+      "key": "number_of_pap_test_lifetime",
+      "object_type": "QUESTION"
+    },
+    "775725573.json": {
+      "key": "change_in_breastfeeding_quarterly",
+      "object_type": "QUESTION"
+    },
+    "795370846.json": {
+      "key": "date_of_obesity_baseline",
+      "object_type": "QUESTION"
+    },
+    "838253424.json": {
+      "key": "age_at_first_smoking_first_occurrence",
+      "object_type": "QUESTION"
+    },
+    "974749816.json": {
+      "key": "has_ever_radiation_exposure_lifetime",
+      "object_type": "QUESTION"
+    },
+    "450708541.json": {
+      "key": "age_at_first_alcohol_use_pre_enrollment",
+      "object_type": "QUESTION"
+    },
+    "861963976.json": {
+      "key": "self_reported_pregnancy_adulthood",
+      "object_type": "QUESTION"
+    },
+    "105791329.json": {
+      "key": "confidence_in_diabetes_proxy_report",
+      "object_type": "QUESTION"
+    },
+    "982904444.json": {
+      "key": "change_in_hospitalization_lifetime",
+      "object_type": "QUESTION"
+    },
+    "585911769.json": {
+      "key": "frequency_of_pap_test_first_occurrence",
+      "object_type": "QUESTION"
+    },
+    "915799780.json": {
+      "key": "duration_of_chemotherapy_confirmed",
+      "object_type": "QUESTION"
+    },
+    "179562140.json": {
+      "key": "reason_for_red_meat_follow_up",
+      "object_type": "QUESTION"
+    },
+    "847545323.json": {
+      "key": "has_ever_hospitalization_proxy_report",
+      "object_type": "QUESTION"
+    },
+    "835523008.json": {
+      "key": "confidence_in_mammogram_most_recent",
+      "object_type": "QUESTION"
+    },
+    "136432327.json": {
+      "key": "reason_for_chemotherapy_pre_enrollment",
+      "object_type": "QUESTION"
+    },
+    "373256519.json": {
+      "key": "confidence_in_radiation_exposure_first_occurrence",
+      "object_type": "QUESTION"
+    },
+    "661861765.json": {
+      "key": "reason_for_hospitalization_past_30_days",
+      "object_type": "QUESTION"
+    },
+    "263116387.json": {
+      "key": "age_at_first_vaping_quarterly",
+      "object_type": "QUESTION"
+    },
+    "577909132.json": {
+      "key": "change_in_sun_exposure_annual",
+      "object_type": "QUESTION"
+    },
+    "528376869.json": {
+      "key": "number_of_surgery_diagnostic",
+      "object_type": "QUESTION"
+    },
+    "429200720.json": {
+      "key": "date_of_fruit_intake_post_enrollment",
+      "object_type": "QUESTION"
+    },
+    "624673528.json": {
+      "key": "last_occurrence_sleep_apnea_adulthood",
+      "object_type": "QUESTION"
+    },
+    "726056732.json": {
+      "key": "date_of_sun_exposure_pre_enrollment",
+      "object_type": "QUESTION"
+    },
+    "491072021.json": {
+      "key": "date_of_skin_exam_adulthood",
+      "object_type": "QUESTION"
+    },
+    "266025407.json": {
+      "key": "has_ever_hormone_therapy_self_report",
+      "object_type": "QUESTION"
+    },
+    "646617986.json": {
+      "key": "duration_of_breastfeeding_baseline",
+      "object_type": "QUESTION"
+    },
+    "488357155.json": {
+      "key": "current_status_exercise_current",
+      "object_type": "QUESTION"
+    },
+    "590645853.json": {
+      "key": "severity_of_sun_exposure_annual",
+      "object_type": "QUESTION"
+    },
+    "927046839.json": {
+      "key": "duration_of_hypertension_quarterly",
+      "object_type": "QUESTION"
+    },
+    "849106206.json": {
+      "key": "self_reported_depression_past_30_days",
+      "object_type": "QUESTION"
+    },
+    "307724525.json": {
+      "key": "date_of_hypertension_follow_up",
+      "object_type": "QUESTION"
+    },
+    "499641587.json": {
+      "key": "reason_for_pregnancy_lifetime",
+      "object_type": "QUESTION"
+    },
+    "583527489.json": {
+      "key": "change_in_asthma_childhood",
+      "object_type": "QUESTION"
+    },
+    "992949926.json": {
+      "key": "provider_reported_sunscreen_use_suspected",
+      "object_type": "QUESTION"
+    },
+    "171542650.json": {
+      "key": "current_status_alcohol_use_lifetime",
+      "object_type": "QUESTION"
+    },
+    "528087010.json": {
+      "key": "last_occurrence_surgery_quarterly",
+      "object_type": "QUESTION"
+    },
+    "367516216.json": {
+      "key": "current_status_obesity_past_30_days",
+      "object_type": "QUESTION"
+    },
+    "677886817.json": {
+      "key": "date_of_red_meat_past_12_months",
+      "object_type": "QUESTION"
+    },
+    "135313047.json": {
+      "key": "change_in_hypertension_screening",
+      "object_type": "QUESTION"
+    },
+    "992585340.json": {
+      "key": "current_status_psa_test_pre_enrollment",
+      "object_type": "QUESTION"
+    },
+    "520631897.json": {
+      "key": "reason_for_asthma_past_30_days",
+      "object_type": "QUESTION"
+    },
+    "583031206.json": {
+      "key": "last_occurrence_smoking_post_enrollment",
+      "object_type": "QUESTION"
+    },
+    "934782906.json": {
+      "key": "date_of_alcohol_use_post_enrollment",
+      "object_type": "QUESTION"
+    },
+    "131236262.json": {
+      "key": "age_at_first_sun_exposure_past_12_months",
+      "object_type": "QUESTION"
+    },
+    "137552306.json": {
+      "key": "type_of_red_meat_past_30_days",
+      "object_type": "QUESTION"
+    },
+    "310913678.json": {
+      "key": "last_occurrence_hospitalization_current",
+      "object_type": "QUESTION"
+    },
+    "307285650.json": {
+      "key": "confidence_in_exercise_suspected",
+      "object_type": "QUESTION"
+    },
+    "302614342.json": {
+      "key": "self_reported_pregnancy_childhood",
+      "object_type": "QUESTION"
+    },
+    "685884364.json": {
+      "key": "number_of_diabetes_confirmed",
+      "object_type": "QUESTION"
+    },
+    "324860667.json": {
+      "key": "age_at_first_pregnancy_first_occurrence",
+      "object_type": "QUESTION"
+    },
+    "469215217.json": {
+      "key": "type_of_hypertension_follow_up",
+      "object_type": "QUESTION"
+    },
+    "297039245.json": {
+      "key": "severity_of_fruit_intake_post_enrollment",
+      "object_type": "QUESTION"
+    },
+    "803324541.json": {
+      "key": "self_reported_arthritis_screening",
+      "object_type": "QUESTION"
+    },
+    "966422591.json": {
+      "key": "has_ever_pregnancy_first_occurrence",
+      "object_type": "QUESTION"
+    },
+    "189000310.json": {
+      "key": "frequency_of_obesity_adulthood",
+      "object_type": "QUESTION"
+    },
+    "755500215.json": {
+      "key": "severity_of_sun_exposure_screening",
+      "object_type": "QUESTION"
+    },
+    "269782901.json": {
+      "key": "provider_reported_oral_contraceptive_post_enrollment",
+      "object_type": "QUESTION"
+    },
+    "577498195.json": {
+      "key": "severity_of_sleep_apnea_diagnostic",
+      "object_type": "QUESTION"
+    },
+    "985943450.json": {
+      "key": "frequency_of_red_meat_current",
+      "object_type": "QUESTION"
+    },
+    "534502648.json": {
+      "key": "frequency_of_pap_test_lifetime",
+      "object_type": "QUESTION"
+    },
+    "957777047.json": {
+      "key": "date_of_sleep_apnea_baseline",
+      "object_type": "QUESTION"
+    },
+    "483518981.json": {
+      "key": "confidence_in_oral_contraceptive_suspected",
+      "object_type": "QUESTION"
+    },
+    "111528464.json": {
+      "key": "current_status_breastfeeding_proxy_report",
+      "object_type": "QUESTION"
+    },
+    "450815257.json": {
+      "key": "date_of_depression_proxy_report",
+      "object_type": "QUESTION"
+    },
+    "325478303.json": {
+      "key": "frequency_of_arthritis_annual",
+      "object_type": "QUESTION"
+    },
+    "944806745.json": {
+      "key": "has_ever_fruit_intake_childhood",
+      "object_type": "QUESTION"
+    },
+    "873259984.json": {
+      "key": "type_of_chemotherapy_follow_up",
+      "object_type": "QUESTION"
+    },
+    "912604398.json": {
+      "key": "age_at_first_asthma_proxy_report",
+      "object_type": "QUESTION"
+    },
+    "570492056.json": {
+      "key": "provider_reported_chemotherapy_post_enrollment",
+      "object_type": "QUESTION"
+    },
+    "319523211.json": {
+      "key": "confidence_in_sun_exposure_proxy_report",
+      "object_type": "QUESTION"
+    },
+    "344519289.json": {
+      "key": "frequency_of_surgery_childhood",
+      "object_type": "QUESTION"
+    },
+    "776310647.json": {
+      "key": "reason_for_fruit_intake_current",
+      "object_type": "QUESTION"
+    },
+    "329184166.json": {
+      "key": "number_of_mammogram_pre_enrollment",
+      "object_type": "QUESTION"
+    },
+    "182709859.json": {
+      "key": "date_of_surgery_confirmed",
+      "object_type": "QUESTION"
+    },
+    "315525612.json": {
+      "key": "age_at_first_exercise_first_occurrence",
+      "object_type": "QUESTION"
+    },
+    "621406191.json": {
+      "key": "last_occurrence_sleep_apnea_annual",
+      "object_type": "QUESTION"
+    },
+    "512050038.json": {
+      "key": "type_of_hospitalization_confirmed",
+      "object_type": "QUESTION"
+    },
+    "432886143.json": {
+      "key": "age_at_first_depression_most_recent",
+      "object_type": "QUESTION"
+    },
+    "389209576.json": {
+      "key": "provider_reported_alcohol_use_self_report",
+      "object_type": "QUESTION"
+    },
+    "250057802.json": {
+      "key": "self_reported_exercise_adulthood",
+      "object_type": "QUESTION"
+    },
+    "535153325.json": {
+      "key": "date_of_breastfeeding_baseline",
+      "object_type": "QUESTION"
+    },
+    "504029356.json": {
+      "key": "type_of_chemotherapy_lifetime",
+      "object_type": "QUESTION"
+    },
+    "220029303.json": {
+      "key": "type_of_surgery_past_30_days",
+      "object_type": "QUESTION"
+    },
+    "541521928.json": {
+      "key": "provider_reported_sleep_apnea_pre_enrollment",
+      "object_type": "QUESTION"
+    },
+    "190361202.json": {
+      "key": "self_reported_colonoscopy_suspected",
+      "object_type": "QUESTION"
+    },
+    "478391909.json": {
+      "key": "provider_reported_hormone_therapy_screening",
+      "object_type": "QUESTION"
+    },
+    "182713117.json": {
+      "key": "change_in_psa_test_proxy_report",
+      "object_type": "QUESTION"
+    },
+    "524873315.json": {
+      "key": "date_of_diabetes_diagnostic",
+      "object_type": "QUESTION"
+    },
+    "736231909.json": {
+      "key": "current_status_red_meat_follow_up",
+      "object_type": "QUESTION"
+    },
+    "258038357.json": {
+      "key": "last_occurrence_radiation_exposure_annual",
+      "object_type": "QUESTION"
+    },
+    "880736172.json": {
+      "key": "age_at_first_arthritis_childhood",
+      "object_type": "QUESTION"
+    },
+    "241736606.json": {
+      "key": "number_of_hospitalization_proxy_report",
+      "object_type": "QUESTION"
+    },
+    "693263118.json": {
+      "key": "confidence_in_surgery_follow_up",
+      "object_type": "QUESTION"
+    },
+    "838715200.json": {
+      "key": "change_in_psa_test_adulthood",
+      "object_type": "QUESTION"
+    },
+    "768002002.json": {
+      "key": "duration_of_breastfeeding_past_30_days",
+      "object_type": "QUESTION"
+    },
+    "534503951.json": {
+      "key": "reason_for_obesity_past_30_days",
+      "object_type": "QUESTION"
+    },
+    "960876715.json": {
+      "key": "reason_for_vaping_most_recent",
+      "object_type": "QUESTION"
+    },
+    "951417853.json": {
+      "key": "self_reported_colonoscopy_quarterly",
+      "object_type": "QUESTION"
+    },
+    "948659021.json": {
+      "key": "type_of_surgery_screening",
+      "object_type": "QUESTION"
+    },
+    "359443403.json": {
+      "key": "age_at_first_sleep_apnea_baseline",
+      "object_type": "QUESTION"
+    },
+    "212925407.json": {
+      "key": "current_status_hormone_therapy_follow_up",
+      "object_type": "QUESTION"
+    },
+    "400551962.json": {
+      "key": "duration_of_diabetes_first_occurrence",
+      "object_type": "QUESTION"
+    },
+    "854320672.json": {
+      "key": "provider_reported_vaping_past_12_months",
+      "object_type": "QUESTION"
+    },
+    "518024014.json": {
+      "key": "type_of_hormone_therapy_suspected",
+      "object_type": "QUESTION"
+    },
+    "741041074.json": {
+      "key": "severity_of_obesity_most_recent",
+      "object_type": "QUESTION"
+    },
+    "253105886.json": {
+      "key": "current_status_sunscreen_use_annual",
+      "object_type": "QUESTION"
+    },
+    "213855060.json": {
+      "key": "reason_for_asthma_follow_up",
+      "object_type": "QUESTION"
+    },
+    "294461258.json": {
+      "key": "self_reported_hormone_therapy_lifetime",
+      "object_type": "QUESTION"
+    },
+    "838603166.json": {
+      "key": "type_of_sleep_apnea_proxy_report",
+      "object_type": "QUESTION"
+    },
+    "858392131.json": {
+      "key": "date_of_obesity_first_occurrence",
+      "object_type": "QUESTION"
+    },
+    "358331082.json": {
+      "key": "current_status_colonoscopy_post_enrollment",
+      "object_type": "QUESTION"
+    },
+    "749525282.json": {
+      "key": "age_at_first_hormone_therapy_post_enrollment",
+      "object_type": "QUESTION"
+    },
+    "619963940.json": {
+      "key": "number_of_hypertension_proxy_report",
+      "object_type": "QUESTION"
+    },
+    "209711666.json": {
+      "key": "frequency_of_skin_exam_self_report",
+      "object_type": "QUESTION"
+    },
+    "250399955.json": {
+      "key": "date_of_fruit_intake_past_12_months",
+      "object_type": "QUESTION"
+    },
+    "945354546.json": {
+      "key": "self_reported_mammogram_proxy_report",
+      "object_type": "QUESTION"
+    },
+    "689396732.json": {
+      "key": "confidence_in_breastfeeding_diagnostic",
+      "object_type": "QUESTION"
+    },
+    "130876447.json": {
+      "key": "current_status_depression_follow_up",
+      "object_type": "QUESTION"
+    },
+    "660287030.json": {
+      "key": "reason_for_oral_contraceptive_lifetime",
+      "object_type": "QUESTION"
+    },
+    "871516883.json": {
+      "key": "number_of_asthma_childhood",
+      "object_type": "QUESTION"
+    },
+    "698117788.json": {
+      "key": "provider_reported_vaping_quarterly",
+      "object_type": "QUESTION"
+    },
+    "127863248.json": {
+      "key": "last_occurrence_depression_past_30_days",
+      "object_type": "QUESTION"
+    },
+    "164379951.json": {
+      "key": "has_ever_pregnancy_diagnostic",
+      "object_type": "QUESTION"
+    },
+    "686589762.json": {
+      "key": "duration_of_asthma_lifetime",
+      "object_type": "QUESTION"
+    },
+    "173131559.json": {
+      "key": "self_reported_sun_exposure_childhood",
+      "object_type": "QUESTION"
     }
   },
   "_search": {
@@ -31507,6 +33507,1506 @@
       ],
       "self_reported_red_meat_suspected": [
         "725681547.json"
+      ],
+      "provider_reported_alcohol_use_adulthood": [
+        "192395983.json"
+      ],
+      "confidence_in_psa_test_screening": [
+        "712768237.json"
+      ],
+      "number_of_smoking_annual": [
+        "234652955.json"
+      ],
+      "has_ever_chemotherapy_annual": [
+        "334718923.json"
+      ],
+      "frequency_of_skin_exam_quarterly": [
+        "393311476.json"
+      ],
+      "duration_of_red_meat_follow_up": [
+        "916843301.json"
+      ],
+      "frequency_of_asthma_annual": [
+        "369873674.json"
+      ],
+      "duration_of_smoking_diagnostic": [
+        "852985306.json"
+      ],
+      "date_of_obesity_confirmed": [
+        "386707517.json"
+      ],
+      "provider_reported_vegetable_intake_annual": [
+        "989045977.json"
+      ],
+      "self_reported_depression_most_recent": [
+        "869761322.json"
+      ],
+      "reason_for_psa_test_post_enrollment": [
+        "722830748.json"
+      ],
+      "date_of_fruit_intake_proxy_report": [
+        "670513433.json"
+      ],
+      "frequency_of_vegetable_intake_first_occurrence": [
+        "590190145.json"
+      ],
+      "duration_of_colonoscopy_follow_up": [
+        "831794151.json"
+      ],
+      "has_ever_arthritis_post_enrollment": [
+        "967334675.json"
+      ],
+      "self_reported_exercise_follow_up": [
+        "485362886.json"
+      ],
+      "frequency_of_exercise_childhood": [
+        "351113160.json"
+      ],
+      "change_in_hospitalization_confirmed": [
+        "102535014.json"
+      ],
+      "frequency_of_skin_exam_past_30_days": [
+        "340781183.json"
+      ],
+      "last_occurrence_sleep_apnea_lifetime": [
+        "506895346.json"
+      ],
+      "confidence_in_pregnancy_baseline": [
+        "897435848.json"
+      ],
+      "number_of_depression_pre_enrollment": [
+        "580555187.json"
+      ],
+      "has_ever_depression_current": [
+        "993879363.json"
+      ],
+      "severity_of_mammogram_most_recent": [
+        "204714769.json"
+      ],
+      "confidence_in_chemotherapy_childhood": [
+        "372229748.json"
+      ],
+      "current_status_asthma_diagnostic": [
+        "822194231.json"
+      ],
+      "number_of_diabetes_pre_enrollment": [
+        "846798116.json"
+      ],
+      "change_in_pregnancy_past_12_months": [
+        "716302355.json"
+      ],
+      "age_at_first_vegetable_intake_self_report": [
+        "767880331.json"
+      ],
+      "change_in_sun_exposure_childhood": [
+        "832784132.json"
+      ],
+      "last_occurrence_pap_test_screening": [
+        "545735224.json"
+      ],
+      "self_reported_colonoscopy_current": [
+        "214871191.json"
+      ],
+      "reason_for_alcohol_use_first_occurrence": [
+        "601112736.json"
+      ],
+      "frequency_of_colonoscopy_current": [
+        "404536603.json"
+      ],
+      "change_in_chemotherapy_most_recent": [
+        "409744782.json"
+      ],
+      "age_at_first_pregnancy_proxy_report": [
+        "632841433.json"
+      ],
+      "frequency_of_arthritis_self_report": [
+        "273513045.json"
+      ],
+      "confidence_in_vaping_adulthood": [
+        "798378343.json"
+      ],
+      "confidence_in_breastfeeding_past_30_days": [
+        "833101954.json"
+      ],
+      "frequency_of_anxiety_post_enrollment": [
+        "869669014.json"
+      ],
+      "change_in_vegetable_intake_confirmed": [
+        "355509011.json"
+      ],
+      "change_in_surgery_adulthood": [
+        "324645165.json"
+      ],
+      "reason_for_skin_exam_self_report": [
+        "652458242.json"
+      ],
+      "number_of_alcohol_use_screening": [
+        "483282714.json"
+      ],
+      "change_in_hypertension_suspected": [
+        "891791440.json"
+      ],
+      "reason_for_alcohol_use_lifetime": [
+        "843167305.json"
+      ],
+      "number_of_arthritis_most_recent": [
+        "742357895.json"
+      ],
+      "change_in_red_meat_suspected": [
+        "262668084.json"
+      ],
+      "current_status_psa_test_current": [
+        "603918290.json"
+      ],
+      "last_occurrence_red_meat_adulthood": [
+        "326792520.json"
+      ],
+      "severity_of_hormone_therapy_most_recent": [
+        "561154405.json"
+      ],
+      "date_of_obesity_lifetime": [
+        "383295054.json"
+      ],
+      "frequency_of_colonoscopy_past_12_months": [
+        "930567804.json"
+      ],
+      "confidence_in_obesity_confirmed": [
+        "714164259.json"
+      ],
+      "last_occurrence_sunscreen_use_past_30_days": [
+        "997809504.json"
+      ],
+      "date_of_colonoscopy_current": [
+        "186840941.json"
+      ],
+      "duration_of_vegetable_intake_lifetime": [
+        "590676771.json"
+      ],
+      "duration_of_hormone_therapy_most_recent": [
+        "400565300.json"
+      ],
+      "number_of_skin_exam_annual": [
+        "146586013.json"
+      ],
+      "reason_for_hypertension_quarterly": [
+        "957007205.json"
+      ],
+      "provider_reported_depression_screening": [
+        "853865498.json"
+      ],
+      "change_in_surgery_past_30_days": [
+        "183706558.json"
+      ],
+      "provider_reported_arthritis_post_enrollment": [
+        "171545806.json"
+      ],
+      "current_status_anxiety_past_30_days": [
+        "370001879.json"
+      ],
+      "severity_of_alcohol_use_current": [
+        "436104794.json"
+      ],
+      "current_status_hormone_therapy_lifetime": [
+        "664866322.json"
+      ],
+      "duration_of_fruit_intake_baseline": [
+        "727304589.json"
+      ],
+      "severity_of_hypertension_most_recent": [
+        "650571921.json"
+      ],
+      "current_status_depression_confirmed": [
+        "901376366.json"
+      ],
+      "type_of_vegetable_intake_adulthood": [
+        "738373205.json"
+      ],
+      "number_of_vegetable_intake_lifetime": [
+        "434925020.json"
+      ],
+      "current_status_hospitalization_diagnostic": [
+        "803092401.json"
+      ],
+      "current_status_depression_current": [
+        "746966097.json"
+      ],
+      "date_of_mammogram_pre_enrollment": [
+        "383036780.json"
+      ],
+      "reason_for_obesity_childhood": [
+        "433799846.json"
+      ],
+      "self_reported_vaping_childhood": [
+        "114119925.json"
+      ],
+      "change_in_colonoscopy_self_report": [
+        "342452758.json"
+      ],
+      "provider_reported_pregnancy_screening": [
+        "201262885.json"
+      ],
+      "confidence_in_diabetes_quarterly": [
+        "179768933.json"
+      ],
+      "has_ever_sleep_apnea_baseline": [
+        "923204836.json"
+      ],
+      "age_at_first_depression_proxy_report": [
+        "247984852.json"
+      ],
+      "duration_of_anxiety_past_30_days": [
+        "431665110.json"
+      ],
+      "type_of_fruit_intake_follow_up": [
+        "386446433.json"
+      ],
+      "confidence_in_hormone_therapy_confirmed": [
+        "842459251.json"
+      ],
+      "frequency_of_pap_test_pre_enrollment": [
+        "807606300.json"
+      ],
+      "has_ever_sunscreen_use_proxy_report": [
+        "392018650.json"
+      ],
+      "current_status_asthma_annual": [
+        "232394255.json"
+      ],
+      "has_ever_psa_test_childhood": [
+        "910407719.json"
+      ],
+      "confidence_in_exercise_past_12_months": [
+        "741827363.json"
+      ],
+      "has_ever_skin_exam_diagnostic": [
+        "950894913.json"
+      ],
+      "date_of_colonoscopy_post_enrollment": [
+        "969174227.json"
+      ],
+      "confidence_in_arthritis_childhood": [
+        "452050628.json"
+      ],
+      "reason_for_vegetable_intake_current": [
+        "921570595.json"
+      ],
+      "duration_of_mammogram_adulthood": [
+        "649430204.json"
+      ],
+      "severity_of_sleep_apnea_pre_enrollment": [
+        "208145891.json"
+      ],
+      "number_of_oral_contraceptive_suspected": [
+        "859394751.json"
+      ],
+      "age_at_first_psa_test_quarterly": [
+        "776832133.json"
+      ],
+      "reason_for_smoking_adulthood": [
+        "795803736.json"
+      ],
+      "date_of_red_meat_quarterly": [
+        "129392856.json"
+      ],
+      "age_at_first_obesity_self_report": [
+        "238234688.json"
+      ],
+      "date_of_sleep_apnea_past_30_days": [
+        "233812254.json"
+      ],
+      "type_of_hormone_therapy_most_recent": [
+        "965653633.json"
+      ],
+      "age_at_first_hospitalization_diagnostic": [
+        "328945070.json"
+      ],
+      "has_ever_red_meat_screening": [
+        "890967626.json"
+      ],
+      "frequency_of_oral_contraceptive_first_occurrence": [
+        "613353118.json"
+      ],
+      "self_reported_oral_contraceptive_quarterly": [
+        "611234277.json"
+      ],
+      "has_ever_colonoscopy_confirmed": [
+        "538354560.json"
+      ],
+      "number_of_pregnancy_most_recent": [
+        "763072818.json"
+      ],
+      "severity_of_sun_exposure_follow_up": [
+        "402826677.json"
+      ],
+      "has_ever_chemotherapy_self_report": [
+        "130688415.json"
+      ],
+      "severity_of_anxiety_proxy_report": [
+        "583971313.json"
+      ],
+      "number_of_depression_childhood": [
+        "310242784.json"
+      ],
+      "has_ever_pap_test_current": [
+        "259698573.json"
+      ],
+      "age_at_first_alcohol_use_most_recent": [
+        "887692676.json"
+      ],
+      "has_ever_obesity_screening": [
+        "319762720.json"
+      ],
+      "last_occurrence_arthritis_first_occurrence": [
+        "279050778.json"
+      ],
+      "duration_of_radiation_exposure_pre_enrollment": [
+        "990074404.json"
+      ],
+      "confidence_in_vaping_current": [
+        "608163447.json"
+      ],
+      "date_of_vaping_quarterly": [
+        "705555341.json"
+      ],
+      "frequency_of_obesity_most_recent": [
+        "148543737.json"
+      ],
+      "date_of_smoking_suspected": [
+        "969209550.json"
+      ],
+      "change_in_colonoscopy_most_recent": [
+        "749281603.json"
+      ],
+      "has_ever_colonoscopy_most_recent": [
+        "441629045.json"
+      ],
+      "last_occurrence_hospitalization_annual": [
+        "809866701.json"
+      ],
+      "current_status_breastfeeding_current": [
+        "491930445.json"
+      ],
+      "last_occurrence_red_meat_past_30_days": [
+        "786658282.json"
+      ],
+      "last_occurrence_skin_exam_current": [
+        "864968728.json"
+      ],
+      "provider_reported_hospitalization_lifetime": [
+        "237693737.json"
+      ],
+      "provider_reported_surgery_follow_up": [
+        "569870350.json"
+      ],
+      "frequency_of_hypertension_confirmed": [
+        "263872927.json"
+      ],
+      "confidence_in_breastfeeding_most_recent": [
+        "500339471.json"
+      ],
+      "provider_reported_surgery_diagnostic": [
+        "565141636.json"
+      ],
+      "provider_reported_asthma_follow_up": [
+        "785305618.json"
+      ],
+      "severity_of_oral_contraceptive_past_30_days": [
+        "668277892.json"
+      ],
+      "current_status_hormone_therapy_first_occurrence": [
+        "452657150.json"
+      ],
+      "change_in_diabetes_past_12_months": [
+        "641182861.json"
+      ],
+      "confidence_in_vaping_childhood": [
+        "108901301.json"
+      ],
+      "provider_reported_sun_exposure_diagnostic": [
+        "657601019.json"
+      ],
+      "last_occurrence_pregnancy_annual": [
+        "165524575.json"
+      ],
+      "duration_of_skin_exam_most_recent": [
+        "459669842.json"
+      ],
+      "frequency_of_hypertension_diagnostic": [
+        "949807568.json"
+      ],
+      "self_reported_red_meat_current": [
+        "909284968.json"
+      ],
+      "number_of_skin_exam_quarterly": [
+        "339631856.json"
+      ],
+      "current_status_radiation_exposure_confirmed": [
+        "899907371.json"
+      ],
+      "confidence_in_obesity_quarterly": [
+        "456119134.json"
+      ],
+      "duration_of_breastfeeding_annual": [
+        "286274194.json"
+      ],
+      "duration_of_red_meat_current": [
+        "998885140.json"
+      ],
+      "type_of_colonoscopy_pre_enrollment": [
+        "837963471.json"
+      ],
+      "number_of_red_meat_childhood": [
+        "170161486.json"
+      ],
+      "duration_of_asthma_suspected": [
+        "297982158.json"
+      ],
+      "reason_for_vaping_post_enrollment": [
+        "791189771.json"
+      ],
+      "confidence_in_radiation_exposure_self_report": [
+        "698181078.json"
+      ],
+      "change_in_skin_exam_follow_up": [
+        "576291661.json"
+      ],
+      "provider_reported_chemotherapy_confirmed": [
+        "742055241.json"
+      ],
+      "current_status_hospitalization_self_report": [
+        "413939893.json"
+      ],
+      "frequency_of_oral_contraceptive_confirmed": [
+        "657002142.json"
+      ],
+      "change_in_red_meat_most_recent": [
+        "313413625.json"
+      ],
+      "duration_of_breastfeeding_current": [
+        "612410520.json"
+      ],
+      "type_of_sleep_apnea_suspected": [
+        "983138488.json"
+      ],
+      "frequency_of_vegetable_intake_lifetime": [
+        "439929530.json"
+      ],
+      "confidence_in_exercise_quarterly": [
+        "194225353.json"
+      ],
+      "confidence_in_pregnancy_first_occurrence": [
+        "777461908.json"
+      ],
+      "duration_of_vegetable_intake_most_recent": [
+        "626826637.json"
+      ],
+      "number_of_hypertension_childhood": [
+        "201532393.json"
+      ],
+      "provider_reported_hormone_therapy_quarterly": [
+        "734088082.json"
+      ],
+      "confidence_in_sunscreen_use_post_enrollment": [
+        "318663176.json"
+      ],
+      "type_of_fruit_intake_first_occurrence": [
+        "533230147.json"
+      ],
+      "self_reported_breastfeeding_annual": [
+        "955278271.json"
+      ],
+      "has_ever_depression_screening": [
+        "498071508.json"
+      ],
+      "type_of_psa_test_childhood": [
+        "193180852.json"
+      ],
+      "frequency_of_radiation_exposure_lifetime": [
+        "556782425.json"
+      ],
+      "confidence_in_chemotherapy_most_recent": [
+        "248336698.json"
+      ],
+      "last_occurrence_arthritis_proxy_report": [
+        "665013069.json"
+      ],
+      "provider_reported_colonoscopy_baseline": [
+        "242742320.json"
+      ],
+      "confidence_in_hospitalization_annual": [
+        "933349202.json"
+      ],
+      "date_of_red_meat_follow_up": [
+        "257532732.json"
+      ],
+      "provider_reported_diabetes_childhood": [
+        "801923688.json"
+      ],
+      "duration_of_radiation_exposure_past_30_days": [
+        "517928724.json"
+      ],
+      "frequency_of_chemotherapy_lifetime": [
+        "722869814.json"
+      ],
+      "last_occurrence_arthritis_past_12_months": [
+        "424222102.json"
+      ],
+      "number_of_obesity_lifetime": [
+        "168889476.json"
+      ],
+      "age_at_first_colonoscopy_baseline": [
+        "798396496.json"
+      ],
+      "date_of_diabetes_childhood": [
+        "684417487.json"
+      ],
+      "duration_of_asthma_follow_up": [
+        "845284452.json"
+      ],
+      "self_reported_chemotherapy_past_12_months": [
+        "860644920.json"
+      ],
+      "change_in_radiation_exposure_annual": [
+        "236107995.json"
+      ],
+      "change_in_asthma_quarterly": [
+        "266537084.json"
+      ],
+      "age_at_first_exercise_confirmed": [
+        "474531596.json"
+      ],
+      "reason_for_smoking_past_12_months": [
+        "134467975.json"
+      ],
+      "confidence_in_diabetes_suspected": [
+        "427375992.json"
+      ],
+      "confidence_in_red_meat_past_30_days": [
+        "768123726.json"
+      ],
+      "self_reported_arthritis_first_occurrence": [
+        "373568239.json"
+      ],
+      "age_at_first_skin_exam_past_30_days": [
+        "917879139.json"
+      ],
+      "confidence_in_colonoscopy_childhood": [
+        "540126046.json"
+      ],
+      "current_status_vaping_confirmed": [
+        "864589313.json"
+      ],
+      "frequency_of_sunscreen_use_screening": [
+        "810661315.json"
+      ],
+      "severity_of_hospitalization_past_12_months": [
+        "864562512.json"
+      ],
+      "provider_reported_oral_contraceptive_first_occurrence": [
+        "305614740.json"
+      ],
+      "number_of_breastfeeding_follow_up": [
+        "524157956.json"
+      ],
+      "has_ever_radiation_exposure_diagnostic": [
+        "155912871.json"
+      ],
+      "severity_of_hospitalization_adulthood": [
+        "914750372.json"
+      ],
+      "current_status_exercise_screening": [
+        "420535626.json"
+      ],
+      "self_reported_chemotherapy_diagnostic": [
+        "918617278.json"
+      ],
+      "duration_of_exercise_most_recent": [
+        "998342044.json"
+      ],
+      "age_at_first_pap_test_adulthood": [
+        "165640195.json"
+      ],
+      "self_reported_exercise_past_30_days": [
+        "230258320.json"
+      ],
+      "number_of_hypertension_lifetime": [
+        "635427719.json"
+      ],
+      "confidence_in_alcohol_use_suspected": [
+        "213751446.json"
+      ],
+      "self_reported_sunscreen_use_suspected": [
+        "249861577.json"
+      ],
+      "age_at_first_hospitalization_current": [
+        "949363274.json"
+      ],
+      "provider_reported_red_meat_suspected": [
+        "777791446.json"
+      ],
+      "last_occurrence_smoking_past_30_days": [
+        "242758301.json"
+      ],
+      "self_reported_hospitalization_proxy_report": [
+        "629401468.json"
+      ],
+      "age_at_first_red_meat_current": [
+        "346275993.json"
+      ],
+      "self_reported_red_meat_most_recent": [
+        "594863068.json"
+      ],
+      "confidence_in_pregnancy_most_recent": [
+        "117919362.json"
+      ],
+      "current_status_asthma_follow_up": [
+        "160600014.json"
+      ],
+      "frequency_of_fruit_intake_baseline": [
+        "304401848.json"
+      ],
+      "duration_of_diabetes_quarterly": [
+        "763488103.json"
+      ],
+      "duration_of_hypertension_current": [
+        "897422518.json"
+      ],
+      "last_occurrence_alcohol_use_confirmed": [
+        "301239918.json"
+      ],
+      "last_occurrence_hospitalization_adulthood": [
+        "684979149.json"
+      ],
+      "self_reported_red_meat_past_30_days": [
+        "459560034.json"
+      ],
+      "number_of_skin_exam_current": [
+        "990453117.json"
+      ],
+      "provider_reported_sunscreen_use_pre_enrollment": [
+        "380145253.json"
+      ],
+      "change_in_exercise_screening": [
+        "263899026.json"
+      ],
+      "provider_reported_radiation_exposure_follow_up": [
+        "769936961.json"
+      ],
+      "severity_of_hormone_therapy_suspected": [
+        "465033207.json"
+      ],
+      "current_status_pregnancy_diagnostic": [
+        "272596910.json"
+      ],
+      "last_occurrence_anxiety_past_12_months": [
+        "643089655.json"
+      ],
+      "type_of_fruit_intake_baseline": [
+        "835305431.json"
+      ],
+      "date_of_vaping_post_enrollment": [
+        "759527695.json"
+      ],
+      "frequency_of_diabetes_baseline": [
+        "861006004.json"
+      ],
+      "confidence_in_alcohol_use_diagnostic": [
+        "716685240.json"
+      ],
+      "self_reported_pregnancy_annual": [
+        "572144797.json"
+      ],
+      "current_status_hospitalization_confirmed": [
+        "968804753.json"
+      ],
+      "provider_reported_depression_proxy_report": [
+        "342836812.json"
+      ],
+      "frequency_of_oral_contraceptive_baseline": [
+        "470086688.json"
+      ],
+      "has_ever_diabetes_self_report": [
+        "465792076.json"
+      ],
+      "reason_for_hormone_therapy_proxy_report": [
+        "322206314.json"
+      ],
+      "number_of_breastfeeding_past_30_days": [
+        "808625441.json"
+      ],
+      "type_of_radiation_exposure_past_30_days": [
+        "493095586.json"
+      ],
+      "duration_of_hospitalization_past_12_months": [
+        "599510382.json"
+      ],
+      "change_in_surgery_diagnostic": [
+        "377418930.json"
+      ],
+      "age_at_first_pap_test_diagnostic": [
+        "489801468.json"
+      ],
+      "last_occurrence_alcohol_use_adulthood": [
+        "342385613.json"
+      ],
+      "age_at_first_sun_exposure_self_report": [
+        "376223246.json"
+      ],
+      "reason_for_hormone_therapy_diagnostic": [
+        "359482604.json"
+      ],
+      "current_status_surgery_post_enrollment": [
+        "478632170.json"
+      ],
+      "provider_reported_arthritis_past_30_days": [
+        "892370127.json"
+      ],
+      "has_ever_diabetes_follow_up": [
+        "853306367.json"
+      ],
+      "type_of_psa_test_baseline": [
+        "457880423.json"
+      ],
+      "provider_reported_fruit_intake_screening": [
+        "317209665.json"
+      ],
+      "duration_of_skin_exam_diagnostic": [
+        "616267347.json"
+      ],
+      "number_of_skin_exam_past_30_days": [
+        "519953245.json"
+      ],
+      "confidence_in_red_meat_self_report": [
+        "737643820.json"
+      ],
+      "type_of_pregnancy_self_report": [
+        "145804082.json"
+      ],
+      "last_occurrence_radiation_exposure_screening": [
+        "727910531.json"
+      ],
+      "last_occurrence_sun_exposure_most_recent": [
+        "376639579.json"
+      ],
+      "age_at_first_pap_test_proxy_report": [
+        "426752230.json"
+      ],
+      "last_occurrence_oral_contraceptive_current": [
+        "978834612.json"
+      ],
+      "frequency_of_psa_test_most_recent": [
+        "353158839.json"
+      ],
+      "frequency_of_hormone_therapy_annual": [
+        "931018823.json"
+      ],
+      "type_of_anxiety_diagnostic": [
+        "681590382.json"
+      ],
+      "self_reported_psa_test_first_occurrence": [
+        "506289311.json"
+      ],
+      "number_of_pap_test_confirmed": [
+        "463669663.json"
+      ],
+      "last_occurrence_red_meat_follow_up": [
+        "695743059.json"
+      ],
+      "frequency_of_anxiety_diagnostic": [
+        "197371068.json"
+      ],
+      "confidence_in_arthritis_past_12_months": [
+        "186928914.json"
+      ],
+      "age_at_first_colonoscopy_current": [
+        "404252972.json"
+      ],
+      "confidence_in_fruit_intake_proxy_report": [
+        "680056601.json"
+      ],
+      "has_ever_chemotherapy_follow_up": [
+        "569446416.json"
+      ],
+      "has_ever_radiation_exposure_follow_up": [
+        "529366603.json"
+      ],
+      "self_reported_asthma_diagnostic": [
+        "756168677.json"
+      ],
+      "provider_reported_sunscreen_use_past_12_months": [
+        "334083702.json"
+      ],
+      "confidence_in_depression_post_enrollment": [
+        "636470240.json"
+      ],
+      "frequency_of_psa_test_current": [
+        "972743273.json"
+      ],
+      "type_of_colonoscopy_lifetime": [
+        "731832023.json"
+      ],
+      "has_ever_oral_contraceptive_quarterly": [
+        "544369129.json"
+      ],
+      "self_reported_radiation_exposure_lifetime": [
+        "204768491.json"
+      ],
+      "reason_for_obesity_suspected": [
+        "633316972.json"
+      ],
+      "provider_reported_pregnancy_proxy_report": [
+        "280997431.json"
+      ],
+      "number_of_asthma_lifetime": [
+        "303344264.json"
+      ],
+      "has_ever_oral_contraceptive_most_recent": [
+        "772943847.json"
+      ],
+      "self_reported_anxiety_baseline": [
+        "329564189.json"
+      ],
+      "frequency_of_sunscreen_use_lifetime": [
+        "119482998.json"
+      ],
+      "duration_of_hormone_therapy_self_report": [
+        "623183629.json"
+      ],
+      "type_of_vaping_post_enrollment": [
+        "621392828.json"
+      ],
+      "provider_reported_sunscreen_use_baseline": [
+        "630587444.json"
+      ],
+      "provider_reported_breastfeeding_quarterly": [
+        "445740465.json"
+      ],
+      "date_of_colonoscopy_childhood": [
+        "932568026.json"
+      ],
+      "duration_of_colonoscopy_confirmed": [
+        "201824302.json"
+      ],
+      "change_in_obesity_diagnostic": [
+        "361616266.json"
+      ],
+      "type_of_obesity_childhood": [
+        "107875385.json"
+      ],
+      "age_at_first_mammogram_past_30_days": [
+        "651381188.json"
+      ],
+      "self_reported_alcohol_use_childhood": [
+        "572215867.json"
+      ],
+      "duration_of_exercise_diagnostic": [
+        "395794239.json"
+      ],
+      "provider_reported_radiation_exposure_past_12_months": [
+        "106642595.json"
+      ],
+      "type_of_anxiety_annual": [
+        "542641032.json"
+      ],
+      "duration_of_skin_exam_baseline": [
+        "478439360.json"
+      ],
+      "current_status_diabetes_post_enrollment": [
+        "633840612.json"
+      ],
+      "age_at_first_exercise_most_recent": [
+        "534585483.json"
+      ],
+      "self_reported_fruit_intake_baseline": [
+        "858952572.json"
+      ],
+      "confidence_in_pap_test_current": [
+        "369523084.json"
+      ],
+      "number_of_diabetes_proxy_report": [
+        "971263104.json"
+      ],
+      "change_in_red_meat_diagnostic": [
+        "326325619.json"
+      ],
+      "current_status_sun_exposure_annual": [
+        "885601168.json"
+      ],
+      "date_of_smoking_self_report": [
+        "967076718.json"
+      ],
+      "type_of_psa_test_suspected": [
+        "491819580.json"
+      ],
+      "frequency_of_sunscreen_use_baseline": [
+        "218209480.json"
+      ],
+      "age_at_first_smoking_past_30_days": [
+        "801186852.json"
+      ],
+      "age_at_first_mammogram_baseline": [
+        "505343333.json"
+      ],
+      "provider_reported_sunscreen_use_confirmed": [
+        "151950591.json"
+      ],
+      "frequency_of_sun_exposure_past_12_months": [
+        "679529781.json"
+      ],
+      "confidence_in_pregnancy_quarterly": [
+        "625181992.json"
+      ],
+      "self_reported_red_meat_childhood": [
+        "667206735.json"
+      ],
+      "has_ever_hypertension_most_recent": [
+        "927939244.json"
+      ],
+      "reason_for_alcohol_use_annual": [
+        "837051139.json"
+      ],
+      "current_status_hospitalization_annual": [
+        "277326646.json"
+      ],
+      "self_reported_diabetes_first_occurrence": [
+        "939435988.json"
+      ],
+      "age_at_first_asthma_quarterly": [
+        "853329824.json"
+      ],
+      "number_of_oral_contraceptive_adulthood": [
+        "394910287.json"
+      ],
+      "duration_of_alcohol_use_proxy_report": [
+        "198417175.json"
+      ],
+      "has_ever_anxiety_baseline": [
+        "624927416.json"
+      ],
+      "change_in_hormone_therapy_lifetime": [
+        "174036381.json"
+      ],
+      "date_of_obesity_current": [
+        "226331786.json"
+      ],
+      "number_of_depression_screening": [
+        "656724929.json"
+      ],
+      "change_in_vaping_post_enrollment": [
+        "353428766.json"
+      ],
+      "severity_of_mammogram_current": [
+        "970465368.json"
+      ],
+      "type_of_pap_test_baseline": [
+        "816685112.json"
+      ],
+      "confidence_in_oral_contraceptive_lifetime": [
+        "239095324.json"
+      ],
+      "age_at_first_sun_exposure_follow_up": [
+        "908141112.json"
+      ],
+      "has_ever_radiation_exposure_screening": [
+        "640729362.json"
+      ],
+      "age_at_first_arthritis_past_12_months": [
+        "749397960.json"
+      ],
+      "last_occurrence_sunscreen_use_self_report": [
+        "876690431.json"
+      ],
+      "self_reported_pap_test_screening": [
+        "300272272.json"
+      ],
+      "frequency_of_breastfeeding_proxy_report": [
+        "715204959.json"
+      ],
+      "severity_of_vaping_diagnostic": [
+        "676166631.json"
+      ],
+      "confidence_in_vegetable_intake_pre_enrollment": [
+        "211061704.json"
+      ],
+      "confidence_in_hospitalization_confirmed": [
+        "460567303.json"
+      ],
+      "confidence_in_surgery_suspected": [
+        "835089517.json"
+      ],
+      "duration_of_vaping_most_recent": [
+        "572616666.json"
+      ],
+      "self_reported_red_meat_first_occurrence": [
+        "518765465.json"
+      ],
+      "provider_reported_diabetes_adulthood": [
+        "556148987.json"
+      ],
+      "has_ever_depression_quarterly": [
+        "624823824.json"
+      ],
+      "self_reported_sunscreen_use_lifetime": [
+        "523314898.json"
+      ],
+      "has_ever_oral_contraceptive_past_30_days": [
+        "548817558.json"
+      ],
+      "self_reported_arthritis_current": [
+        "410258251.json"
+      ],
+      "reason_for_arthritis_follow_up": [
+        "262372352.json"
+      ],
+      "provider_reported_anxiety_baseline": [
+        "962590488.json"
+      ],
+      "age_at_first_hormone_therapy_screening": [
+        "502528258.json"
+      ],
+      "has_ever_sleep_apnea_post_enrollment": [
+        "959251958.json"
+      ],
+      "provider_reported_colonoscopy_past_30_days": [
+        "286321681.json"
+      ],
+      "self_reported_breastfeeding_lifetime": [
+        "425870802.json"
+      ],
+      "severity_of_psa_test_baseline": [
+        "905988971.json"
+      ],
+      "confidence_in_colonoscopy_baseline": [
+        "907197053.json"
+      ],
+      "last_occurrence_oral_contraceptive_lifetime": [
+        "916151902.json"
+      ],
+      "self_reported_colonoscopy_confirmed": [
+        "638067432.json"
+      ],
+      "current_status_red_meat_baseline": [
+        "714874699.json"
+      ],
+      "duration_of_sun_exposure_past_30_days": [
+        "509555959.json"
+      ],
+      "confidence_in_alcohol_use_past_12_months": [
+        "779140554.json"
+      ],
+      "confidence_in_pap_test_suspected": [
+        "760694304.json"
+      ],
+      "has_ever_asthma_childhood": [
+        "687641400.json"
+      ],
+      "age_at_first_hospitalization_post_enrollment": [
+        "587323950.json"
+      ],
+      "severity_of_diabetes_adulthood": [
+        "360952801.json"
+      ],
+      "provider_reported_colonoscopy_quarterly": [
+        "144993612.json"
+      ],
+      "has_ever_obesity_past_12_months": [
+        "251190022.json"
+      ],
+      "has_ever_sleep_apnea_diagnostic": [
+        "929959538.json"
+      ],
+      "type_of_breastfeeding_quarterly": [
+        "329144955.json"
+      ],
+      "has_ever_pregnancy_past_12_months": [
+        "563612915.json"
+      ],
+      "confidence_in_psa_test_childhood": [
+        "437185184.json"
+      ],
+      "reason_for_anxiety_screening": [
+        "639090176.json"
+      ],
+      "number_of_sleep_apnea_childhood": [
+        "418820668.json"
+      ],
+      "age_at_first_arthritis_annual": [
+        "510701564.json"
+      ],
+      "number_of_pap_test_lifetime": [
+        "216673782.json"
+      ],
+      "change_in_breastfeeding_quarterly": [
+        "775725573.json"
+      ],
+      "date_of_obesity_baseline": [
+        "795370846.json"
+      ],
+      "age_at_first_smoking_first_occurrence": [
+        "838253424.json"
+      ],
+      "has_ever_radiation_exposure_lifetime": [
+        "974749816.json"
+      ],
+      "age_at_first_alcohol_use_pre_enrollment": [
+        "450708541.json"
+      ],
+      "self_reported_pregnancy_adulthood": [
+        "861963976.json"
+      ],
+      "confidence_in_diabetes_proxy_report": [
+        "105791329.json"
+      ],
+      "change_in_hospitalization_lifetime": [
+        "982904444.json"
+      ],
+      "frequency_of_pap_test_first_occurrence": [
+        "585911769.json"
+      ],
+      "duration_of_chemotherapy_confirmed": [
+        "915799780.json"
+      ],
+      "reason_for_red_meat_follow_up": [
+        "179562140.json"
+      ],
+      "has_ever_hospitalization_proxy_report": [
+        "847545323.json"
+      ],
+      "confidence_in_mammogram_most_recent": [
+        "835523008.json"
+      ],
+      "reason_for_chemotherapy_pre_enrollment": [
+        "136432327.json"
+      ],
+      "confidence_in_radiation_exposure_first_occurrence": [
+        "373256519.json"
+      ],
+      "reason_for_hospitalization_past_30_days": [
+        "661861765.json"
+      ],
+      "age_at_first_vaping_quarterly": [
+        "263116387.json"
+      ],
+      "change_in_sun_exposure_annual": [
+        "577909132.json"
+      ],
+      "number_of_surgery_diagnostic": [
+        "528376869.json"
+      ],
+      "date_of_fruit_intake_post_enrollment": [
+        "429200720.json"
+      ],
+      "last_occurrence_sleep_apnea_adulthood": [
+        "624673528.json"
+      ],
+      "date_of_sun_exposure_pre_enrollment": [
+        "726056732.json"
+      ],
+      "date_of_skin_exam_adulthood": [
+        "491072021.json"
+      ],
+      "has_ever_hormone_therapy_self_report": [
+        "266025407.json"
+      ],
+      "duration_of_breastfeeding_baseline": [
+        "646617986.json"
+      ],
+      "current_status_exercise_current": [
+        "488357155.json"
+      ],
+      "severity_of_sun_exposure_annual": [
+        "590645853.json"
+      ],
+      "duration_of_hypertension_quarterly": [
+        "927046839.json"
+      ],
+      "self_reported_depression_past_30_days": [
+        "849106206.json"
+      ],
+      "date_of_hypertension_follow_up": [
+        "307724525.json"
+      ],
+      "reason_for_pregnancy_lifetime": [
+        "499641587.json"
+      ],
+      "change_in_asthma_childhood": [
+        "583527489.json"
+      ],
+      "provider_reported_sunscreen_use_suspected": [
+        "992949926.json"
+      ],
+      "current_status_alcohol_use_lifetime": [
+        "171542650.json"
+      ],
+      "last_occurrence_surgery_quarterly": [
+        "528087010.json"
+      ],
+      "current_status_obesity_past_30_days": [
+        "367516216.json"
+      ],
+      "date_of_red_meat_past_12_months": [
+        "677886817.json"
+      ],
+      "change_in_hypertension_screening": [
+        "135313047.json"
+      ],
+      "current_status_psa_test_pre_enrollment": [
+        "992585340.json"
+      ],
+      "reason_for_asthma_past_30_days": [
+        "520631897.json"
+      ],
+      "last_occurrence_smoking_post_enrollment": [
+        "583031206.json"
+      ],
+      "date_of_alcohol_use_post_enrollment": [
+        "934782906.json"
+      ],
+      "age_at_first_sun_exposure_past_12_months": [
+        "131236262.json"
+      ],
+      "type_of_red_meat_past_30_days": [
+        "137552306.json"
+      ],
+      "last_occurrence_hospitalization_current": [
+        "310913678.json"
+      ],
+      "confidence_in_exercise_suspected": [
+        "307285650.json"
+      ],
+      "self_reported_pregnancy_childhood": [
+        "302614342.json"
+      ],
+      "number_of_diabetes_confirmed": [
+        "685884364.json"
+      ],
+      "age_at_first_pregnancy_first_occurrence": [
+        "324860667.json"
+      ],
+      "type_of_hypertension_follow_up": [
+        "469215217.json"
+      ],
+      "severity_of_fruit_intake_post_enrollment": [
+        "297039245.json"
+      ],
+      "self_reported_arthritis_screening": [
+        "803324541.json"
+      ],
+      "has_ever_pregnancy_first_occurrence": [
+        "966422591.json"
+      ],
+      "frequency_of_obesity_adulthood": [
+        "189000310.json"
+      ],
+      "severity_of_sun_exposure_screening": [
+        "755500215.json"
+      ],
+      "provider_reported_oral_contraceptive_post_enrollment": [
+        "269782901.json"
+      ],
+      "severity_of_sleep_apnea_diagnostic": [
+        "577498195.json"
+      ],
+      "frequency_of_red_meat_current": [
+        "985943450.json"
+      ],
+      "frequency_of_pap_test_lifetime": [
+        "534502648.json"
+      ],
+      "date_of_sleep_apnea_baseline": [
+        "957777047.json"
+      ],
+      "confidence_in_oral_contraceptive_suspected": [
+        "483518981.json"
+      ],
+      "current_status_breastfeeding_proxy_report": [
+        "111528464.json"
+      ],
+      "date_of_depression_proxy_report": [
+        "450815257.json"
+      ],
+      "frequency_of_arthritis_annual": [
+        "325478303.json"
+      ],
+      "has_ever_fruit_intake_childhood": [
+        "944806745.json"
+      ],
+      "type_of_chemotherapy_follow_up": [
+        "873259984.json"
+      ],
+      "age_at_first_asthma_proxy_report": [
+        "912604398.json"
+      ],
+      "provider_reported_chemotherapy_post_enrollment": [
+        "570492056.json"
+      ],
+      "confidence_in_sun_exposure_proxy_report": [
+        "319523211.json"
+      ],
+      "frequency_of_surgery_childhood": [
+        "344519289.json"
+      ],
+      "reason_for_fruit_intake_current": [
+        "776310647.json"
+      ],
+      "number_of_mammogram_pre_enrollment": [
+        "329184166.json"
+      ],
+      "date_of_surgery_confirmed": [
+        "182709859.json"
+      ],
+      "age_at_first_exercise_first_occurrence": [
+        "315525612.json"
+      ],
+      "last_occurrence_sleep_apnea_annual": [
+        "621406191.json"
+      ],
+      "type_of_hospitalization_confirmed": [
+        "512050038.json"
+      ],
+      "age_at_first_depression_most_recent": [
+        "432886143.json"
+      ],
+      "provider_reported_alcohol_use_self_report": [
+        "389209576.json"
+      ],
+      "self_reported_exercise_adulthood": [
+        "250057802.json"
+      ],
+      "date_of_breastfeeding_baseline": [
+        "535153325.json"
+      ],
+      "type_of_chemotherapy_lifetime": [
+        "504029356.json"
+      ],
+      "type_of_surgery_past_30_days": [
+        "220029303.json"
+      ],
+      "provider_reported_sleep_apnea_pre_enrollment": [
+        "541521928.json"
+      ],
+      "self_reported_colonoscopy_suspected": [
+        "190361202.json"
+      ],
+      "provider_reported_hormone_therapy_screening": [
+        "478391909.json"
+      ],
+      "change_in_psa_test_proxy_report": [
+        "182713117.json"
+      ],
+      "date_of_diabetes_diagnostic": [
+        "524873315.json"
+      ],
+      "current_status_red_meat_follow_up": [
+        "736231909.json"
+      ],
+      "last_occurrence_radiation_exposure_annual": [
+        "258038357.json"
+      ],
+      "age_at_first_arthritis_childhood": [
+        "880736172.json"
+      ],
+      "number_of_hospitalization_proxy_report": [
+        "241736606.json"
+      ],
+      "confidence_in_surgery_follow_up": [
+        "693263118.json"
+      ],
+      "change_in_psa_test_adulthood": [
+        "838715200.json"
+      ],
+      "duration_of_breastfeeding_past_30_days": [
+        "768002002.json"
+      ],
+      "reason_for_obesity_past_30_days": [
+        "534503951.json"
+      ],
+      "reason_for_vaping_most_recent": [
+        "960876715.json"
+      ],
+      "self_reported_colonoscopy_quarterly": [
+        "951417853.json"
+      ],
+      "type_of_surgery_screening": [
+        "948659021.json"
+      ],
+      "age_at_first_sleep_apnea_baseline": [
+        "359443403.json"
+      ],
+      "current_status_hormone_therapy_follow_up": [
+        "212925407.json"
+      ],
+      "duration_of_diabetes_first_occurrence": [
+        "400551962.json"
+      ],
+      "provider_reported_vaping_past_12_months": [
+        "854320672.json"
+      ],
+      "type_of_hormone_therapy_suspected": [
+        "518024014.json"
+      ],
+      "severity_of_obesity_most_recent": [
+        "741041074.json"
+      ],
+      "current_status_sunscreen_use_annual": [
+        "253105886.json"
+      ],
+      "reason_for_asthma_follow_up": [
+        "213855060.json"
+      ],
+      "self_reported_hormone_therapy_lifetime": [
+        "294461258.json"
+      ],
+      "type_of_sleep_apnea_proxy_report": [
+        "838603166.json"
+      ],
+      "date_of_obesity_first_occurrence": [
+        "858392131.json"
+      ],
+      "current_status_colonoscopy_post_enrollment": [
+        "358331082.json"
+      ],
+      "age_at_first_hormone_therapy_post_enrollment": [
+        "749525282.json"
+      ],
+      "number_of_hypertension_proxy_report": [
+        "619963940.json"
+      ],
+      "frequency_of_skin_exam_self_report": [
+        "209711666.json"
+      ],
+      "date_of_fruit_intake_past_12_months": [
+        "250399955.json"
+      ],
+      "self_reported_mammogram_proxy_report": [
+        "945354546.json"
+      ],
+      "confidence_in_breastfeeding_diagnostic": [
+        "689396732.json"
+      ],
+      "current_status_depression_follow_up": [
+        "130876447.json"
+      ],
+      "reason_for_oral_contraceptive_lifetime": [
+        "660287030.json"
+      ],
+      "number_of_asthma_childhood": [
+        "871516883.json"
+      ],
+      "provider_reported_vaping_quarterly": [
+        "698117788.json"
+      ],
+      "last_occurrence_depression_past_30_days": [
+        "127863248.json"
+      ],
+      "has_ever_pregnancy_diagnostic": [
+        "164379951.json"
+      ],
+      "duration_of_asthma_lifetime": [
+        "686589762.json"
+      ],
+      "self_reported_sun_exposure_childhood": [
+        "173131559.json"
       ]
     },
     "by_type": {
@@ -36016,7 +39516,507 @@
         "397029971.json",
         "427432235.json",
         "657915033.json",
-        "725681547.json"
+        "725681547.json",
+        "192395983.json",
+        "712768237.json",
+        "234652955.json",
+        "334718923.json",
+        "393311476.json",
+        "916843301.json",
+        "369873674.json",
+        "852985306.json",
+        "386707517.json",
+        "989045977.json",
+        "869761322.json",
+        "722830748.json",
+        "670513433.json",
+        "590190145.json",
+        "831794151.json",
+        "967334675.json",
+        "485362886.json",
+        "351113160.json",
+        "102535014.json",
+        "340781183.json",
+        "506895346.json",
+        "897435848.json",
+        "580555187.json",
+        "993879363.json",
+        "204714769.json",
+        "372229748.json",
+        "822194231.json",
+        "846798116.json",
+        "716302355.json",
+        "767880331.json",
+        "832784132.json",
+        "545735224.json",
+        "214871191.json",
+        "601112736.json",
+        "404536603.json",
+        "409744782.json",
+        "632841433.json",
+        "273513045.json",
+        "798378343.json",
+        "833101954.json",
+        "869669014.json",
+        "355509011.json",
+        "324645165.json",
+        "652458242.json",
+        "483282714.json",
+        "891791440.json",
+        "843167305.json",
+        "742357895.json",
+        "262668084.json",
+        "603918290.json",
+        "326792520.json",
+        "561154405.json",
+        "383295054.json",
+        "930567804.json",
+        "714164259.json",
+        "997809504.json",
+        "186840941.json",
+        "590676771.json",
+        "400565300.json",
+        "146586013.json",
+        "957007205.json",
+        "853865498.json",
+        "183706558.json",
+        "171545806.json",
+        "370001879.json",
+        "436104794.json",
+        "664866322.json",
+        "727304589.json",
+        "650571921.json",
+        "901376366.json",
+        "738373205.json",
+        "434925020.json",
+        "803092401.json",
+        "746966097.json",
+        "383036780.json",
+        "433799846.json",
+        "114119925.json",
+        "342452758.json",
+        "201262885.json",
+        "179768933.json",
+        "923204836.json",
+        "247984852.json",
+        "431665110.json",
+        "386446433.json",
+        "842459251.json",
+        "807606300.json",
+        "392018650.json",
+        "232394255.json",
+        "910407719.json",
+        "741827363.json",
+        "950894913.json",
+        "969174227.json",
+        "452050628.json",
+        "921570595.json",
+        "649430204.json",
+        "208145891.json",
+        "859394751.json",
+        "776832133.json",
+        "795803736.json",
+        "129392856.json",
+        "238234688.json",
+        "233812254.json",
+        "965653633.json",
+        "328945070.json",
+        "890967626.json",
+        "613353118.json",
+        "611234277.json",
+        "538354560.json",
+        "763072818.json",
+        "402826677.json",
+        "130688415.json",
+        "583971313.json",
+        "310242784.json",
+        "259698573.json",
+        "887692676.json",
+        "319762720.json",
+        "279050778.json",
+        "990074404.json",
+        "608163447.json",
+        "705555341.json",
+        "148543737.json",
+        "969209550.json",
+        "749281603.json",
+        "441629045.json",
+        "809866701.json",
+        "491930445.json",
+        "786658282.json",
+        "864968728.json",
+        "237693737.json",
+        "569870350.json",
+        "263872927.json",
+        "500339471.json",
+        "565141636.json",
+        "785305618.json",
+        "668277892.json",
+        "452657150.json",
+        "641182861.json",
+        "108901301.json",
+        "657601019.json",
+        "165524575.json",
+        "459669842.json",
+        "949807568.json",
+        "909284968.json",
+        "339631856.json",
+        "899907371.json",
+        "456119134.json",
+        "286274194.json",
+        "998885140.json",
+        "837963471.json",
+        "170161486.json",
+        "297982158.json",
+        "791189771.json",
+        "698181078.json",
+        "576291661.json",
+        "742055241.json",
+        "413939893.json",
+        "657002142.json",
+        "313413625.json",
+        "612410520.json",
+        "983138488.json",
+        "439929530.json",
+        "194225353.json",
+        "777461908.json",
+        "626826637.json",
+        "201532393.json",
+        "734088082.json",
+        "318663176.json",
+        "533230147.json",
+        "955278271.json",
+        "498071508.json",
+        "193180852.json",
+        "556782425.json",
+        "248336698.json",
+        "665013069.json",
+        "242742320.json",
+        "933349202.json",
+        "257532732.json",
+        "801923688.json",
+        "517928724.json",
+        "722869814.json",
+        "424222102.json",
+        "168889476.json",
+        "798396496.json",
+        "684417487.json",
+        "845284452.json",
+        "860644920.json",
+        "236107995.json",
+        "266537084.json",
+        "474531596.json",
+        "134467975.json",
+        "427375992.json",
+        "768123726.json",
+        "373568239.json",
+        "917879139.json",
+        "540126046.json",
+        "864589313.json",
+        "810661315.json",
+        "864562512.json",
+        "305614740.json",
+        "524157956.json",
+        "155912871.json",
+        "914750372.json",
+        "420535626.json",
+        "918617278.json",
+        "998342044.json",
+        "165640195.json",
+        "230258320.json",
+        "635427719.json",
+        "213751446.json",
+        "249861577.json",
+        "949363274.json",
+        "777791446.json",
+        "242758301.json",
+        "629401468.json",
+        "346275993.json",
+        "594863068.json",
+        "117919362.json",
+        "160600014.json",
+        "304401848.json",
+        "763488103.json",
+        "897422518.json",
+        "301239918.json",
+        "684979149.json",
+        "459560034.json",
+        "990453117.json",
+        "380145253.json",
+        "263899026.json",
+        "769936961.json",
+        "465033207.json",
+        "272596910.json",
+        "643089655.json",
+        "835305431.json",
+        "759527695.json",
+        "861006004.json",
+        "716685240.json",
+        "572144797.json",
+        "968804753.json",
+        "342836812.json",
+        "470086688.json",
+        "465792076.json",
+        "322206314.json",
+        "808625441.json",
+        "493095586.json",
+        "599510382.json",
+        "377418930.json",
+        "489801468.json",
+        "342385613.json",
+        "376223246.json",
+        "359482604.json",
+        "478632170.json",
+        "892370127.json",
+        "853306367.json",
+        "457880423.json",
+        "317209665.json",
+        "616267347.json",
+        "519953245.json",
+        "737643820.json",
+        "145804082.json",
+        "727910531.json",
+        "376639579.json",
+        "426752230.json",
+        "978834612.json",
+        "353158839.json",
+        "931018823.json",
+        "681590382.json",
+        "506289311.json",
+        "463669663.json",
+        "695743059.json",
+        "197371068.json",
+        "186928914.json",
+        "404252972.json",
+        "680056601.json",
+        "569446416.json",
+        "529366603.json",
+        "756168677.json",
+        "334083702.json",
+        "636470240.json",
+        "972743273.json",
+        "731832023.json",
+        "544369129.json",
+        "204768491.json",
+        "633316972.json",
+        "280997431.json",
+        "303344264.json",
+        "772943847.json",
+        "329564189.json",
+        "119482998.json",
+        "623183629.json",
+        "621392828.json",
+        "630587444.json",
+        "445740465.json",
+        "932568026.json",
+        "201824302.json",
+        "361616266.json",
+        "107875385.json",
+        "651381188.json",
+        "572215867.json",
+        "395794239.json",
+        "106642595.json",
+        "542641032.json",
+        "478439360.json",
+        "633840612.json",
+        "534585483.json",
+        "858952572.json",
+        "369523084.json",
+        "971263104.json",
+        "326325619.json",
+        "885601168.json",
+        "967076718.json",
+        "491819580.json",
+        "218209480.json",
+        "801186852.json",
+        "505343333.json",
+        "151950591.json",
+        "679529781.json",
+        "625181992.json",
+        "667206735.json",
+        "927939244.json",
+        "837051139.json",
+        "277326646.json",
+        "939435988.json",
+        "853329824.json",
+        "394910287.json",
+        "198417175.json",
+        "624927416.json",
+        "174036381.json",
+        "226331786.json",
+        "656724929.json",
+        "353428766.json",
+        "970465368.json",
+        "816685112.json",
+        "239095324.json",
+        "908141112.json",
+        "640729362.json",
+        "749397960.json",
+        "876690431.json",
+        "300272272.json",
+        "715204959.json",
+        "676166631.json",
+        "211061704.json",
+        "460567303.json",
+        "835089517.json",
+        "572616666.json",
+        "518765465.json",
+        "556148987.json",
+        "624823824.json",
+        "523314898.json",
+        "548817558.json",
+        "410258251.json",
+        "262372352.json",
+        "962590488.json",
+        "502528258.json",
+        "959251958.json",
+        "286321681.json",
+        "425870802.json",
+        "905988971.json",
+        "907197053.json",
+        "916151902.json",
+        "638067432.json",
+        "714874699.json",
+        "509555959.json",
+        "779140554.json",
+        "760694304.json",
+        "687641400.json",
+        "587323950.json",
+        "360952801.json",
+        "144993612.json",
+        "251190022.json",
+        "929959538.json",
+        "329144955.json",
+        "563612915.json",
+        "437185184.json",
+        "639090176.json",
+        "418820668.json",
+        "510701564.json",
+        "216673782.json",
+        "775725573.json",
+        "795370846.json",
+        "838253424.json",
+        "974749816.json",
+        "450708541.json",
+        "861963976.json",
+        "105791329.json",
+        "982904444.json",
+        "585911769.json",
+        "915799780.json",
+        "179562140.json",
+        "847545323.json",
+        "835523008.json",
+        "136432327.json",
+        "373256519.json",
+        "661861765.json",
+        "263116387.json",
+        "577909132.json",
+        "528376869.json",
+        "429200720.json",
+        "624673528.json",
+        "726056732.json",
+        "491072021.json",
+        "266025407.json",
+        "646617986.json",
+        "488357155.json",
+        "590645853.json",
+        "927046839.json",
+        "849106206.json",
+        "307724525.json",
+        "499641587.json",
+        "583527489.json",
+        "992949926.json",
+        "171542650.json",
+        "528087010.json",
+        "367516216.json",
+        "677886817.json",
+        "135313047.json",
+        "992585340.json",
+        "520631897.json",
+        "583031206.json",
+        "934782906.json",
+        "131236262.json",
+        "137552306.json",
+        "310913678.json",
+        "307285650.json",
+        "302614342.json",
+        "685884364.json",
+        "324860667.json",
+        "469215217.json",
+        "297039245.json",
+        "803324541.json",
+        "966422591.json",
+        "189000310.json",
+        "755500215.json",
+        "269782901.json",
+        "577498195.json",
+        "985943450.json",
+        "534502648.json",
+        "957777047.json",
+        "483518981.json",
+        "111528464.json",
+        "450815257.json",
+        "325478303.json",
+        "944806745.json",
+        "873259984.json",
+        "912604398.json",
+        "570492056.json",
+        "319523211.json",
+        "344519289.json",
+        "776310647.json",
+        "329184166.json",
+        "182709859.json",
+        "315525612.json",
+        "621406191.json",
+        "512050038.json",
+        "432886143.json",
+        "389209576.json",
+        "250057802.json",
+        "535153325.json",
+        "504029356.json",
+        "220029303.json",
+        "541521928.json",
+        "190361202.json",
+        "478391909.json",
+        "182713117.json",
+        "524873315.json",
+        "736231909.json",
+        "258038357.json",
+        "880736172.json",
+        "241736606.json",
+        "693263118.json",
+        "838715200.json",
+        "768002002.json",
+        "534503951.json",
+        "960876715.json",
+        "951417853.json",
+        "948659021.json",
+        "359443403.json",
+        "212925407.json",
+        "400551962.json",
+        "854320672.json",
+        "518024014.json",
+        "741041074.json",
+        "253105886.json",
+        "213855060.json",
+        "294461258.json",
+        "838603166.json",
+        "858392131.json",
+        "358331082.json",
+        "749525282.json",
+        "619963940.json",
+        "209711666.json",
+        "250399955.json",
+        "945354546.json",
+        "689396732.json",
+        "130876447.json",
+        "660287030.json",
+        "871516883.json",
+        "698117788.json",
+        "127863248.json",
+        "164379951.json",
+        "686589762.json",
+        "173131559.json"
       ]
     }
   }

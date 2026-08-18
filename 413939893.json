@@ -1,0 +1,14 @@
+{
+  "key": "current_status_hospitalization_self_report",
+  "conceptID": 413939893,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 577302045,
+  "sourceConceptId": 872839827,
+  "responses": [
+    636615193,
+    390662015,
+    756472591,
+    365687810,
+    504786462
+  ]
+}

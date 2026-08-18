@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_surgery_diagnostic",
+  "conceptID": 565141636,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 577302045,
+  "sourceConceptId": 712692038,
+  "responses": [
+    453651208,
+    218253522,
+    877331970,
+    432739350,
+    108573748
+  ]
+}

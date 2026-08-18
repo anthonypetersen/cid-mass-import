@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_alcohol_use_childhood",
+  "conceptID": 572215867,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "sourceConceptId": 872839827,
+  "responses": [
+    298805882,
+    994168209,
+    615116498,
+    989707841,
+    247479546
+  ]
+}

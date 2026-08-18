@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_sun_exposure_screening",
+  "conceptID": 755500215,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 693873814,
+  "responses": [
+    394585074,
+    545736293,
+    649782848,
+    591725867,
+    630368149
+  ]
+}

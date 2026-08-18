@@ -1,0 +1,13 @@
+{
+  "key": "date_of_colonoscopy_post_enrollment",
+  "conceptID": 969174227,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 577302045,
+  "responses": [
+    300863917,
+    471575730,
+    247093719,
+    689199750,
+    402338039
+  ]
+}

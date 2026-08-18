@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_pap_test_proxy_report",
+  "conceptID": 426752230,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "sourceConceptId": 557196660,
+  "responses": [
+    153616768,
+    336497585,
+    704926440,
+    701528419,
+    604901244
+  ]
+}

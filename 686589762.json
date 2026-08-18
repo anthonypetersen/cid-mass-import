@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_asthma_lifetime",
+  "conceptID": 686589762,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "responses": [
+    643539294,
+    540318200,
+    265621100,
+    142726657,
+    734996610
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "date_of_surgery_confirmed",
+  "conceptID": 182709859,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 935055910,
+  "responses": [
+    643539294,
+    540318200,
+    265621100,
+    142726657,
+    734996610
+  ]
+}

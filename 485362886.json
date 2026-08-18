@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_exercise_follow_up",
+  "conceptID": 485362886,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 577302045,
+  "sourceConceptId": 557196660,
+  "responses": [
+    858873535,
+    769258593,
+    148190165,
+    162406278,
+    252371216
+  ]
+}

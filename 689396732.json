@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_breastfeeding_diagnostic",
+  "conceptID": 689396732,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 355786284,
+  "responses": [
+    636615193,
+    390662015,
+    756472591,
+    365687810,
+    504786462
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "key": "date_of_sun_exposure_pre_enrollment",
+  "conceptID": 726056732,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 363692473,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

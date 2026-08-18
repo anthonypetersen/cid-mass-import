@@ -1,0 +1,12 @@
+{
+  "key": "frequency_of_red_meat_current",
+  "conceptID": 985943450,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 872839827,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

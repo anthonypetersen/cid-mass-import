@@ -1,0 +1,14 @@
+{
+  "key": "last_occurrence_radiation_exposure_screening",
+  "conceptID": 727910531,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "sourceConceptId": 355786284,
+  "responses": [
+    286258710,
+    666013050,
+    898190979,
+    393740167,
+    813184577
+  ]
+}

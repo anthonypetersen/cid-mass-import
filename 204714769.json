@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_mammogram_most_recent",
+  "conceptID": 204714769,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 577302045,
+  "sourceConceptId": 693873814,
+  "responses": [
+    502216051,
+    890542150,
+    712889975,
+    414324578,
+    943778574
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_pregnancy_baseline",
+  "conceptID": 897435848,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 577302045,
+  "sourceConceptId": 872839827,
+  "responses": [
+    476519996,
+    717523111,
+    458662226,
+    402508719,
+    906077259
+  ]
+}

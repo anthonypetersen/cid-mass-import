@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_arthritis_annual",
+  "conceptID": 325478303,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 872839827,
+  "responses": [
+    590691819,
+    366336563,
+    190789695,
+    727049361,
+    381975043
+  ]
+}

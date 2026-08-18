@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_diabetes_first_occurrence",
+  "conceptID": 400551962,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 167225166,
+  "responses": [
+    103388116,
+    233359600,
+    948916208,
+    162368370,
+    883589778
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_exercise_suspected",
+  "conceptID": 307285650,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 355786284,
+  "responses": [
+    433550500,
+    306738732,
+    732488174,
+    607645219,
+    185155541
+  ]
+}

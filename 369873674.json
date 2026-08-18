@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_asthma_annual",
+  "conceptID": 369873674,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 577302045,
+  "sourceConceptId": 355786284,
+  "responses": [
+    650729817,
+    909602175,
+    169824165,
+    747638213
+  ]
+}

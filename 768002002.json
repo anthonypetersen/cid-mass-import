@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_breastfeeding_past_30_days",
+  "conceptID": 768002002,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 872839827,
+  "responses": [
+    394585074,
+    545736293,
+    649782848,
+    591725867,
+    630368149
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "date_of_diabetes_childhood",
+  "conceptID": 684417487,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 577302045,
+  "sourceConceptId": 693873814,
+  "responses": [
+    238728227,
+    880867317,
+    573107698,
+    856337830,
+    905055413
+  ]
+}

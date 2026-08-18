@@ -1,0 +1,13 @@
+{
+  "key": "last_occurrence_sunscreen_use_past_30_days",
+  "conceptID": 997809504,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 577302045,
+  "responses": [
+    153616768,
+    336497585,
+    704926440,
+    701528419,
+    604901244
+  ]
+}

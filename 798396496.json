@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_colonoscopy_baseline",
+  "conceptID": 798396496,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 577302045,
+  "sourceConceptId": 355786284,
+  "responses": [
+    891518243,
+    519622922,
+    736729822,
+    230637251,
+    345790951
+  ]
+}

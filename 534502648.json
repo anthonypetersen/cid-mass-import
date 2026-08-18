@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_pap_test_lifetime",
+  "conceptID": 534502648,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 693873814,
+  "responses": [
+    311866307,
+    392829047,
+    368902208,
+    388509085,
+    702366122
+  ]
+}

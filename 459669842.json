@@ -1,0 +1,12 @@
+{
+  "key": "duration_of_skin_exam_most_recent",
+  "conceptID": 459669842,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 577302045,
+  "sourceConceptId": 363692473,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

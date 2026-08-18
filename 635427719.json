@@ -1,0 +1,14 @@
+{
+  "key": "number_of_hypertension_lifetime",
+  "conceptID": 635427719,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "sourceConceptId": 723779304,
+  "responses": [
+    394585074,
+    545736293,
+    649782848,
+    591725867,
+    630368149
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "key": "current_status_hormone_therapy_follow_up",
+  "conceptID": 212925407,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

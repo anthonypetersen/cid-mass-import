@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_arthritis_childhood",
+  "conceptID": 452050628,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 577302045,
+  "sourceConceptId": 723779304,
+  "responses": [
+    238728227,
+    880867317,
+    573107698,
+    856337830,
+    905055413
+  ]
+}

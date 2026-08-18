@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_hospitalization_proxy_report",
+  "conceptID": 629401468,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "sourceConceptId": 872839827,
+  "responses": [
+    650729817,
+    909602175,
+    169824165,
+    747638213
+  ]
+}

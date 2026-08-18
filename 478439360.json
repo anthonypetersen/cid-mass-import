@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_skin_exam_baseline",
+  "conceptID": 478439360,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "sourceConceptId": 723779304,
+  "responses": [
+    153616768,
+    336497585,
+    704926440,
+    701528419,
+    604901244
+  ]
+}

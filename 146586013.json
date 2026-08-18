@@ -1,0 +1,14 @@
+{
+  "key": "number_of_skin_exam_annual",
+  "conceptID": 146586013,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 577302045,
+  "sourceConceptId": 355786284,
+  "responses": [
+    737532966,
+    362342904,
+    347936215,
+    402939888,
+    126196117
+  ]
+}

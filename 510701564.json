@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_arthritis_annual",
+  "conceptID": 510701564,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "responses": [
+    223568566,
+    199848849,
+    114258614,
+    424401117,
+    533550265
+  ]
+}

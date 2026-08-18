@@ -1,0 +1,10 @@
+{
+  "key": "number_of_depression_screening",
+  "conceptID": 656724929,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

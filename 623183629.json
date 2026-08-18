@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_hormone_therapy_self_report",
+  "conceptID": 623183629,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "sourceConceptId": 935055910,
+  "responses": [
+    298805882,
+    994168209,
+    615116498,
+    989707841,
+    247479546
+  ]
+}

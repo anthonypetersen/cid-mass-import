@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_sun_exposure_annual",
+  "conceptID": 590645853,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 872839827,
+  "responses": [
+    568284718,
+    839702582,
+    208533316,
+    996074771,
+    606520193
+  ]
+}

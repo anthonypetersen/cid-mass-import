@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_hospitalization_past_30_days",
+  "conceptID": 661861765,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 355786284,
+  "responses": [
+    153616768,
+    336497585,
+    704926440,
+    701528419,
+    604901244
+  ]
+}

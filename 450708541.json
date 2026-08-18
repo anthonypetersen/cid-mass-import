@@ -1,0 +1,10 @@
+{
+  "key": "age_at_first_alcohol_use_pre_enrollment",
+  "conceptID": 450708541,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

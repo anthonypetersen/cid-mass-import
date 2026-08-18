@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_chemotherapy_annual",
+  "conceptID": 334718923,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 577302045,
+  "sourceConceptId": 693873814,
+  "responses": [
+    891518243,
+    519622922,
+    736729822,
+    230637251,
+    345790951
+  ]
+}

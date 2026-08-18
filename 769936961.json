@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_radiation_exposure_follow_up",
+  "conceptID": 769936961,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "sourceConceptId": 872839827,
+  "responses": [
+    311866307,
+    392829047,
+    368902208,
+    388509085,
+    702366122
+  ]
+}

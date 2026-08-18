@@ -1,0 +1,11 @@
+{
+  "key": "type_of_hospitalization_confirmed",
+  "conceptID": 512050038,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 355786284,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_sunscreen_use_lifetime",
+  "conceptID": 119482998,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "responses": [
+    286258710,
+    666013050,
+    898190979,
+    393740167,
+    813184577
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_diabetes_follow_up",
+  "conceptID": 853306367,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "sourceConceptId": 712692038,
+  "responses": [
+    223568566,
+    199848849,
+    114258614,
+    424401117,
+    533550265
+  ]
+}

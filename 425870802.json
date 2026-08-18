@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_breastfeeding_lifetime",
+  "conceptID": 425870802,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "responses": [
+    450679250,
+    591095914,
+    986041937,
+    542799413,
+    873533959
+  ]
+}

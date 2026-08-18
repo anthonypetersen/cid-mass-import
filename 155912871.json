@@ -1,0 +1,13 @@
+{
+  "key": "has_ever_radiation_exposure_diagnostic",
+  "conceptID": 155912871,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "responses": [
+    858873535,
+    769258593,
+    148190165,
+    162406278,
+    252371216
+  ]
+}

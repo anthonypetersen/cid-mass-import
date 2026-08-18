@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_asthma_suspected",
+  "conceptID": 297982158,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 577302045,
+  "sourceConceptId": 872839827,
+  "responses": [
+    969753436,
+    775097819,
+    695080474,
+    816745084,
+    593927418
+  ]
+}

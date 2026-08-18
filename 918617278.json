@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_chemotherapy_diagnostic",
+  "conceptID": 918617278,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "sourceConceptId": 355786284,
+  "responses": [
+    744733938,
+    814214301,
+    806311897,
+    276332597,
+    699721200
+  ]
+}

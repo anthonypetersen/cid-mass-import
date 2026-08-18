@@ -1,0 +1,12 @@
+{
+  "key": "confidence_in_pregnancy_quarterly",
+  "conceptID": 625181992,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "sourceConceptId": 693873814,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}
