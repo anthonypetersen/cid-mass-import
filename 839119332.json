@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_hormone_therapy_suspected",
+  "conceptID": 839119332,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 373266670,
+  "sourceConceptId": 557196660,
+  "responses": [
+    153616768,
+    336497585,
+    704926440,
+    701528419,
+    604901244
+  ]
+}

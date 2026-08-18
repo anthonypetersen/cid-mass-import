@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_hypertension_suspected",
+  "conceptID": 456012353,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 764759235,
+  "sourceConceptId": 712692038,
+  "responses": [
+    117973083,
+    176952168,
+    682890945,
+    753727993,
+    960347699
+  ]
+}

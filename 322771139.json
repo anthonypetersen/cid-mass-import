@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_smoking_past_12_months",
+  "conceptID": 322771139,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 764759235,
+  "responses": [
+    300863917,
+    471575730,
+    247093719,
+    689199750,
+    402338039
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "type_of_oral_contraceptive_most_recent",
+  "conceptID": 954346851,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 764759235,
+  "responses": [
+    382415328,
+    138173599,
+    619782256,
+    286918962,
+    533380688
+  ]
+}

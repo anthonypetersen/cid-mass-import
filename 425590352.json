@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_alcohol_use_quarterly",
+  "conceptID": 425590352,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 764759235,
+  "sourceConceptId": 872839827,
+  "responses": [
+    382415328,
+    138173599,
+    619782256,
+    286918962,
+    533380688
+  ]
+}

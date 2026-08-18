@@ -1,0 +1,12 @@
+{
+  "key": "confidence_in_obesity_past_12_months",
+  "conceptID": 449413306,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 373266670,
+  "sourceConceptId": 872839827,
+  "responses": [
+    179171223,
+    949361722,
+    948065095
+  ]
+}

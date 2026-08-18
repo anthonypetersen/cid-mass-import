@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_hypertension_past_12_months",
+  "conceptID": 964152874,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 764759235,
+  "sourceConceptId": 693873814,
+  "responses": [
+    286258710,
+    666013050,
+    898190979,
+    393740167,
+    813184577
+  ]
+}

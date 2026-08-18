@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_hormone_therapy_confirmed",
+  "conceptID": 280960565,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 764759235,
+  "responses": [
+    502216051,
+    890542150,
+    712889975,
+    414324578,
+    943778574
+  ]
+}

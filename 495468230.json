@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_smoking_childhood",
+  "conceptID": 495468230,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 764759235,
+  "sourceConceptId": 557196660,
+  "responses": [
+    924508148,
+    490591332,
+    620607721,
+    403265873
+  ]
+}

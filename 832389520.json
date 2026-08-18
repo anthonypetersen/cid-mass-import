@@ -1,0 +1,13 @@
+{
+  "key": "type_of_depression_pre_enrollment",
+  "conceptID": 832389520,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 373266670,
+  "sourceConceptId": 935055910,
+  "responses": [
+    924508148,
+    490591332,
+    620607721,
+    403265873
+  ]
+}

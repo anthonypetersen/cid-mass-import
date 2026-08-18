@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_breastfeeding_adulthood",
+  "conceptID": 883364412,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 373266670,
+  "responses": [
+    577501635,
+    593161478,
+    682637029,
+    493470379,
+    221342818
+  ]
+}

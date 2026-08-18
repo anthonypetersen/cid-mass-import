@@ -1,0 +1,14 @@
+{
+  "key": "change_in_oral_contraceptive_post_enrollment",
+  "conceptID": 831229363,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 764759235,
+  "sourceConceptId": 872839827,
+  "responses": [
+    663346842,
+    396398216,
+    860202867,
+    236435154,
+    429175018
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_sunscreen_use_quarterly",
+  "conceptID": 197112497,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 373266670,
+  "sourceConceptId": 283771088,
+  "responses": [
+    476519996,
+    717523111,
+    458662226,
+    402508719,
+    906077259
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "key": "confidence_in_oral_contraceptive_screening",
+  "conceptID": 728480214,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 764759235,
+  "sourceConceptId": 872839827,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

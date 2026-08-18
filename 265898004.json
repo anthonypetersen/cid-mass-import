@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_depression_confirmed",
+  "conceptID": 265898004,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 764759235,
+  "sourceConceptId": 693873814,
+  "responses": [
+    394585074,
+    545736293,
+    649782848,
+    591725867,
+    630368149
+  ]
+}

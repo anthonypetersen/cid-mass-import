@@ -1,0 +1,14 @@
+{
+  "key": "last_occurrence_radiation_exposure_proxy_report",
+  "conceptID": 511676992,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 764759235,
+  "sourceConceptId": 355786284,
+  "responses": [
+    824360475,
+    574348834,
+    259149194,
+    170277529,
+    186288482
+  ]
+}

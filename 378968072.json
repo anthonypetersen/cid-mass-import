@@ -1,0 +1,12 @@
+{
+  "key": "severity_of_chemotherapy_current",
+  "conceptID": 378968072,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 764759235,
+  "sourceConceptId": 723779304,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

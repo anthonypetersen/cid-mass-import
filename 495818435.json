@@ -1,0 +1,11 @@
+{
+  "key": "self_reported_vegetable_intake_screening",
+  "conceptID": 495818435,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 764759235,
+  "sourceConceptId": 557196660,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

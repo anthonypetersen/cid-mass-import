@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_chemotherapy_annual",
+  "conceptID": 123736205,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 373266670,
+  "sourceConceptId": 723779304,
+  "responses": [
+    300863917,
+    471575730,
+    247093719,
+    689199750,
+    402338039
+  ]
+}

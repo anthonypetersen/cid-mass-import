@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_colonoscopy_past_30_days",
+  "conceptID": 933622442,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 373266670,
+  "sourceConceptId": 363692473,
+  "responses": [
+    216981353,
+    975471774,
+    260555361,
+    738486687,
+    729722106
+  ]
+}

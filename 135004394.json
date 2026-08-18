@@ -1,0 +1,13 @@
+{
+  "key": "reason_for_asthma_first_occurrence",
+  "conceptID": 135004394,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 373266670,
+  "responses": [
+    453651208,
+    218253522,
+    877331970,
+    432739350,
+    108573748
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "key": "confidence_in_hospitalization_most_recent",
+  "conceptID": 960636748,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 373266670,
+  "responses": [
+    650729817,
+    909602175,
+    169824165,
+    747638213
+  ]
+}

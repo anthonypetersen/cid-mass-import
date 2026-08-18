@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_asthma_diagnostic",
+  "conceptID": 787120261,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 764759235,
+  "responses": [
+    238728227,
+    880867317,
+    573107698,
+    856337830,
+    905055413
+  ]
+}

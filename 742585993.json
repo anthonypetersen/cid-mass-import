@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_surgery_screening",
+  "conceptID": 742585993,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 764759235,
+  "sourceConceptId": 557196660,
+  "responses": [
+    453651208,
+    218253522,
+    877331970,
+    432739350,
+    108573748
+  ]
+}
