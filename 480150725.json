@@ -1,0 +1,13 @@
+{
+  "key": "date_of_hypertension_diagnostic",
+  "conceptID": 480150725,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "responses": [
+    398729598,
+    376835754,
+    232880924,
+    554137503,
+    340659906
+  ]
+}

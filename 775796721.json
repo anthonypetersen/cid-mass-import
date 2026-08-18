@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_colonoscopy_confirmed",
+  "conceptID": 775796721,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "sourceConceptId": 355786284,
+  "responses": [
+    298805882,
+    994168209,
+    615116498,
+    989707841,
+    247479546
+  ]
+}

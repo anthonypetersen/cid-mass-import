@@ -1,0 +1,14 @@
+{
+  "key": "change_in_mammogram_quarterly",
+  "conceptID": 925591152,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "sourceConceptId": 355786284,
+  "responses": [
+    225224764,
+    142908205,
+    361886131,
+    496885791,
+    611887522
+  ]
+}

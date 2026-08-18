@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_smoking_screening",
+  "conceptID": 212003624,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "sourceConceptId": 363692473,
+  "responses": [
+    398729598,
+    376835754,
+    232880924,
+    554137503,
+    340659906
+  ]
+}

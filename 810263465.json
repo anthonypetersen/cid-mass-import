@@ -1,0 +1,12 @@
+{
+  "key": "current_status_diabetes_adulthood",
+  "conceptID": 810263465,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "sourceConceptId": 355786284,
+  "responses": [
+    179171223,
+    949361722,
+    948065095
+  ]
+}

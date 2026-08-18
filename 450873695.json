@@ -1,0 +1,11 @@
+{
+  "key": "frequency_of_sun_exposure_diagnostic",
+  "conceptID": 450873695,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

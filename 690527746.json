@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_hypertension_past_12_months",
+  "conceptID": 690527746,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "responses": [
+    663346842,
+    396398216,
+    860202867,
+    236435154,
+    429175018
+  ]
+}

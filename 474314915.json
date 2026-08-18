@@ -1,0 +1,11 @@
+{
+  "key": "provider_reported_arthritis_screening",
+  "conceptID": 474314915,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "sourceConceptId": 872839827,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

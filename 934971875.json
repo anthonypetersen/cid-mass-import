@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_smoking_post_enrollment",
+  "conceptID": 934971875,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "sourceConceptId": 355786284,
+  "responses": [
+    555888342,
+    708991182,
+    784719415,
+    992310951,
+    834379624
+  ]
+}

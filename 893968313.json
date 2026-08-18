@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_smoking_current",
+  "conceptID": 893968313,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "sourceConceptId": 723779304,
+  "responses": [
+    225224764,
+    142908205,
+    361886131,
+    496885791,
+    611887522
+  ]
+}

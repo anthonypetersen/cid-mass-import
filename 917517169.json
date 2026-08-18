@@ -1,0 +1,11 @@
+{
+  "key": "type_of_diabetes_first_occurrence",
+  "conceptID": 917517169,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

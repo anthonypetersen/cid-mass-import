@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_smoking_past_30_days",
+  "conceptID": 233134902,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "responses": [
+    311866307,
+    392829047,
+    368902208,
+    388509085,
+    702366122
+  ]
+}

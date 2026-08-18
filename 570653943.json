@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_hypertension_current",
+  "conceptID": 570653943,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "sourceConceptId": 557196660,
+  "responses": [
+    650729817,
+    909602175,
+    169824165,
+    747638213
+  ]
+}

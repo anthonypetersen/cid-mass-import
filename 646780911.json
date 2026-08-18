@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_diabetes_lifetime",
+  "conceptID": 646780911,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "sourceConceptId": 723779304,
+  "responses": [
+    450679250,
+    591095914,
+    986041937,
+    542799413,
+    873533959
+  ]
+}

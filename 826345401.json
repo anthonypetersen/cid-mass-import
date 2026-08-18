@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_diabetes_childhood",
+  "conceptID": 826345401,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "responses": [
+    450679250,
+    591095914,
+    986041937,
+    542799413,
+    873533959
+  ]
+}

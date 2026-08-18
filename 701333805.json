@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_asthma_post_enrollment",
+  "conceptID": 701333805,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "responses": [
+    286258710,
+    666013050,
+    898190979,
+    393740167,
+    813184577
+  ]
+}

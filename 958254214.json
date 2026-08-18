@@ -1,0 +1,13 @@
+{
+  "key": "date_of_fruit_intake_past_30_days",
+  "conceptID": 958254214,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "responses": [
+    223568566,
+    199848849,
+    114258614,
+    424401117,
+    533550265
+  ]
+}

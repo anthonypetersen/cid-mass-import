@@ -1,0 +1,13 @@
+{
+  "key": "date_of_sun_exposure_past_12_months",
+  "conceptID": 378614655,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 155603253,
+  "responses": [
+    555888342,
+    708991182,
+    784719415,
+    992310951,
+    834379624
+  ]
+}

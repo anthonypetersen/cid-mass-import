@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_pap_test_diagnostic",
+  "conceptID": 900272214,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "sourceConceptId": 872839827,
+  "responses": [
+    577501635,
+    593161478,
+    682637029,
+    493470379,
+    221342818
+  ]
+}

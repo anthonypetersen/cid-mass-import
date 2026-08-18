@@ -1,0 +1,14 @@
+{
+  "key": "last_occurrence_psa_test_baseline",
+  "conceptID": 818241228,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 155603253,
+  "sourceConceptId": 167225166,
+  "responses": [
+    566024300,
+    499189394,
+    522125122,
+    513154086,
+    482548207
+  ]
+}

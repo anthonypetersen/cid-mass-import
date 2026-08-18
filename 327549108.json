@@ -1,0 +1,14 @@
+{
+  "key": "number_of_anxiety_past_12_months",
+  "conceptID": 327549108,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "sourceConceptId": 935055910,
+  "responses": [
+    487358882,
+    552219411,
+    188912142,
+    839503775,
+    151061438
+  ]
+}

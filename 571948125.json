@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_breastfeeding_baseline",
+  "conceptID": 571948125,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "sourceConceptId": 167225166,
+  "responses": [
+    744733938,
+    814214301,
+    806311897,
+    276332597,
+    699721200
+  ]
+}

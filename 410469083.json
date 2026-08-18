@@ -1,0 +1,14 @@
+{
+  "key": "change_in_alcohol_use_quarterly",
+  "conceptID": 410469083,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "sourceConceptId": 872839827,
+  "responses": [
+    238728227,
+    880867317,
+    573107698,
+    856337830,
+    905055413
+  ]
+}

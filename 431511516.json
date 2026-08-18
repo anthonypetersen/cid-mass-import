@@ -1,0 +1,14 @@
+{
+  "key": "date_of_chemotherapy_proxy_report",
+  "conceptID": 431511516,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "sourceConceptId": 363692473,
+  "responses": [
+    238728227,
+    880867317,
+    573107698,
+    856337830,
+    905055413
+  ]
+}

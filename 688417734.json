@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_vegetable_intake_diagnostic",
+  "conceptID": 688417734,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "sourceConceptId": 167225166,
+  "responses": [
+    568284718,
+    839702582,
+    208533316,
+    996074771,
+    606520193
+  ]
+}

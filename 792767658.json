@@ -1,0 +1,13 @@
+{
+  "key": "type_of_radiation_exposure_self_report",
+  "conceptID": 792767658,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 155603253,
+  "responses": [
+    643539294,
+    540318200,
+    265621100,
+    142726657,
+    734996610
+  ]
+}

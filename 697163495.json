@@ -1,0 +1,14 @@
+{
+  "key": "date_of_colonoscopy_lifetime",
+  "conceptID": 697163495,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "sourceConceptId": 935055910,
+  "responses": [
+    763680175,
+    671737436,
+    888331020,
+    917348031,
+    288089902
+  ]
+}

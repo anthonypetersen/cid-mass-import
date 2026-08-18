@@ -1,0 +1,13 @@
+{
+  "key": "type_of_sun_exposure_adulthood",
+  "conceptID": 620574039,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "sourceConceptId": 723779304,
+  "responses": [
+    924508148,
+    490591332,
+    620607721,
+    403265873
+  ]
+}

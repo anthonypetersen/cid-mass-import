@@ -1,0 +1,13 @@
+{
+  "key": "current_status_diabetes_self_report",
+  "conceptID": 166867418,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "responses": [
+    636615193,
+    390662015,
+    756472591,
+    365687810,
+    504786462
+  ]
+}

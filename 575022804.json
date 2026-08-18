@@ -1,0 +1,14 @@
+{
+  "key": "type_of_skin_exam_confirmed",
+  "conceptID": 575022804,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "sourceConceptId": 723779304,
+  "responses": [
+    300863917,
+    471575730,
+    247093719,
+    689199750,
+    402338039
+  ]
+}

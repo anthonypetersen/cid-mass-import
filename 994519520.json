@@ -1,0 +1,14 @@
+{
+  "key": "type_of_asthma_follow_up",
+  "conceptID": 994519520,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "sourceConceptId": 283771088,
+  "responses": [
+    298805882,
+    994168209,
+    615116498,
+    989707841,
+    247479546
+  ]
+}

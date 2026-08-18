@@ -1,0 +1,14 @@
+{
+  "key": "change_in_smoking_past_30_days",
+  "conceptID": 663422129,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "sourceConceptId": 167225166,
+  "responses": [
+    300863917,
+    471575730,
+    247093719,
+    689199750,
+    402338039
+  ]
+}

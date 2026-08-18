@@ -1,0 +1,14 @@
+{
+  "key": "number_of_obesity_screening",
+  "conceptID": 970054417,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "sourceConceptId": 872839827,
+  "responses": [
+    153616768,
+    336497585,
+    704926440,
+    701528419,
+    604901244
+  ]
+}

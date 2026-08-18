@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_sleep_apnea_first_occurrence",
+  "conceptID": 724396535,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "responses": [
+    153616768,
+    336497585,
+    704926440,
+    701528419,
+    604901244
+  ]
+}

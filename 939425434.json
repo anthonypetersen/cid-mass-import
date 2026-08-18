@@ -1,0 +1,13 @@
+{
+  "key": "last_occurrence_hospitalization_proxy_report",
+  "conceptID": 939425434,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "responses": [
+    858813191,
+    725558684,
+    994610339,
+    901178317,
+    488702322
+  ]
+}

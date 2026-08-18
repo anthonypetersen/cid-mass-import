@@ -1,0 +1,12 @@
+{
+  "key": "severity_of_pap_test_pre_enrollment",
+  "conceptID": 691291422,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 155603253,
+  "responses": [
+    650729817,
+    909602175,
+    169824165,
+    747638213
+  ]
+}

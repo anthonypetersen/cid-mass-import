@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_sun_exposure_pre_enrollment",
+  "conceptID": 243968693,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "responses": [
+    223568566,
+    199848849,
+    114258614,
+    424401117,
+    533550265
+  ]
+}

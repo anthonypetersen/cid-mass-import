@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_diabetes_proxy_report",
+  "conceptID": 740572793,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "sourceConceptId": 693873814,
+  "responses": [
+    298805882,
+    994168209,
+    615116498,
+    989707841,
+    247479546
+  ]
+}

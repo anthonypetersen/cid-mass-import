@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_radiation_exposure_childhood",
+  "conceptID": 894775405,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "sourceConceptId": 167225166,
+  "responses": [
+    643539294,
+    540318200,
+    265621100,
+    142726657,
+    734996610
+  ]
+}

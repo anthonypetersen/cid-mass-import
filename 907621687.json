@@ -1,0 +1,13 @@
+{
+  "key": "reason_for_hormone_therapy_screening",
+  "conceptID": 907621687,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "responses": [
+    153616768,
+    336497585,
+    704926440,
+    701528419,
+    604901244
+  ]
+}

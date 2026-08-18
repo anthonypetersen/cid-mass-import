@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_breastfeeding_diagnostic",
+  "conceptID": 302248801,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "sourceConceptId": 355786284,
+  "responses": [
+    555888342,
+    708991182,
+    784719415,
+    992310951,
+    834379624
+  ]
+}

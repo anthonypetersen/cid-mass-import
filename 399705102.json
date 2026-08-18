@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_oral_contraceptive_first_occurrence",
+  "conceptID": 399705102,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "sourceConceptId": 693873814,
+  "responses": [
+    153616768,
+    336497585,
+    704926440,
+    701528419,
+    604901244
+  ]
+}

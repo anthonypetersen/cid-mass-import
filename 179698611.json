@@ -1,0 +1,14 @@
+{
+  "key": "current_status_oral_contraceptive_confirmed",
+  "conceptID": 179698611,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "sourceConceptId": 557196660,
+  "responses": [
+    737532966,
+    362342904,
+    347936215,
+    402939888,
+    126196117
+  ]
+}

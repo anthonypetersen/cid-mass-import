@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_obesity_annual",
+  "conceptID": 948354011,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "sourceConceptId": 167225166,
+  "responses": [
+    566024300,
+    499189394,
+    522125122,
+    513154086,
+    482548207
+  ]
+}

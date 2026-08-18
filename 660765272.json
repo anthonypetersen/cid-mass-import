@@ -1,0 +1,14 @@
+{
+  "key": "current_status_diabetes_childhood",
+  "conceptID": 660765272,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "sourceConceptId": 557196660,
+  "responses": [
+    744733938,
+    814214301,
+    806311897,
+    276332597,
+    699721200
+  ]
+}

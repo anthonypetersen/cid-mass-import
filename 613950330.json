@@ -1,0 +1,12 @@
+{
+  "key": "confidence_in_obesity_current",
+  "conceptID": 613950330,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 155603253,
+  "sourceConceptId": 872839827,
+  "responses": [
+    179171223,
+    949361722,
+    948065095
+  ]
+}

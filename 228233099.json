@@ -1,0 +1,14 @@
+{
+  "key": "date_of_oral_contraceptive_diagnostic",
+  "conceptID": 228233099,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "sourceConceptId": 935055910,
+  "responses": [
+    636615193,
+    390662015,
+    756472591,
+    365687810,
+    504786462
+  ]
+}

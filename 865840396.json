@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_surgery_confirmed",
+  "conceptID": 865840396,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "responses": [
+    216981353,
+    975471774,
+    260555361,
+    738486687,
+    729722106
+  ]
+}

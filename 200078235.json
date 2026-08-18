@@ -1,0 +1,14 @@
+{
+  "key": "change_in_arthritis_past_30_days",
+  "conceptID": 200078235,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "sourceConceptId": 557196660,
+  "responses": [
+    216981353,
+    975471774,
+    260555361,
+    738486687,
+    729722106
+  ]
+}

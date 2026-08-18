@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_oral_contraceptive_confirmed",
+  "conceptID": 641435294,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 155603253,
+  "sourceConceptId": 355786284,
+  "responses": [
+    924508148,
+    490591332,
+    620607721,
+    403265873
+  ]
+}

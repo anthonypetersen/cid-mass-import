@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_surgery_post_enrollment",
+  "conceptID": 112279122,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 155603253,
+  "responses": [
+    568284718,
+    839702582,
+    208533316,
+    996074771,
+    606520193
+  ]
+}

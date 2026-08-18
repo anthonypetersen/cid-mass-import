@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_sun_exposure_past_30_days",
+  "conceptID": 860324481,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "responses": [
+    225224764,
+    142908205,
+    361886131,
+    496885791,
+    611887522
+  ]
+}

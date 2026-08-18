@@ -1,0 +1,11 @@
+{
+  "key": "has_ever_asthma_baseline",
+  "conceptID": 896232945,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

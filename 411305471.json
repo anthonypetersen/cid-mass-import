@@ -1,0 +1,12 @@
+{
+  "key": "severity_of_skin_exam_past_30_days",
+  "conceptID": 411305471,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 155603253,
+  "sourceConceptId": 935055910,
+  "responses": [
+    179171223,
+    949361722,
+    948065095
+  ]
+}

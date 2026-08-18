@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_oral_contraceptive_annual",
+  "conceptID": 804801736,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "responses": [
+    744733938,
+    814214301,
+    806311897,
+    276332597,
+    699721200
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_sun_exposure_quarterly",
+  "conceptID": 737626311,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "sourceConceptId": 723779304,
+  "responses": [
+    555888342,
+    708991182,
+    784719415,
+    992310951,
+    834379624
+  ]
+}

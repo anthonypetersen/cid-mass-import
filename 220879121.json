@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_sun_exposure_childhood",
+  "conceptID": 220879121,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 155603253,
+  "responses": [
+    398729598,
+    376835754,
+    232880924,
+    554137503,
+    340659906
+  ]
+}

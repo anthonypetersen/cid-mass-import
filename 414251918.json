@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_breastfeeding_first_occurrence",
+  "conceptID": 414251918,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 155603253,
+  "sourceConceptId": 693873814,
+  "responses": [
+    300863917,
+    471575730,
+    247093719,
+    689199750,
+    402338039
+  ]
+}

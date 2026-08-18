@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_skin_exam_suspected",
+  "conceptID": 553326010,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 155603253,
+  "sourceConceptId": 693873814,
+  "responses": [
+    476519996,
+    717523111,
+    458662226,
+    402508719,
+    906077259
+  ]
+}

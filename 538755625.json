@@ -1,0 +1,11 @@
+{
+  "key": "has_ever_vegetable_intake_current",
+  "conceptID": 538755625,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "sourceConceptId": 557196660,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

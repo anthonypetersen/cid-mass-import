@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_pregnancy_annual",
+  "conceptID": 973940260,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "responses": [
+    763680175,
+    671737436,
+    888331020,
+    917348031,
+    288089902
+  ]
+}

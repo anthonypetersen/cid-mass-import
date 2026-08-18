@@ -1,0 +1,12 @@
+{
+  "key": "current_status_vegetable_intake_annual",
+  "conceptID": 999933079,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "responses": [
+    924508148,
+    490591332,
+    620607721,
+    403265873
+  ]
+}

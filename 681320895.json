@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_psa_test_lifetime",
+  "conceptID": 681320895,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "responses": [
+    858813191,
+    725558684,
+    994610339,
+    901178317,
+    488702322
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "has_ever_hypertension_pre_enrollment",
+  "conceptID": 222046915,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "responses": [
+    555888342,
+    708991182,
+    784719415,
+    992310951,
+    834379624
+  ]
+}
