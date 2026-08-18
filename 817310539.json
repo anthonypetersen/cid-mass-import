@@ -1,0 +1,11 @@
+{
+  "key": "has_ever_radiation_exposure_self_report",
+  "conceptID": 817310539,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_hospitalization_suspected",
+  "conceptID": 546048116,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "sourceConceptId": 283771088,
+  "responses": [
+    441937069,
+    740844861,
+    921365155,
+    830529584,
+    495426092
+  ]
+}

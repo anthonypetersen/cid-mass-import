@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_fruit_intake_pre_enrollment",
+  "conceptID": 841278421,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "sourceConceptId": 935055910,
+  "responses": [
+    858813191,
+    725558684,
+    994610339,
+    901178317,
+    488702322
+  ]
+}

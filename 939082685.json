@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_vaping_proxy_report",
+  "conceptID": 939082685,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "sourceConceptId": 935055910,
+  "responses": [
+    253750658,
+    604867735,
+    363253336,
+    455190699,
+    490969770
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "change_in_alcohol_use_pre_enrollment",
+  "conceptID": 902278134,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "sourceConceptId": 693873814,
+  "responses": [
+    286258710,
+    666013050,
+    898190979,
+    393740167,
+    813184577
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_oral_contraceptive_past_12_months",
+  "conceptID": 753814477,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "sourceConceptId": 693873814,
+  "responses": [
+    643539294,
+    540318200,
+    265621100,
+    142726657,
+    734996610
+  ]
+}

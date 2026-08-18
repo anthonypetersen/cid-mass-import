@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_skin_exam_baseline",
+  "conceptID": 661845217,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "sourceConceptId": 723779304,
+  "responses": [
+    216981353,
+    975471774,
+    260555361,
+    738486687,
+    729722106
+  ]
+}

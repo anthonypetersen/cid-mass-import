@@ -1,0 +1,12 @@
+{
+  "key": "self_reported_sunscreen_use_proxy_report",
+  "conceptID": 125979530,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "sourceConceptId": 557196660,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

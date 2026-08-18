@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_surgery_baseline",
+  "conceptID": 996723146,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "sourceConceptId": 935055910,
+  "responses": [
+    858813191,
+    725558684,
+    994610339,
+    901178317,
+    488702322
+  ]
+}

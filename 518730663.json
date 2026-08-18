@@ -1,0 +1,12 @@
+{
+  "key": "change_in_oral_contraceptive_past_12_months",
+  "conceptID": 518730663,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "responses": [
+    650729817,
+    909602175,
+    169824165,
+    747638213
+  ]
+}

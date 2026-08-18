@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_chemotherapy_post_enrollment",
+  "conceptID": 766597182,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 723779304,
+  "responses": [
+    663346842,
+    396398216,
+    860202867,
+    236435154,
+    429175018
+  ]
+}

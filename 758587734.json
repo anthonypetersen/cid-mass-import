@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_hospitalization_follow_up",
+  "conceptID": 758587734,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "responses": [
+    153616768,
+    336497585,
+    704926440,
+    701528419,
+    604901244
+  ]
+}

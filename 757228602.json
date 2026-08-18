@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_vegetable_intake_suspected",
+  "conceptID": 757228602,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "responses": [
+    223568566,
+    199848849,
+    114258614,
+    424401117,
+    533550265
+  ]
+}

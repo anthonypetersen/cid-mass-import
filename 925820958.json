@@ -1,0 +1,12 @@
+{
+  "key": "severity_of_chemotherapy_quarterly",
+  "conceptID": 925820958,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "sourceConceptId": 557196660,
+  "responses": [
+    179171223,
+    949361722,
+    948065095
+  ]
+}

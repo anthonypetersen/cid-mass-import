@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_hypertension_first_occurrence",
+  "conceptID": 185143624,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 723779304,
+  "responses": [
+    433550500,
+    306738732,
+    732488174,
+    607645219,
+    185155541
+  ]
+}

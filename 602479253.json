@@ -1,0 +1,12 @@
+{
+  "key": "severity_of_sunscreen_use_past_12_months",
+  "conceptID": 602479253,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 355786284,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

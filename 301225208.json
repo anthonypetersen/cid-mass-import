@@ -1,0 +1,10 @@
+{
+  "key": "self_reported_pregnancy_follow_up",
+  "conceptID": 301225208,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

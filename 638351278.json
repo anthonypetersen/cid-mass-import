@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_sleep_apnea_proxy_report",
+  "conceptID": 638351278,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "sourceConceptId": 167225166,
+  "responses": [
+    453651208,
+    218253522,
+    877331970,
+    432739350,
+    108573748
+  ]
+}

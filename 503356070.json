@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_psa_test_past_30_days",
+  "conceptID": 503356070,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "sourceConceptId": 363692473,
+  "responses": [
+    924508148,
+    490591332,
+    620607721,
+    403265873
+  ]
+}

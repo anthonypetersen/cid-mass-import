@@ -1,0 +1,11 @@
+{
+  "key": "duration_of_smoking_screening",
+  "conceptID": 100848877,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

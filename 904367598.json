@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_radiation_exposure_adulthood",
+  "conceptID": 904367598,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 935055910,
+  "responses": [
+    298802151,
+    252374134,
+    725487576,
+    382801992,
+    212420948
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "key": "type_of_smoking_screening",
+  "conceptID": 550484116,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "responses": [
+    179171223,
+    949361722,
+    948065095
+  ]
+}

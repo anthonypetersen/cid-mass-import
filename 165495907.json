@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_hypertension_diagnostic",
+  "conceptID": 165495907,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "sourceConceptId": 283771088,
+  "responses": [
+    394585074,
+    545736293,
+    649782848,
+    591725867,
+    630368149
+  ]
+}

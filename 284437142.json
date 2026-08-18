@@ -1,0 +1,14 @@
+{
+  "key": "current_status_radiation_exposure_post_enrollment",
+  "conceptID": 284437142,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "sourceConceptId": 355786284,
+  "responses": [
+    566024300,
+    499189394,
+    522125122,
+    513154086,
+    482548207
+  ]
+}

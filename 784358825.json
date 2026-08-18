@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_colonoscopy_lifetime",
+  "conceptID": 784358825,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "sourceConceptId": 355786284,
+  "responses": [
+    398729598,
+    376835754,
+    232880924,
+    554137503,
+    340659906
+  ]
+}

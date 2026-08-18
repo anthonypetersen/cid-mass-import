@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_radiation_exposure_proxy_report",
+  "conceptID": 412878093,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "sourceConceptId": 355786284,
+  "responses": [
+    398729598,
+    376835754,
+    232880924,
+    554137503,
+    340659906
+  ]
+}

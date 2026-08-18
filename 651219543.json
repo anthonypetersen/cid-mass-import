@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_vegetable_intake_childhood",
+  "conceptID": 651219543,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "sourceConceptId": 872839827,
+  "responses": [
+    476519996,
+    717523111,
+    458662226,
+    402508719,
+    906077259
+  ]
+}

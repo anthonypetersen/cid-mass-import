@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_asthma_annual",
+  "conceptID": 531889523,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "sourceConceptId": 363692473,
+  "responses": [
+    298805882,
+    994168209,
+    615116498,
+    989707841,
+    247479546
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_anxiety_baseline",
+  "conceptID": 100887130,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "responses": [
+    225224764,
+    142908205,
+    361886131,
+    496885791,
+    611887522
+  ]
+}

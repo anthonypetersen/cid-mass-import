@@ -1,0 +1,14 @@
+{
+  "key": "date_of_hormone_therapy_baseline",
+  "conceptID": 894767424,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "sourceConceptId": 723779304,
+  "responses": [
+    568284718,
+    839702582,
+    208533316,
+    996074771,
+    606520193
+  ]
+}

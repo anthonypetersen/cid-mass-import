@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_sleep_apnea_screening",
+  "conceptID": 685468732,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 723779304,
+  "responses": [
+    643539294,
+    540318200,
+    265621100,
+    142726657,
+    734996610
+  ]
+}

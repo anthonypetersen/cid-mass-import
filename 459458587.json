@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_diabetes_post_enrollment",
+  "conceptID": 459458587,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "responses": [
+    225224764,
+    142908205,
+    361886131,
+    496885791,
+    611887522
+  ]
+}

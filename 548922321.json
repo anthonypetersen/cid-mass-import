@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_sun_exposure_post_enrollment",
+  "conceptID": 548922321,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "sourceConceptId": 167225166,
+  "responses": [
+    394585074,
+    545736293,
+    649782848,
+    591725867,
+    630368149
+  ]
+}

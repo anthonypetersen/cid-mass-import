@@ -1,0 +1,13 @@
+{
+  "key": "has_ever_chemotherapy_post_enrollment",
+  "conceptID": 966554812,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "sourceConceptId": 935055910,
+  "responses": [
+    924508148,
+    490591332,
+    620607721,
+    403265873
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_red_meat_quarterly",
+  "conceptID": 323137836,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 935055910,
+  "responses": [
+    382415328,
+    138173599,
+    619782256,
+    286918962,
+    533380688
+  ]
+}

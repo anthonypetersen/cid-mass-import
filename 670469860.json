@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_pregnancy_self_report",
+  "conceptID": 670469860,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "sourceConceptId": 355786284,
+  "responses": [
+    858873535,
+    769258593,
+    148190165,
+    162406278,
+    252371216
+  ]
+}

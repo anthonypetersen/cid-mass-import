@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_red_meat_annual",
+  "conceptID": 714534591,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 935055910,
+  "responses": [
+    433550500,
+    306738732,
+    732488174,
+    607645219,
+    185155541
+  ]
+}

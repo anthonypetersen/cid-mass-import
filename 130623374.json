@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_vegetable_intake_first_occurrence",
+  "conceptID": 130623374,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "sourceConceptId": 723779304,
+  "responses": [
+    568284718,
+    839702582,
+    208533316,
+    996074771,
+    606520193
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "current_status_diabetes_past_30_days",
+  "conceptID": 938189984,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "responses": [
+    398729598,
+    376835754,
+    232880924,
+    554137503,
+    340659906
+  ]
+}

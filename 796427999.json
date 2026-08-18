@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_asthma_past_12_months",
+  "conceptID": 796427999,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "sourceConceptId": 693873814,
+  "responses": [
+    643539294,
+    540318200,
+    265621100,
+    142726657,
+    734996610
+  ]
+}

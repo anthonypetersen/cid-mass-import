@@ -1,0 +1,11 @@
+{
+  "key": "age_at_first_hormone_therapy_self_report",
+  "conceptID": 244091763,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

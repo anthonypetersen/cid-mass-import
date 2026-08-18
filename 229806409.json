@@ -1,0 +1,14 @@
+{
+  "key": "change_in_hypertension_diagnostic",
+  "conceptID": 229806409,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 935055910,
+  "responses": [
+    298805882,
+    994168209,
+    615116498,
+    989707841,
+    247479546
+  ]
+}

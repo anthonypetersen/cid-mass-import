@@ -1,0 +1,12 @@
+{
+  "key": "number_of_depression_past_30_days",
+  "conceptID": 744267419,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 693873814,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

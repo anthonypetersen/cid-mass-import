@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_skin_exam_first_occurrence",
+  "conceptID": 118734660,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 355786284,
+  "responses": [
+    394585074,
+    545736293,
+    649782848,
+    591725867,
+    630368149
+  ]
+}

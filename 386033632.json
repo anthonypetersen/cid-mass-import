@@ -1,0 +1,11 @@
+{
+  "key": "self_reported_fruit_intake_childhood",
+  "conceptID": 386033632,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_obesity_suspected",
+  "conceptID": 378616704,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "responses": [
+    969753436,
+    775097819,
+    695080474,
+    816745084,
+    593927418
+  ]
+}

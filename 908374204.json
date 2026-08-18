@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_anxiety_childhood",
+  "conceptID": 908374204,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "sourceConceptId": 167225166,
+  "responses": [
+    505092515,
+    231936346,
+    656869759,
+    826833277,
+    287568690
+  ]
+}

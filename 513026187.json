@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_oral_contraceptive_self_report",
+  "conceptID": 513026187,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "sourceConceptId": 935055910,
+  "responses": [
+    394585074,
+    545736293,
+    649782848,
+    591725867,
+    630368149
+  ]
+}

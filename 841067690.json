@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_oral_contraceptive_follow_up",
+  "conceptID": 841067690,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 355786284,
+  "responses": [
+    650729817,
+    909602175,
+    169824165,
+    747638213
+  ]
+}

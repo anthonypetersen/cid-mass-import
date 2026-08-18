@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_alcohol_use_post_enrollment",
+  "conceptID": 513712544,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 283771088,
+  "responses": [
+    502216051,
+    890542150,
+    712889975,
+    414324578,
+    943778574
+  ]
+}

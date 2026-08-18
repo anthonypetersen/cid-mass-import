@@ -1,0 +1,13 @@
+{
+  "key": "reason_for_sleep_apnea_diagnostic",
+  "conceptID": 173886599,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "responses": [
+    505092515,
+    231936346,
+    656869759,
+    826833277,
+    287568690
+  ]
+}

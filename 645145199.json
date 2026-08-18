@@ -1,0 +1,13 @@
+{
+  "key": "date_of_oral_contraceptive_past_12_months",
+  "conceptID": 645145199,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "responses": [
+    216981353,
+    975471774,
+    260555361,
+    738486687,
+    729722106
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "date_of_alcohol_use_adulthood",
+  "conceptID": 764220095,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "sourceConceptId": 723779304,
+  "responses": [
+    394585074,
+    545736293,
+    649782848,
+    591725867,
+    630368149
+  ]
+}

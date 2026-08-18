@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_diabetes_annual",
+  "conceptID": 500593007,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "responses": [
+    744733938,
+    814214301,
+    806311897,
+    276332597,
+    699721200
+  ]
+}

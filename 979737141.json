@@ -1,0 +1,14 @@
+{
+  "key": "last_occurrence_chemotherapy_past_12_months",
+  "conceptID": 979737141,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 355786284,
+  "responses": [
+    744733938,
+    814214301,
+    806311897,
+    276332597,
+    699721200
+  ]
+}

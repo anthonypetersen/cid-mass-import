@@ -1,0 +1,13 @@
+{
+  "key": "current_status_hormone_therapy_quarterly",
+  "conceptID": 695039109,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "responses": [
+    153616768,
+    336497585,
+    704926440,
+    701528419,
+    604901244
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_pregnancy_follow_up",
+  "conceptID": 932429512,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "sourceConceptId": 935055910,
+  "responses": [
+    441937069,
+    740844861,
+    921365155,
+    830529584,
+    495426092
+  ]
+}

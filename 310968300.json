@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_hospitalization_annual",
+  "conceptID": 310968300,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 283771088,
+  "responses": [
+    505092515,
+    231936346,
+    656869759,
+    826833277,
+    287568690
+  ]
+}

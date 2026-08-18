@@ -1,0 +1,11 @@
+{
+  "key": "frequency_of_hypertension_pre_enrollment",
+  "conceptID": 789445127,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "sourceConceptId": 693873814,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

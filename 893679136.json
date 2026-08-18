@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_surgery_annual",
+  "conceptID": 893679136,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "responses": [
+    577501635,
+    593161478,
+    682637029,
+    493470379,
+    221342818
+  ]
+}

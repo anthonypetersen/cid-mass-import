@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_fruit_intake_baseline",
+  "conceptID": 976897616,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "responses": [
+    394585074,
+    545736293,
+    649782848,
+    591725867,
+    630368149
+  ]
+}

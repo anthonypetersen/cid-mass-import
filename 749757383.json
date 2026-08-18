@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_skin_exam_baseline",
+  "conceptID": 749757383,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "sourceConceptId": 935055910,
+  "responses": [
+    487358882,
+    552219411,
+    188912142,
+    839503775,
+    151061438
+  ]
+}

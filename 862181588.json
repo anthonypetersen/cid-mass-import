@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_surgery_annual",
+  "conceptID": 862181588,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "responses": [
+    502216051,
+    890542150,
+    712889975,
+    414324578,
+    943778574
+  ]
+}

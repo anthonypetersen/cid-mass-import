@@ -1,0 +1,12 @@
+{
+  "key": "number_of_smoking_quarterly",
+  "conceptID": 588868353,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 283771088,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_sleep_apnea_pre_enrollment",
+  "conceptID": 986836374,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "sourceConceptId": 283771088,
+  "responses": [
+    643539294,
+    540318200,
+    265621100,
+    142726657,
+    734996610
+  ]
+}
