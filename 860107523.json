@@ -1,0 +1,10 @@
+{
+  "key": "has_ever_colonoscopy_screening",
+  "conceptID": 860107523,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

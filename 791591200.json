@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_arthritis_screening",
+  "conceptID": 791591200,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "responses": [
+    300863917,
+    471575730,
+    247093719,
+    689199750,
+    402338039
+  ]
+}

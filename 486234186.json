@@ -1,0 +1,13 @@
+{
+  "key": "type_of_colonoscopy_screening",
+  "conceptID": 486234186,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "responses": [
+    450679250,
+    591095914,
+    986041937,
+    542799413,
+    873533959
+  ]
+}

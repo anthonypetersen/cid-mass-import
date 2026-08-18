@@ -1,0 +1,12 @@
+{
+  "key": "provider_reported_sleep_apnea_proxy_report",
+  "conceptID": 907370254,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "sourceConceptId": 363692473,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

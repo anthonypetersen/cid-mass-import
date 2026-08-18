@@ -1,0 +1,12 @@
+{
+  "key": "age_at_first_anxiety_quarterly",
+  "conceptID": 935117040,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "sourceConceptId": 167225166,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_sunscreen_use_current",
+  "conceptID": 240520691,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "responses": [
+    441937069,
+    740844861,
+    921365155,
+    830529584,
+    495426092
+  ]
+}

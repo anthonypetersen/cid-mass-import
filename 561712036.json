@@ -1,0 +1,11 @@
+{
+  "key": "has_ever_surgery_annual",
+  "conceptID": 561712036,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "sourceConceptId": 723779304,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

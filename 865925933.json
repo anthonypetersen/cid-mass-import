@@ -1,0 +1,12 @@
+{
+  "key": "frequency_of_hormone_therapy_post_enrollment",
+  "conceptID": 865925933,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "sourceConceptId": 693873814,
+  "responses": [
+    179171223,
+    949361722,
+    948065095
+  ]
+}

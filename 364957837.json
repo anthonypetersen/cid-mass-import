@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_hormone_therapy_post_enrollment",
+  "conceptID": 364957837,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "responses": [
+    737532966,
+    362342904,
+    347936215,
+    402939888,
+    126196117
+  ]
+}

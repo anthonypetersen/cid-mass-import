@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_surgery_childhood",
+  "conceptID": 470883108,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "sourceConceptId": 167225166,
+  "responses": [
+    223568566,
+    199848849,
+    114258614,
+    424401117,
+    533550265
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "key": "has_ever_breastfeeding_pre_enrollment",
+  "conceptID": 161703258,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "sourceConceptId": 935055910,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

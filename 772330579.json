@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_pregnancy_diagnostic",
+  "conceptID": 772330579,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 693873814,
+  "responses": [
+    650729817,
+    909602175,
+    169824165,
+    747638213
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_asthma_past_30_days",
+  "conceptID": 293065763,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "responses": [
+    643539294,
+    540318200,
+    265621100,
+    142726657,
+    734996610
+  ]
+}

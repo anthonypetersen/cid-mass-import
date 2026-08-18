@@ -1,0 +1,13 @@
+{
+  "key": "reason_for_hormone_therapy_confirmed",
+  "conceptID": 347905354,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "responses": [
+    763680175,
+    671737436,
+    888331020,
+    917348031,
+    288089902
+  ]
+}

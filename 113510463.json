@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_chemotherapy_childhood",
+  "conceptID": 113510463,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "sourceConceptId": 693873814,
+  "responses": [
+    216981353,
+    975471774,
+    260555361,
+    738486687,
+    729722106
+  ]
+}

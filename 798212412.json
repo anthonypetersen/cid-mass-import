@@ -1,0 +1,10 @@
+{
+  "key": "reason_for_smoking_screening",
+  "conceptID": 798212412,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "change_in_hormone_therapy_self_report",
+  "conceptID": 172279166,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "sourceConceptId": 167225166,
+  "responses": [
+    650729817,
+    909602175,
+    169824165,
+    747638213
+  ]
+}

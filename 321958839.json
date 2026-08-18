@@ -1,0 +1,14 @@
+{
+  "key": "current_status_alcohol_use_first_occurrence",
+  "conceptID": 321958839,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "sourceConceptId": 557196660,
+  "responses": [
+    441937069,
+    740844861,
+    921365155,
+    830529584,
+    495426092
+  ]
+}

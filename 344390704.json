@@ -1,0 +1,12 @@
+{
+  "key": "frequency_of_hospitalization_past_12_months",
+  "conceptID": 344390704,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "sourceConceptId": 693873814,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

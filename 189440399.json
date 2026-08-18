@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_skin_exam_pre_enrollment",
+  "conceptID": 189440399,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "responses": [
+    555888342,
+    708991182,
+    784719415,
+    992310951,
+    834379624
+  ]
+}

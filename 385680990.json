@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_surgery_past_30_days",
+  "conceptID": 385680990,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "responses": [
+    858873535,
+    769258593,
+    148190165,
+    162406278,
+    252371216
+  ]
+}

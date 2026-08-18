@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_surgery_lifetime",
+  "conceptID": 503599235,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 712692038,
+  "responses": [
+    924508148,
+    490591332,
+    620607721,
+    403265873
+  ]
+}

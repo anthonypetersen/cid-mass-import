@@ -1,0 +1,14 @@
+{
+  "key": "type_of_hypertension_post_enrollment",
+  "conceptID": 856567972,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "sourceConceptId": 872839827,
+  "responses": [
+    225224764,
+    142908205,
+    361886131,
+    496885791,
+    611887522
+  ]
+}

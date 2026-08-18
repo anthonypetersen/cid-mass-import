@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_surgery_self_report",
+  "conceptID": 595652413,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "sourceConceptId": 557196660,
+  "responses": [
+    763680175,
+    671737436,
+    888331020,
+    917348031,
+    288089902
+  ]
+}

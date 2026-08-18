@@ -1,0 +1,12 @@
+{
+  "key": "has_ever_vegetable_intake_past_30_days",
+  "conceptID": 764598514,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "responses": [
+    924508148,
+    490591332,
+    620607721,
+    403265873
+  ]
+}

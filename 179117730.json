@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_hospitalization_confirmed",
+  "conceptID": 179117730,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "sourceConceptId": 557196660,
+  "responses": [
+    924508148,
+    490591332,
+    620607721,
+    403265873
+  ]
+}

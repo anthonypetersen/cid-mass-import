@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_radiation_exposure_lifetime",
+  "conceptID": 157830622,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "sourceConceptId": 355786284,
+  "responses": [
+    382415328,
+    138173599,
+    619782256,
+    286918962,
+    533380688
+  ]
+}

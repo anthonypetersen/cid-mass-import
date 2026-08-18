@@ -1,0 +1,11 @@
+{
+  "key": "age_at_first_pregnancy_screening",
+  "conceptID": 385802039,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "responses": [
+    179171223,
+    949361722,
+    948065095
+  ]
+}

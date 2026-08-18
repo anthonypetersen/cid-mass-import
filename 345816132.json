@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_breastfeeding_first_occurrence",
+  "conceptID": 345816132,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "sourceConceptId": 363692473,
+  "responses": [
+    824360475,
+    574348834,
+    259149194,
+    170277529,
+    186288482
+  ]
+}

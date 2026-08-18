@@ -1,0 +1,11 @@
+{
+  "key": "current_status_hospitalization_past_12_months",
+  "conceptID": 855569348,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "responses": [
+    179171223,
+    949361722,
+    948065095
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "key": "duration_of_radiation_exposure_post_enrollment",
+  "conceptID": 515596362,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "sourceConceptId": 723779304,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

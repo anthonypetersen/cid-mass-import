@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_radiation_exposure_adulthood",
+  "conceptID": 137329431,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "sourceConceptId": 712692038,
+  "responses": [
+    298805882,
+    994168209,
+    615116498,
+    989707841,
+    247479546
+  ]
+}

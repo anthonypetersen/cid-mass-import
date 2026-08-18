@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_skin_exam_post_enrollment",
+  "conceptID": 674569764,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "sourceConceptId": 355786284,
+  "responses": [
+    566024300,
+    499189394,
+    522125122,
+    513154086,
+    482548207
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "key": "self_reported_chemotherapy_post_enrollment",
+  "conceptID": 293776267,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "sourceConceptId": 355786284,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

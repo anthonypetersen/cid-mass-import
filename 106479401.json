@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_hypertension_proxy_report",
+  "conceptID": 106479401,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "sourceConceptId": 723779304,
+  "responses": [
+    636615193,
+    390662015,
+    756472591,
+    365687810,
+    504786462
+  ]
+}

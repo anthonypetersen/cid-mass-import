@@ -1,0 +1,14 @@
+{
+  "key": "last_occurrence_sunscreen_use_lifetime",
+  "conceptID": 481735781,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "sourceConceptId": 723779304,
+  "responses": [
+    286258710,
+    666013050,
+    898190979,
+    393740167,
+    813184577
+  ]
+}

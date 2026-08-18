@@ -1,0 +1,14 @@
+{
+  "key": "number_of_hormone_therapy_childhood",
+  "conceptID": 526650648,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "sourceConceptId": 355786284,
+  "responses": [
+    555888342,
+    708991182,
+    784719415,
+    992310951,
+    834379624
+  ]
+}

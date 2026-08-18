@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_radiation_exposure_self_report",
+  "conceptID": 933823139,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "responses": [
+    969753436,
+    775097819,
+    695080474,
+    816745084,
+    593927418
+  ]
+}

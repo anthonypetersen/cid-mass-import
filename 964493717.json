@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_fruit_intake_baseline",
+  "conceptID": 964493717,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "sourceConceptId": 557196660,
+  "responses": [
+    636615193,
+    390662015,
+    756472591,
+    365687810,
+    504786462
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_obesity_childhood",
+  "conceptID": 682513213,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "sourceConceptId": 167225166,
+  "responses": [
+    858873535,
+    769258593,
+    148190165,
+    162406278,
+    252371216
+  ]
+}

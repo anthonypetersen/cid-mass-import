@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_oral_contraceptive_suspected",
+  "conceptID": 266705663,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "responses": [
+    286258710,
+    666013050,
+    898190979,
+    393740167,
+    813184577
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "date_of_arthritis_first_occurrence",
+  "conceptID": 154280519,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "sourceConceptId": 872839827,
+  "responses": [
+    737532966,
+    362342904,
+    347936215,
+    402939888,
+    126196117
+  ]
+}

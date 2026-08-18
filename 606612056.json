@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_skin_exam_quarterly",
+  "conceptID": 606612056,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "responses": [
+    453651208,
+    218253522,
+    877331970,
+    432739350,
+    108573748
+  ]
+}

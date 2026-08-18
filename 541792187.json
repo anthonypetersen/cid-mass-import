@@ -1,0 +1,11 @@
+{
+  "key": "current_status_obesity_lifetime",
+  "conceptID": 541792187,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

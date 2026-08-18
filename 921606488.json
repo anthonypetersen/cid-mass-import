@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_colonoscopy_pre_enrollment",
+  "conceptID": 921606488,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 872839827,
+  "responses": [
+    744733938,
+    814214301,
+    806311897,
+    276332597,
+    699721200
+  ]
+}

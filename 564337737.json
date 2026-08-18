@@ -1,0 +1,13 @@
+{
+  "key": "reason_for_diabetes_first_occurrence",
+  "conceptID": 564337737,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "responses": [
+    643539294,
+    540318200,
+    265621100,
+    142726657,
+    734996610
+  ]
+}

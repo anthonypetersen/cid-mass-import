@@ -1,0 +1,14 @@
+{
+  "key": "current_status_breastfeeding_first_occurrence",
+  "conceptID": 428650806,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "sourceConceptId": 935055910,
+  "responses": [
+    153616768,
+    336497585,
+    704926440,
+    701528419,
+    604901244
+  ]
+}

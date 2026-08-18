@@ -1,0 +1,13 @@
+{
+  "key": "reason_for_radiation_exposure_quarterly",
+  "conceptID": 650443146,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "responses": [
+    286258710,
+    666013050,
+    898190979,
+    393740167,
+    813184577
+  ]
+}

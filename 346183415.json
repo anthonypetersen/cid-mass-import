@@ -1,0 +1,14 @@
+{
+  "key": "type_of_hormone_therapy_proxy_report",
+  "conceptID": 346183415,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "sourceConceptId": 872839827,
+  "responses": [
+    555888342,
+    708991182,
+    784719415,
+    992310951,
+    834379624
+  ]
+}

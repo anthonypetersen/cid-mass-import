@@ -1,0 +1,12 @@
+{
+  "key": "date_of_mammogram_post_enrollment",
+  "conceptID": 345366367,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 723779304,
+  "responses": [
+    179171223,
+    949361722,
+    948065095
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_hypertension_pre_enrollment",
+  "conceptID": 871478735,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "sourceConceptId": 283771088,
+  "responses": [
+    433550500,
+    306738732,
+    732488174,
+    607645219,
+    185155541
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_hypertension_screening",
+  "conceptID": 491419228,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "responses": [
+    225224764,
+    142908205,
+    361886131,
+    496885791,
+    611887522
+  ]
+}

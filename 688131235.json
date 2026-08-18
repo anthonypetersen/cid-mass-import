@@ -1,0 +1,13 @@
+{
+  "key": "date_of_asthma_confirmed",
+  "conceptID": 688131235,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "responses": [
+    225224764,
+    142908205,
+    361886131,
+    496885791,
+    611887522
+  ]
+}

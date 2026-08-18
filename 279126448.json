@@ -1,0 +1,11 @@
+{
+  "key": "has_ever_surgery_post_enrollment",
+  "conceptID": 279126448,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "sourceConceptId": 723779304,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_arthritis_quarterly",
+  "conceptID": 309264025,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 693873814,
+  "responses": [
+    969753436,
+    775097819,
+    695080474,
+    816745084,
+    593927418
+  ]
+}

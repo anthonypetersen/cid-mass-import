@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_pregnancy_suspected",
+  "conceptID": 230325861,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "responses": [
+    223568566,
+    199848849,
+    114258614,
+    424401117,
+    533550265
+  ]
+}

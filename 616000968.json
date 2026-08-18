@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_hormone_therapy_confirmed",
+  "conceptID": 616000968,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "responses": [
+    568284718,
+    839702582,
+    208533316,
+    996074771,
+    606520193
+  ]
+}

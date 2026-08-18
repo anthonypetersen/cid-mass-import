@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_skin_exam_suspected",
+  "conceptID": 147921632,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "responses": [
+    394585074,
+    545736293,
+    649782848,
+    591725867,
+    630368149
+  ]
+}

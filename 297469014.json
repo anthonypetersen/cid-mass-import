@@ -1,0 +1,11 @@
+{
+  "key": "last_occurrence_alcohol_use_childhood",
+  "conceptID": 297469014,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 872839827,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

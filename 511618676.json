@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_diabetes_screening",
+  "conceptID": 511618676,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 355786284,
+  "responses": [
+    763680175,
+    671737436,
+    888331020,
+    917348031,
+    288089902
+  ]
+}

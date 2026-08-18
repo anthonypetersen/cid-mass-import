@@ -1,0 +1,11 @@
+{
+  "key": "provider_reported_pregnancy_lifetime",
+  "conceptID": 488637566,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

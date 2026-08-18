@@ -1,0 +1,14 @@
+{
+  "key": "change_in_alcohol_use_current",
+  "conceptID": 948276359,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "sourceConceptId": 363692473,
+  "responses": [
+    298805882,
+    994168209,
+    615116498,
+    989707841,
+    247479546
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "date_of_radiation_exposure_baseline",
+  "conceptID": 266047233,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "sourceConceptId": 557196660,
+  "responses": [
+    577501635,
+    593161478,
+    682637029,
+    493470379,
+    221342818
+  ]
+}

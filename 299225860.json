@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_pregnancy_post_enrollment",
+  "conceptID": 299225860,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "responses": [
+    502216051,
+    890542150,
+    712889975,
+    414324578,
+    943778574
+  ]
+}

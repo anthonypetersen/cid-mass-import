@@ -1,0 +1,14 @@
+{
+  "key": "date_of_alcohol_use_current",
+  "conceptID": 292149736,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "sourceConceptId": 935055910,
+  "responses": [
+    737532966,
+    362342904,
+    347936215,
+    402939888,
+    126196117
+  ]
+}

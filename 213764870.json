@@ -1,0 +1,14 @@
+{
+  "key": "current_status_obesity_adulthood",
+  "conceptID": 213764870,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 872839827,
+  "responses": [
+    441937069,
+    740844861,
+    921365155,
+    830529584,
+    495426092
+  ]
+}

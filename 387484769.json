@@ -1,0 +1,14 @@
+{
+  "key": "type_of_alcohol_use_pre_enrollment",
+  "conceptID": 387484769,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 355786284,
+  "responses": [
+    824360475,
+    574348834,
+    259149194,
+    170277529,
+    186288482
+  ]
+}
