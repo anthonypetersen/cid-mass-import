@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_sun_exposure_pre_enrollment",
+  "conceptID": 727117169,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 320657206,
+  "responses": [
+    453651208,
+    218253522,
+    877331970,
+    432739350,
+    108573748
+  ]
+}

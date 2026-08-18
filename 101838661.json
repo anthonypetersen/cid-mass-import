@@ -1,0 +1,14 @@
+{
+  "key": "current_status_smoking_past_30_days",
+  "conceptID": 101838661,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "sourceConceptId": 693873814,
+  "responses": [
+    858813191,
+    725558684,
+    994610339,
+    901178317,
+    488702322
+  ]
+}

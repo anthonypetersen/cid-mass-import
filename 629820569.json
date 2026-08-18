@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_red_meat_baseline",
+  "conceptID": 629820569,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "sourceConceptId": 283771088,
+  "responses": [
+    225224764,
+    142908205,
+    361886131,
+    496885791,
+    611887522
+  ]
+}

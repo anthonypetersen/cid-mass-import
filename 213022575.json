@@ -1,0 +1,13 @@
+{
+  "key": "current_status_mammogram_quarterly",
+  "conceptID": 213022575,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 320657206,
+  "responses": [
+    253750658,
+    604867735,
+    363253336,
+    455190699,
+    490969770
+  ]
+}

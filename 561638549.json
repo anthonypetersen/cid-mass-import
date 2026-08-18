@@ -1,0 +1,11 @@
+{
+  "key": "confidence_in_vaping_past_12_months",
+  "conceptID": 561638549,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "responses": [
+    179171223,
+    949361722,
+    948065095
+  ]
+}

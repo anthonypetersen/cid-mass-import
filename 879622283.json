@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_pregnancy_screening",
+  "conceptID": 879622283,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "sourceConceptId": 363692473,
+  "responses": [
+    286258710,
+    666013050,
+    898190979,
+    393740167,
+    813184577
+  ]
+}

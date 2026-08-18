@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_breastfeeding_proxy_report",
+  "conceptID": 260932464,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "sourceConceptId": 283771088,
+  "responses": [
+    286258710,
+    666013050,
+    898190979,
+    393740167,
+    813184577
+  ]
+}

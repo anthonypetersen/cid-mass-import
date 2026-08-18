@@ -1,0 +1,12 @@
+{
+  "key": "date_of_hypertension_confirmed",
+  "conceptID": 615776647,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 320657206,
+  "responses": [
+    924508148,
+    490591332,
+    620607721,
+    403265873
+  ]
+}

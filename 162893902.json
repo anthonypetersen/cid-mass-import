@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_sleep_apnea_lifetime",
+  "conceptID": 162893902,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "responses": [
+    590691819,
+    366336563,
+    190789695,
+    727049361,
+    381975043
+  ]
+}

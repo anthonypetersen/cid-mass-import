@@ -1,0 +1,14 @@
+{
+  "key": "current_status_alcohol_use_post_enrollment",
+  "conceptID": 504900101,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "sourceConceptId": 723779304,
+  "responses": [
+    298802151,
+    252374134,
+    725487576,
+    382801992,
+    212420948
+  ]
+}

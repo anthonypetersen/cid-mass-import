@@ -1,0 +1,13 @@
+{
+  "key": "has_ever_oral_contraceptive_diagnostic",
+  "conceptID": 833059049,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "responses": [
+    450679250,
+    591095914,
+    986041937,
+    542799413,
+    873533959
+  ]
+}

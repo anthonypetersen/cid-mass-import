@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_mammogram_annual",
+  "conceptID": 862587055,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "sourceConceptId": 723779304,
+  "responses": [
+    941380958,
+    350426324,
+    735926855,
+    261660447,
+    223568566
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "key": "age_at_first_alcohol_use_follow_up",
+  "conceptID": 451854669,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 320657206,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

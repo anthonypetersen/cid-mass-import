@@ -1,0 +1,11 @@
+{
+  "key": "age_at_first_anxiety_baseline",
+  "conceptID": 457545021,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "sourceConceptId": 693873814,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

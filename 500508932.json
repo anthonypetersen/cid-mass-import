@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_hypertension_proxy_report",
+  "conceptID": 500508932,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 320657206,
+  "sourceConceptId": 363692473,
+  "responses": [
+    858813191,
+    725558684,
+    994610339,
+    901178317,
+    488702322
+  ]
+}

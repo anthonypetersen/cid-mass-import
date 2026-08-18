@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_hormone_therapy_past_30_days",
+  "conceptID": 106297258,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "sourceConceptId": 723779304,
+  "responses": [
+    223568566,
+    199848849,
+    114258614,
+    424401117,
+    533550265
+  ]
+}

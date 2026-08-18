@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_hospitalization_screening",
+  "conceptID": 119410432,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 320657206,
+  "sourceConceptId": 557196660,
+  "responses": [
+    744733938,
+    814214301,
+    806311897,
+    276332597,
+    699721200
+  ]
+}

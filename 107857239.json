@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_smoking_proxy_report",
+  "conceptID": 107857239,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "sourceConceptId": 283771088,
+  "responses": [
+    824360475,
+    574348834,
+    259149194,
+    170277529,
+    186288482
+  ]
+}

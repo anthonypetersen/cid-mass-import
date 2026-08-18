@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_diabetes_proxy_report",
+  "conceptID": 876488094,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "responses": [
+    744733938,
+    814214301,
+    806311897,
+    276332597,
+    699721200
+  ]
+}

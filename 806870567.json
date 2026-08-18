@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_radiation_exposure_adulthood",
+  "conceptID": 806870567,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 320657206,
+  "sourceConceptId": 167225166,
+  "responses": [
+    286258710,
+    666013050,
+    898190979,
+    393740167,
+    813184577
+  ]
+}

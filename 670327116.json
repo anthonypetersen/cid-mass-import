@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_skin_exam_most_recent",
+  "conceptID": 670327116,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "responses": [
+    298805882,
+    994168209,
+    615116498,
+    989707841,
+    247479546
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "key": "date_of_smoking_adulthood",
+  "conceptID": 806398374,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 320657206,
+  "sourceConceptId": 557196660,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

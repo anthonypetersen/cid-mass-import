@@ -1,0 +1,12 @@
+{
+  "key": "type_of_sun_exposure_suspected",
+  "conceptID": 471944505,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "responses": [
+    924508148,
+    490591332,
+    620607721,
+    403265873
+  ]
+}

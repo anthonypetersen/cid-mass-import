@@ -1,0 +1,14 @@
+{
+  "key": "date_of_chemotherapy_pre_enrollment",
+  "conceptID": 316353306,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "sourceConceptId": 693873814,
+  "responses": [
+    286258710,
+    666013050,
+    898190979,
+    393740167,
+    813184577
+  ]
+}

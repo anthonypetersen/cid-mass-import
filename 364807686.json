@@ -1,0 +1,11 @@
+{
+  "key": "duration_of_radiation_exposure_suspected",
+  "conceptID": 364807686,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

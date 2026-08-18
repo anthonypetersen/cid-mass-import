@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_oral_contraceptive_post_enrollment",
+  "conceptID": 230751373,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "sourceConceptId": 872839827,
+  "responses": [
+    225224764,
+    142908205,
+    361886131,
+    496885791,
+    611887522
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "has_ever_surgery_confirmed",
+  "conceptID": 104153468,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "responses": [
+    433550500,
+    306738732,
+    732488174,
+    607645219,
+    185155541
+  ]
+}

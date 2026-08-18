@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_oral_contraceptive_first_occurrence",
+  "conceptID": 231701146,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "responses": [
+    824360475,
+    574348834,
+    259149194,
+    170277529,
+    186288482
+  ]
+}

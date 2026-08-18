@@ -1,0 +1,14 @@
+{
+  "key": "current_status_sunscreen_use_follow_up",
+  "conceptID": 578507664,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 320657206,
+  "sourceConceptId": 872839827,
+  "responses": [
+    117973083,
+    176952168,
+    682890945,
+    753727993,
+    960347699
+  ]
+}

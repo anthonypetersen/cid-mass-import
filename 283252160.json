@@ -1,0 +1,14 @@
+{
+  "key": "change_in_arthritis_post_enrollment",
+  "conceptID": 283252160,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "sourceConceptId": 872839827,
+  "responses": [
+    590691819,
+    366336563,
+    190789695,
+    727049361,
+    381975043
+  ]
+}

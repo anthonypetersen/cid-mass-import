@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_asthma_self_report",
+  "conceptID": 597942776,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 320657206,
+  "sourceConceptId": 363692473,
+  "responses": [
+    298805882,
+    994168209,
+    615116498,
+    989707841,
+    247479546
+  ]
+}

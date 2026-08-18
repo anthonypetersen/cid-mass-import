@@ -1,0 +1,14 @@
+{
+  "key": "number_of_sun_exposure_self_report",
+  "conceptID": 950407319,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 320657206,
+  "sourceConceptId": 557196660,
+  "responses": [
+    441937069,
+    740844861,
+    921365155,
+    830529584,
+    495426092
+  ]
+}

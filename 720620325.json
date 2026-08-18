@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_diabetes_post_enrollment",
+  "conceptID": 720620325,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 320657206,
+  "sourceConceptId": 355786284,
+  "responses": [
+    300863917,
+    471575730,
+    247093719,
+    689199750,
+    402338039
+  ]
+}

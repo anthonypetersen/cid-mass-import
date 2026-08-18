@@ -1,0 +1,13 @@
+{
+  "key": "last_occurrence_colonoscopy_suspected",
+  "conceptID": 105335015,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 320657206,
+  "responses": [
+    487358882,
+    552219411,
+    188912142,
+    839503775,
+    151061438
+  ]
+}

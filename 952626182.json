@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_diabetes_follow_up",
+  "conceptID": 952626182,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 320657206,
+  "sourceConceptId": 935055910,
+  "responses": [
+    103388116,
+    233359600,
+    948916208,
+    162368370,
+    883589778
+  ]
+}

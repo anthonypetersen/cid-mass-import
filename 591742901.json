@@ -1,0 +1,13 @@
+{
+  "key": "date_of_hypertension_post_enrollment",
+  "conceptID": 591742901,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "responses": [
+    225224764,
+    142908205,
+    361886131,
+    496885791,
+    611887522
+  ]
+}

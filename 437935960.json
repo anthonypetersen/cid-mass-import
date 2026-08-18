@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_diabetes_screening",
+  "conceptID": 437935960,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "sourceConceptId": 872839827,
+  "responses": [
+    298805882,
+    994168209,
+    615116498,
+    989707841,
+    247479546
+  ]
+}

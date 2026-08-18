@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_colonoscopy_post_enrollment",
+  "conceptID": 246868338,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 320657206,
+  "responses": [
+    238728227,
+    880867317,
+    573107698,
+    856337830,
+    905055413
+  ]
+}

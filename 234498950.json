@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_vegetable_intake_annual",
+  "conceptID": 234498950,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 320657206,
+  "sourceConceptId": 712692038,
+  "responses": [
+    891518243,
+    519622922,
+    736729822,
+    230637251,
+    345790951
+  ]
+}

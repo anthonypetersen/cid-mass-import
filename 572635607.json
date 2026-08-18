@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_oral_contraceptive_quarterly",
+  "conceptID": 572635607,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "sourceConceptId": 363692473,
+  "responses": [
+    744733938,
+    814214301,
+    806311897,
+    276332597,
+    699721200
+  ]
+}

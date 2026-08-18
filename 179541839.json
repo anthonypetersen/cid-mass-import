@@ -1,0 +1,13 @@
+{
+  "key": "number_of_alcohol_use_quarterly",
+  "conceptID": 179541839,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 320657206,
+  "responses": [
+    891518243,
+    519622922,
+    736729822,
+    230637251,
+    345790951
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_pap_test_pre_enrollment",
+  "conceptID": 684776897,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "sourceConceptId": 167225166,
+  "responses": [
+    577501635,
+    593161478,
+    682637029,
+    493470379,
+    221342818
+  ]
+}

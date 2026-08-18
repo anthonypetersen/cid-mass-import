@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_chemotherapy_screening",
+  "conceptID": 406684432,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "responses": [
+    505092515,
+    231936346,
+    656869759,
+    826833277,
+    287568690
+  ]
+}

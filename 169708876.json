@@ -1,0 +1,13 @@
+{
+  "key": "current_status_radiation_exposure_past_12_months",
+  "conceptID": 169708876,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "responses": [
+    298805882,
+    994168209,
+    615116498,
+    989707841,
+    247479546
+  ]
+}

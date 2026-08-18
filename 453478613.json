@@ -1,0 +1,14 @@
+{
+  "key": "current_status_smoking_post_enrollment",
+  "conceptID": 453478613,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "sourceConceptId": 283771088,
+  "responses": [
+    433550500,
+    306738732,
+    732488174,
+    607645219,
+    185155541
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "key": "current_status_anxiety_first_occurrence",
+  "conceptID": 599217420,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 320657206,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

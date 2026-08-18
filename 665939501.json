@@ -1,0 +1,14 @@
+{
+  "key": "current_status_colonoscopy_childhood",
+  "conceptID": 665939501,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "sourceConceptId": 872839827,
+  "responses": [
+    398729598,
+    376835754,
+    232880924,
+    554137503,
+    340659906
+  ]
+}

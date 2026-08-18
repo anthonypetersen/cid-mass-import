@@ -1,0 +1,12 @@
+{
+  "key": "confidence_in_hormone_therapy_current",
+  "conceptID": 983883572,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "sourceConceptId": 723779304,
+  "responses": [
+    179171223,
+    949361722,
+    948065095
+  ]
+}

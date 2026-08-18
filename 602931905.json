@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_oral_contraceptive_diagnostic",
+  "conceptID": 602931905,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "sourceConceptId": 557196660,
+  "responses": [
+    298805882,
+    994168209,
+    615116498,
+    989707841,
+    247479546
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "date_of_pregnancy_lifetime",
+  "conceptID": 138664685,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "sourceConceptId": 935055910,
+  "responses": [
+    300863917,
+    471575730,
+    247093719,
+    689199750,
+    402338039
+  ]
+}

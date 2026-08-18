@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_mammogram_lifetime",
+  "conceptID": 880753237,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 320657206,
+  "sourceConceptId": 557196660,
+  "responses": [
+    476519996,
+    717523111,
+    458662226,
+    402508719,
+    906077259
+  ]
+}

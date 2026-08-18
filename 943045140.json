@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_fruit_intake_suspected",
+  "conceptID": 943045140,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "sourceConceptId": 363692473,
+  "responses": [
+    555888342,
+    708991182,
+    784719415,
+    992310951,
+    834379624
+  ]
+}

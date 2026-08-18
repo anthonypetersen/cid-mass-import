@@ -1,0 +1,13 @@
+{
+  "key": "last_occurrence_colonoscopy_proxy_report",
+  "conceptID": 813512460,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "responses": [
+    476519996,
+    717523111,
+    458662226,
+    402508719,
+    906077259
+  ]
+}

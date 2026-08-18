@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_hypertension_proxy_report",
+  "conceptID": 644815987,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "sourceConceptId": 935055910,
+  "responses": [
+    450679250,
+    591095914,
+    986041937,
+    542799413,
+    873533959
+  ]
+}

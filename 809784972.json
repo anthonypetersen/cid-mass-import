@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_chemotherapy_suspected",
+  "conceptID": 809784972,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "responses": [
+    476519996,
+    717523111,
+    458662226,
+    402508719,
+    906077259
+  ]
+}

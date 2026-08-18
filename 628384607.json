@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_hospitalization_follow_up",
+  "conceptID": 628384607,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 320657206,
+  "sourceConceptId": 355786284,
+  "responses": [
+    924508148,
+    490591332,
+    620607721,
+    403265873
+  ]
+}

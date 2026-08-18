@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_mammogram_diagnostic",
+  "conceptID": 200446786,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "sourceConceptId": 723779304,
+  "responses": [
+    441937069,
+    740844861,
+    921365155,
+    830529584,
+    495426092
+  ]
+}
