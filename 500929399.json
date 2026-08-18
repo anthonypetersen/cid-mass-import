@@ -1,0 +1,11 @@
+{
+  "key": "current_status_pregnancy_annual",
+  "conceptID": 500929399,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "sourceConceptId": 167225166,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

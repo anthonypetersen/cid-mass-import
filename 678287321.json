@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_mammogram_past_12_months",
+  "conceptID": 678287321,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "responses": [
+    223568566,
+    199848849,
+    114258614,
+    424401117,
+    533550265
+  ]
+}

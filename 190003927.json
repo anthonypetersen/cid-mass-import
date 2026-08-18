@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_oral_contraceptive_lifetime",
+  "conceptID": 190003927,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "sourceConceptId": 363692473,
+  "responses": [
+    636615193,
+    390662015,
+    756472591,
+    365687810,
+    504786462
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_fruit_intake_quarterly",
+  "conceptID": 890281297,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "responses": [
+    590691819,
+    366336563,
+    190789695,
+    727049361,
+    381975043
+  ]
+}

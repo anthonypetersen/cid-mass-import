@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_smoking_baseline",
+  "conceptID": 295254086,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "sourceConceptId": 935055910,
+  "responses": [
+    744733938,
+    814214301,
+    806311897,
+    276332597,
+    699721200
+  ]
+}

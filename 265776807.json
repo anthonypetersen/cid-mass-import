@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_diabetes_suspected",
+  "conceptID": 265776807,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "sourceConceptId": 283771088,
+  "responses": [
+    238728227,
+    880867317,
+    573107698,
+    856337830,
+    905055413
+  ]
+}

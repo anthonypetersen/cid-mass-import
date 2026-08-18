@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_asthma_adulthood",
+  "conceptID": 865267747,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "responses": [
+    763680175,
+    671737436,
+    888331020,
+    917348031,
+    288089902
+  ]
+}

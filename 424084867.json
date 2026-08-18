@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_obesity_past_30_days",
+  "conceptID": 424084867,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "responses": [
+    858813191,
+    725558684,
+    994610339,
+    901178317,
+    488702322
+  ]
+}

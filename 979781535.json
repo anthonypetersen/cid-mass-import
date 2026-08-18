@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_diabetes_suspected",
+  "conceptID": 979781535,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "responses": [
+    505092515,
+    231936346,
+    656869759,
+    826833277,
+    287568690
+  ]
+}

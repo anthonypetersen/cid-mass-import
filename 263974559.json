@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_smoking_annual",
+  "conceptID": 263974559,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "sourceConceptId": 693873814,
+  "responses": [
+    744733938,
+    814214301,
+    806311897,
+    276332597,
+    699721200
+  ]
+}

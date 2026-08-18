@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_chemotherapy_screening",
+  "conceptID": 859496447,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "sourceConceptId": 557196660,
+  "responses": [
+    253750658,
+    604867735,
+    363253336,
+    455190699,
+    490969770
+  ]
+}

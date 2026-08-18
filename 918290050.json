@@ -1,0 +1,14 @@
+{
+  "key": "change_in_diabetes_lifetime",
+  "conceptID": 918290050,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "sourceConceptId": 723779304,
+  "responses": [
+    858813191,
+    725558684,
+    994610339,
+    901178317,
+    488702322
+  ]
+}

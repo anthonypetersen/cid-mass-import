@@ -1,0 +1,12 @@
+{
+  "key": "reason_for_radiation_exposure_lifetime",
+  "conceptID": 412223164,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "responses": [
+    924508148,
+    490591332,
+    620607721,
+    403265873
+  ]
+}

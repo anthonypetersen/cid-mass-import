@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_pap_test_screening",
+  "conceptID": 272387818,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "sourceConceptId": 935055910,
+  "responses": [
+    941380958,
+    350426324,
+    735926855,
+    261660447,
+    223568566
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_radiation_exposure_proxy_report",
+  "conceptID": 795771586,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "responses": [
+    590691819,
+    366336563,
+    190789695,
+    727049361,
+    381975043
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "key": "severity_of_depression_childhood",
+  "conceptID": 267925443,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

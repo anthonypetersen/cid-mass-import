@@ -1,0 +1,13 @@
+{
+  "key": "reason_for_radiation_exposure_first_occurrence",
+  "conceptID": 890050650,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "responses": [
+    311866307,
+    392829047,
+    368902208,
+    388509085,
+    702366122
+  ]
+}

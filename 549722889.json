@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_vaping_confirmed",
+  "conceptID": 549722889,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "sourceConceptId": 723779304,
+  "responses": [
+    502216051,
+    890542150,
+    712889975,
+    414324578,
+    943778574
+  ]
+}

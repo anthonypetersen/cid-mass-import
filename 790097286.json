@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_hypertension_most_recent",
+  "conceptID": 790097286,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "sourceConceptId": 693873814,
+  "responses": [
+    311866307,
+    392829047,
+    368902208,
+    388509085,
+    702366122
+  ]
+}

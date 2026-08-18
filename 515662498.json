@@ -1,0 +1,14 @@
+{
+  "key": "type_of_colonoscopy_first_occurrence",
+  "conceptID": 515662498,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "sourceConceptId": 283771088,
+  "responses": [
+    298802151,
+    252374134,
+    725487576,
+    382801992,
+    212420948
+  ]
+}

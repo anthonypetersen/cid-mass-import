@@ -1,0 +1,12 @@
+{
+  "key": "has_ever_surgery_adulthood",
+  "conceptID": 119679364,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "sourceConceptId": 693873814,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "key": "duration_of_skin_exam_past_30_days",
+  "conceptID": 575556970,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

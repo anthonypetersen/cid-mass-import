@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_sun_exposure_follow_up",
+  "conceptID": 612495741,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "sourceConceptId": 283771088,
+  "responses": [
+    153616768,
+    336497585,
+    704926440,
+    701528419,
+    604901244
+  ]
+}

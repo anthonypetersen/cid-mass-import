@@ -1,0 +1,14 @@
+{
+  "key": "number_of_diabetes_first_occurrence",
+  "conceptID": 550527594,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "sourceConceptId": 167225166,
+  "responses": [
+    103388116,
+    233359600,
+    948916208,
+    162368370,
+    883589778
+  ]
+}

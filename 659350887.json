@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_diabetes_annual",
+  "conceptID": 659350887,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "sourceConceptId": 557196660,
+  "responses": [
+    636615193,
+    390662015,
+    756472591,
+    365687810,
+    504786462
+  ]
+}

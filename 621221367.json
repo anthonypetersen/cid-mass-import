@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_psa_test_diagnostic",
+  "conceptID": 621221367,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "sourceConceptId": 167225166,
+  "responses": [
+    476519996,
+    717523111,
+    458662226,
+    402508719,
+    906077259
+  ]
+}

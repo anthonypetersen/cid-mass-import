@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_arthritis_proxy_report",
+  "conceptID": 871988794,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "sourceConceptId": 283771088,
+  "responses": [
+    453651208,
+    218253522,
+    877331970,
+    432739350,
+    108573748
+  ]
+}

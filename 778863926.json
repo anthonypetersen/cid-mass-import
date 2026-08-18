@@ -1,0 +1,14 @@
+{
+  "key": "last_occurrence_sleep_apnea_past_30_days",
+  "conceptID": 778863926,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "sourceConceptId": 872839827,
+  "responses": [
+    487358882,
+    552219411,
+    188912142,
+    839503775,
+    151061438
+  ]
+}

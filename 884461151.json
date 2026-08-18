@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_hormone_therapy_adulthood",
+  "conceptID": 884461151,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "sourceConceptId": 693873814,
+  "responses": [
+    433550500,
+    306738732,
+    732488174,
+    607645219,
+    185155541
+  ]
+}

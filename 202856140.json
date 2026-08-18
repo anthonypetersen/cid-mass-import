@@ -1,0 +1,14 @@
+{
+  "key": "current_status_hypertension_adulthood",
+  "conceptID": 202856140,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "sourceConceptId": 693873814,
+  "responses": [
+    824360475,
+    574348834,
+    259149194,
+    170277529,
+    186288482
+  ]
+}

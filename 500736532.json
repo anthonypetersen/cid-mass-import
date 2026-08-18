@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_asthma_post_enrollment",
+  "conceptID": 500736532,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "sourceConceptId": 693873814,
+  "responses": [
+    555888342,
+    708991182,
+    784719415,
+    992310951,
+    834379624
+  ]
+}

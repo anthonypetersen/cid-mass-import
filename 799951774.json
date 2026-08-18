@@ -1,0 +1,11 @@
+{
+  "key": "confidence_in_smoking_self_report",
+  "conceptID": 799951774,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "sourceConceptId": 283771088,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_oral_contraceptive_diagnostic",
+  "conceptID": 704079385,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "responses": [
+    824360475,
+    574348834,
+    259149194,
+    170277529,
+    186288482
+  ]
+}

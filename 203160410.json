@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_sleep_apnea_proxy_report",
+  "conceptID": 203160410,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "responses": [
+    555888342,
+    708991182,
+    784719415,
+    992310951,
+    834379624
+  ]
+}

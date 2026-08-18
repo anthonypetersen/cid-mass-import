@@ -1,0 +1,14 @@
+{
+  "key": "type_of_alcohol_use_annual",
+  "conceptID": 765373935,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "sourceConceptId": 355786284,
+  "responses": [
+    298805882,
+    994168209,
+    615116498,
+    989707841,
+    247479546
+  ]
+}

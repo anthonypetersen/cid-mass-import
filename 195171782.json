@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_red_meat_past_12_months",
+  "conceptID": 195171782,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "sourceConceptId": 872839827,
+  "responses": [
+    555888342,
+    708991182,
+    784719415,
+    992310951,
+    834379624
+  ]
+}

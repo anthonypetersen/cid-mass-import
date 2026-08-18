@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_pregnancy_self_report",
+  "conceptID": 955413743,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "sourceConceptId": 557196660,
+  "responses": [
+    487358882,
+    552219411,
+    188912142,
+    839503775,
+    151061438
+  ]
+}

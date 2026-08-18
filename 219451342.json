@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_colonoscopy_childhood",
+  "conceptID": 219451342,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "sourceConceptId": 693873814,
+  "responses": [
+    941380958,
+    350426324,
+    735926855,
+    261660447,
+    223568566
+  ]
+}

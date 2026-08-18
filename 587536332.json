@@ -1,0 +1,11 @@
+{
+  "key": "duration_of_chemotherapy_first_occurrence",
+  "conceptID": 587536332,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "sourceConceptId": 557196660,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

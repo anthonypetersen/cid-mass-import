@@ -1,0 +1,13 @@
+{
+  "key": "change_in_mammogram_diagnostic",
+  "conceptID": 470095032,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "responses": [
+    763680175,
+    671737436,
+    888331020,
+    917348031,
+    288089902
+  ]
+}

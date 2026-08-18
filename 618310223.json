@@ -1,0 +1,12 @@
+{
+  "key": "reason_for_vegetable_intake_annual",
+  "conceptID": 618310223,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "sourceConceptId": 872839827,
+  "responses": [
+    179171223,
+    949361722,
+    948065095
+  ]
+}

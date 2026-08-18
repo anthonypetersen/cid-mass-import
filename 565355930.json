@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_hormone_therapy_screening",
+  "conceptID": 565355930,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "sourceConceptId": 693873814,
+  "responses": [
+    153616768,
+    336497585,
+    704926440,
+    701528419,
+    604901244
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "key": "date_of_vegetable_intake_past_12_months",
+  "conceptID": 138587492,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "sourceConceptId": 283771088,
+  "responses": [
+    179171223,
+    949361722,
+    948065095
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "key": "confidence_in_asthma_quarterly",
+  "conceptID": 471938033,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "sourceConceptId": 167225166,
+  "responses": [
+    179171223,
+    949361722,
+    948065095
+  ]
+}

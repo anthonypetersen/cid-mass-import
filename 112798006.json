@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_hormone_therapy_post_enrollment",
+  "conceptID": 112798006,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "sourceConceptId": 355786284,
+  "responses": [
+    969753436,
+    775097819,
+    695080474,
+    816745084,
+    593927418
+  ]
+}

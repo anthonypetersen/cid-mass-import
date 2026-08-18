@@ -1,0 +1,11 @@
+{
+  "key": "has_ever_asthma_lifetime",
+  "conceptID": 182142011,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "sourceConceptId": 712692038,
+  "responses": [
+    179171223,
+    949361722
+  ]
+}

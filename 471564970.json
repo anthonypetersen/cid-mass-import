@@ -1,0 +1,14 @@
+{
+  "key": "current_status_hypertension_first_occurrence",
+  "conceptID": 471564970,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "sourceConceptId": 723779304,
+  "responses": [
+    117973083,
+    176952168,
+    682890945,
+    753727993,
+    960347699
+  ]
+}

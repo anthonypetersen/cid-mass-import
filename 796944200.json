@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_hypertension_post_enrollment",
+  "conceptID": 796944200,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "responses": [
+    737532966,
+    362342904,
+    347936215,
+    402939888,
+    126196117
+  ]
+}

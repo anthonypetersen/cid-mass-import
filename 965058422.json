@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_oral_contraceptive_follow_up",
+  "conceptID": 965058422,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "sourceConceptId": 557196660,
+  "responses": [
+    311866307,
+    392829047,
+    368902208,
+    388509085,
+    702366122
+  ]
+}

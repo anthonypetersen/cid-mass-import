@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_depression_childhood",
+  "conceptID": 552164809,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "sourceConceptId": 935055910,
+  "responses": [
+    286258710,
+    666013050,
+    898190979,
+    393740167,
+    813184577
+  ]
+}

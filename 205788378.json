@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_alcohol_use_pre_enrollment",
+  "conceptID": 205788378,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "responses": [
+    858873535,
+    769258593,
+    148190165,
+    162406278,
+    252371216
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "current_status_asthma_screening",
+  "conceptID": 568766301,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "responses": [
+    238728227,
+    880867317,
+    573107698,
+    856337830,
+    905055413
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_obesity_proxy_report",
+  "conceptID": 846715132,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "sourceConceptId": 935055910,
+  "responses": [
+    668452406,
+    853278450,
+    867667360,
+    639450290,
+    415974054
+  ]
+}

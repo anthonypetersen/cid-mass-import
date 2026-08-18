@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_skin_exam_self_report",
+  "conceptID": 619378167,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "sourceConceptId": 167225166,
+  "responses": [
+    636615193,
+    390662015,
+    756472591,
+    365687810,
+    504786462
+  ]
+}

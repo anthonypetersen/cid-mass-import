@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_chemotherapy_adulthood",
+  "conceptID": 963076003,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "sourceConceptId": 723779304,
+  "responses": [
+    398729598,
+    376835754,
+    232880924,
+    554137503,
+    340659906
+  ]
+}

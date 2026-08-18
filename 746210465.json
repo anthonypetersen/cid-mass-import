@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_surgery_past_12_months",
+  "conceptID": 746210465,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "responses": [
+    737532966,
+    362342904,
+    347936215,
+    402939888,
+    126196117
+  ]
+}

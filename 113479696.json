@@ -1,0 +1,14 @@
+{
+  "key": "change_in_arthritis_diagnostic",
+  "conceptID": 113479696,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "sourceConceptId": 557196660,
+  "responses": [
+    286258710,
+    666013050,
+    898190979,
+    393740167,
+    813184577
+  ]
+}

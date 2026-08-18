@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_breastfeeding_suspected",
+  "conceptID": 530501476,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "sourceConceptId": 723779304,
+  "responses": [
+    858813191,
+    725558684,
+    994610339,
+    901178317,
+    488702322
+  ]
+}

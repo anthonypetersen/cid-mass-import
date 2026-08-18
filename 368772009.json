@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_colonoscopy_confirmed",
+  "conceptID": 368772009,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "sourceConceptId": 167225166,
+  "responses": [
+    253750658,
+    604867735,
+    363253336,
+    455190699,
+    490969770
+  ]
+}

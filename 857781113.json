@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_pregnancy_screening",
+  "conceptID": 857781113,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "sourceConceptId": 283771088,
+  "responses": [
+    555888342,
+    708991182,
+    784719415,
+    992310951,
+    834379624
+  ]
+}

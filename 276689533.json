@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_hospitalization_confirmed",
+  "conceptID": 276689533,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "sourceConceptId": 283771088,
+  "responses": [
+    969753436,
+    775097819,
+    695080474,
+    816745084,
+    593927418
+  ]
+}

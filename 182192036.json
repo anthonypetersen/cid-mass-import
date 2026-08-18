@@ -1,0 +1,13 @@
+{
+  "key": "date_of_mammogram_screening",
+  "conceptID": 182192036,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "responses": [
+    394585074,
+    545736293,
+    649782848,
+    591725867,
+    630368149
+  ]
+}

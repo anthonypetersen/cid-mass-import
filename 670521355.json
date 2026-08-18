@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_sleep_apnea_first_occurrence",
+  "conceptID": 670521355,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "responses": [
+    643539294,
+    540318200,
+    265621100,
+    142726657,
+    734996610
+  ]
+}

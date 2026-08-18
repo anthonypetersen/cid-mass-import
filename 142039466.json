@@ -1,0 +1,11 @@
+{
+  "key": "self_reported_colonoscopy_lifetime",
+  "conceptID": 142039466,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "responses": [
+    179171223,
+    949361722,
+    948065095
+  ]
+}

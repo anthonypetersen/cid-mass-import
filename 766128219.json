@@ -1,0 +1,13 @@
+{
+  "key": "has_ever_arthritis_pre_enrollment",
+  "conceptID": 766128219,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "responses": [
+    223568566,
+    199848849,
+    114258614,
+    424401117,
+    533550265
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "key": "last_occurrence_skin_exam_self_report",
+  "conceptID": 103513038,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "responses": [
+    179171223,
+    949361722,
+    488023747
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "reason_for_asthma_pre_enrollment",
+  "conceptID": 361508872,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "responses": [
+    223568566,
+    199848849,
+    114258614,
+    424401117,
+    533550265
+  ]
+}

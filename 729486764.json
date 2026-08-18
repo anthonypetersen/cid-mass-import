@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_smoking_self_report",
+  "conceptID": 729486764,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "responses": [
+    858873535,
+    769258593,
+    148190165,
+    162406278,
+    252371216
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "change_in_radiation_exposure_suspected",
+  "conceptID": 227029972,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "sourceConceptId": 363692473,
+  "responses": [
+    636615193,
+    390662015,
+    756472591,
+    365687810,
+    504786462
+  ]
+}
