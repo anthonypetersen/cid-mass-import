@@ -11,12 +11,6 @@
       "label": "Key",
       "type": "text",
       "required": true
-    },
-    {
-      "id": "test",
-      "label": "Test",
-      "type": "text",
-      "required": false
     }
   ],
   "SECONDARY": [
