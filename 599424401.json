@@ -1,6 +1,7 @@
 {
   "object_type": "SECONDARY",
   "conceptID": "599424401",
-  "key": "S5",
-  "primaryConceptId": "473373555"
+  "key": "S5-T",
+  "primaryConceptId": "473373555",
+  "conceptId": "599424401"
 }
